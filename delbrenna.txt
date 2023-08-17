@@ -1,0 +1,4407 @@
+  <!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+
+
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+  <!-- Title and description ================================================== -->
+  <title>
+  Handmade Jewelry from Italy | Tuscany | DelBrenna
+  </title>
+
+  
+  <meta name="description" content="The DelBrenna family has been handcrafting jewelry for three generations in Italy. Our jewelry&#39;s soul is our handmade chain, a family secret incorporated into all designs. We&#39;ve launched boutiques in Cortona, Italy, and Kansas City, USA. DelBrenna jewelry is made in sterling silver 925 at the family studio in Tuscany.">
+  
+
+  <!-- Product meta ================================================== -->
+  
+
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Handmade Jewelry from Italy | Tuscany | DelBrenna">
+  
+  <meta property="og:image" content="http://delbrenna.com/cdn/shop/files/Logo_Medium_PNG_1db6cb2e-bcd5-4e43-bc7a-57172589c612_grande.png?v=1619699129">
+  <meta property="og:image:secure_url" content="https://delbrenna.com/cdn/shop/files/Logo_Medium_PNG_1db6cb2e-bcd5-4e43-bc7a-57172589c612_grande.png?v=1619699129">
+  
+
+
+  <meta property="og:description" content="The DelBrenna family has been handcrafting jewelry for three generations in Italy. Our jewelry&#39;s soul is our handmade chain, a family secret incorporated into all designs. We&#39;ve launched boutiques in Cortona, Italy, and Kansas City, USA. DelBrenna jewelry is made in sterling silver 925 at the family studio in Tuscany.">
+
+
+  <meta property="og:url" content="https://delbrenna.com/">
+  <meta property="og:site_name" content="DelBrenna">
+  <!-- /snippets/twitter-card.liquid -->
+
+
+
+
+
+
+<meta name="twitter:image" content="https://delbrenna.com/cdn/shop/files/Logo_Medium_PNG_1db6cb2e-bcd5-4e43-bc7a-57172589c612_grande.png?v=1619699129">
+<meta name="twitter:image:width" content="240">
+<meta name="twitter:image:height" content="240">
+
+
+
+
+  <!-- Helpers ================================================== -->
+  <link rel="canonical" href="https://delbrenna.com/">
+  <link canonical-shop-url="https://delbrenna.com/">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/vendor.min.css?v=72559489221033970801646033688" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/theme-styles.css?v=89125201207080076221668100566" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/theme-styles-responsive.css?v=20992727209497062941648441278" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/theme-settings.css?v=100979737843621854851691154629" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/header-05.css?v=24831908534956197621646033654" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/header-06.css?v=85907022626976746251646033655" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/header-07.css?v=15486058026598258081646033655" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/header-08.css?v=32205214482966257211646033657" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/footer-06.css?v=132629616272968652451646033633" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/footer-07.css?v=75870158675213325081646033633" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/footer-08.css?v=17161311055609253561646033634" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/footer-09.css?v=31723816694365087181646033634" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/product-skin.css?v=41436210070572299331646033675" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/layout_style_1170.css?v=2921510718573639591646033669" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/layout_style_fullwidth.css?v=139908533630461757151646033671" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/layout_style_flower.css?v=46301794337413993831646033671" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/layout_style_suppermarket.css?v=46640352603034677401646033672" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/layout_style_surfup.css?v=161794798811255985891646033673" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/product-supermarket.css?v=81307210399932240901646033675" as="style">
+  <link rel="preload" href="//delbrenna.com/cdn/shop/t/14/assets/jquery.min.js?v=56888366816115934351646033664" as="script">
+
+  <!-- Favicon -->
+  
+  <link rel="shortcut icon" href="//delbrenna.com/cdn/shop/files/Favicon_32x32.png?v=1613748321" type="image/png">
+  
+  
+  <!-- Styles -->
+  <style>
+    
+
+        
+        
+        
+        
+
+        @font-face { font-display: swap;
+  font-family: Lato;
+  font-weight: 400;
+  font-style: normal;
+  src: url("//delbrenna.com/cdn/fonts/lato/lato_n4.c86cddcf8b15d564761aaa71b6201ea326f3648b.woff2?h1=ZGVsYnJlbm5hLmNvbQ&h2=ZGVsYnJlbm5hamV3ZWxyeS5jb20&h3=aG9vcHNlYXJyaW5ncy5jb20&h4=ZGVsYnJlbm5hLWpld2VscnkuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=ca714d0d49a6c55c0af7cab5511d818c17a59664cfb3648c98c9ed7b2d8a36fb") format("woff2"),
+       url("//delbrenna.com/cdn/fonts/lato/lato_n4.e0ee1e2c008a0f429542630edf70be01045ac5e9.woff?h1=ZGVsYnJlbm5hLmNvbQ&h2=ZGVsYnJlbm5hamV3ZWxyeS5jb20&h3=aG9vcHNlYXJyaW5ncy5jb20&h4=ZGVsYnJlbm5hLWpld2VscnkuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=24457c83edfc42bcd10c3475641ea1193e2dcf8033e45b36a02241959fbd4b77") format("woff");
+}
+
+        @font-face { font-display: swap;
+  font-family: Lato;
+  font-weight: 500;
+  font-style: normal;
+  src: url("//delbrenna.com/cdn/fonts/lato/lato_n5.10bc1bd2bdb4c0ac35363745e79901b69a0be29a.woff2?h1=ZGVsYnJlbm5hLmNvbQ&h2=ZGVsYnJlbm5hamV3ZWxyeS5jb20&h3=aG9vcHNlYXJyaW5ncy5jb20&h4=ZGVsYnJlbm5hLWpld2VscnkuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=a775600d5c1ce689d32003969ee2ad7411ceb49d0dd0d0c47153bf61e44b75c1") format("woff2"),
+       url("//delbrenna.com/cdn/fonts/lato/lato_n5.f7f0195bc06ce869daac4bf73d242fb9b37734db.woff?h1=ZGVsYnJlbm5hLmNvbQ&h2=ZGVsYnJlbm5hamV3ZWxyeS5jb20&h3=aG9vcHNlYXJyaW5ncy5jb20&h4=ZGVsYnJlbm5hLWpld2VscnkuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=1751380952b7db3d38e8782561f28c09e7602060f4099770c33c79b3703833c8") format("woff");
+}
+
+        @font-face { font-display: swap;
+  font-family: Lato;
+  font-weight: 600;
+  font-style: normal;
+  src: url("//delbrenna.com/cdn/fonts/lato/lato_n6.8f129fde40f203553b1c63523c8c34e59550404e.woff2?h1=ZGVsYnJlbm5hLmNvbQ&h2=ZGVsYnJlbm5hamV3ZWxyeS5jb20&h3=aG9vcHNlYXJyaW5ncy5jb20&h4=ZGVsYnJlbm5hLWpld2VscnkuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=4826fcb4151410ca2b3e76a681add01d3a2882e9fac11e940709f570866a3c96") format("woff2"),
+       url("//delbrenna.com/cdn/fonts/lato/lato_n6.822b168fbb902b52be8d60ec7a9fd5122a4894fe.woff?h1=ZGVsYnJlbm5hLmNvbQ&h2=ZGVsYnJlbm5hamV3ZWxyeS5jb20&h3=aG9vcHNlYXJyaW5ncy5jb20&h4=ZGVsYnJlbm5hLWpld2VscnkuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=58dd44c670ba480642eabac70a765dc33a6a478af3b5d91f14a04e9f4eda428d") format("woff");
+}
+
+        @font-face { font-display: swap;
+  font-family: Lato;
+  font-weight: 700;
+  font-style: normal;
+  src: url("//delbrenna.com/cdn/fonts/lato/lato_n7.f0037142450bd729bdf6ba826f5fdcd80f2787ba.woff2?h1=ZGVsYnJlbm5hLmNvbQ&h2=ZGVsYnJlbm5hamV3ZWxyeS5jb20&h3=aG9vcHNlYXJyaW5ncy5jb20&h4=ZGVsYnJlbm5hLWpld2VscnkuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d86e633255c8b671587e450455e4d4e934ffd4ad1cee72e2994f58f6a6440dc9") format("woff2"),
+       url("//delbrenna.com/cdn/fonts/lato/lato_n7.50161a3d4f05d049b7407d86c5a8834e4d6e29bf.woff?h1=ZGVsYnJlbm5hLmNvbQ&h2=ZGVsYnJlbm5hamV3ZWxyeS5jb20&h3=aG9vcHNlYXJyaW5ncy5jb20&h4=ZGVsYnJlbm5hLWpld2VscnkuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=07d303c1c7e2d9cbdb1ea468fb0cb7baaf40f9bee6df0d41ceeb59ebc0cce3b2") format("woff");
+}
+
+
+		    
+
+        
+			      
+        
+    
+    :root {
+      --font_size: 14px;
+      --font_size_minus1: 13px;
+      --font_size_minus2: 12px;
+      --font_size_minus3: 11px;
+      --font_size_minus4: 10px;
+      --font_size_plus1: 15px;
+      --font_size_plus2: 16px;
+      --font_size_plus3: 17px;
+      --font_size_plus4: 18px;
+      --font_size_plus5: 19px;
+      --font_size_plus6: 20px;
+      --font_size_plus7: 21px;
+      --font_size_plus8: 22px;
+      --font_size_plus9: 23px;
+      --font_size_plus10: 24px;
+      --font_size_plus11: 25px;
+      --font_size_plus12: 26px;
+      --font_size_plus13: 27px;
+      --font_size_plus14: 28px;
+      --font_size_plus15: 29px;
+      --font_size_plus16: 30px;
+      --font_size_plus18: 32px;
+      --font_size_plus21: 35px;
+      --font_size_plus22: 36px;
+      --font_size_plus23: 37px;
+      --font_size_plus24: 38px;
+      --font_size_plus29: 43px;
+      --font_size_plus33: 47px;
+
+	  --fonts_name: Lato,sans-serif;
+	  --fonts_name_2: Lato,sans-serif;
+
+      /* Color */
+      --body_bg: #ffffff;
+      --body_color: #3c3c3c;
+      --link_color: #212121;
+      --link_color_hover: #676767;
+
+      /* Breadcrumb */
+      --breadcrumb_color : #999999;
+      --breadcrumb_text_transform : capitalize;
+
+      /* Header and Title */
+      --page_title_font_size: 21px;
+      --page_title_font_size_minus4: 17px;
+      --page_title_font_size_plus5: 26px;
+      --page_title_color: #232323;
+      --page_title_text_align : left;
+
+      /* Product  */
+      --product_text_transform : none;
+      --product_name_text_align : center;
+      --color_title_pr: #232323;
+      --color_title_pr_hover: #232323;
+      --color_vendor : #232323;
+      --sale_text : #505050;
+      --bg_sale : #e6e6e6;
+      --custom_label_text : #ffffff;
+      --custom_label_bg : #323232;
+      --bundle_label_text : #ffffff;
+      --bundle_label_bg : #232323;
+      --new_label_text : #323232;
+      --new_label_bg : #ffffff;
+      --new_label_border : #f6f6f6;
+      --sold_out_text : #ffffff;
+      --bg_sold_out : #c1c1c1;
+      --color_price: #232323;
+      --color_price_sale: #505050;
+      --color_compare_price: #969696;
+      --color_compare_product: #3c3c3c;
+      
+        
+        --color_quick_view: rgba(255, 255, 255, 0.7);
+        --bg_quick_view: rgba(0, 0, 0, 0.8);
+        
+      
+      --color_wishlist: #232323;
+      --bg_wishlist: #f8f8f8;
+      --bg_wishlist_active: #ffe5e5;
+
+
+      /* Button 1 */
+      --background_1: #ffcece;
+      --color_1 : #1f1f1f;
+      --border_1 : #202020;
+
+      /* Button 2 */
+      --background_2: #ffffff;
+      --color_2 : #232323;
+      --border_2 : #232323;
+
+      /* Button 3 */
+      --background_3: #ffffff;
+      --color_3 : #1f1f1f;
+      --border_3 : #000000;
+
+      /* Button Add To Cart */
+      --color_add_to_cart : #fff;
+      --border_add_to_cart : #202020;
+      --background_add_to_cart : #000;
+
+      --color_add_to_cart_hover : #000;
+      --border_add_to_cart_hover : #000;
+      --background_add_to_cart_hover : #fff;
+
+
+      /* Button */
+      
+        --button_font_family: Lato,sans-serif;
+      
+      --button_font_size: px;
+      --button_font_weight: ;
+      --button_border_radius: px;
+      --button_border_width: px;
+      --button_border_style: ;
+      --button_text_align: ;
+      --button_text_transform: ;
+      --button_letter_spacing: ;
+      --button_padding_top: px;
+      --button_padding_bottom: px;
+      --button_padding_left: px;
+      --button_padding_right: px;
+
+      
+
+      /* Border Color */
+      --border_widget_title : #e0e0e0;
+      --border_color_1 : #ebebeb;
+      --border_color_2: #e7e7e7;
+      --border_page_title: #eaeaea;
+      --border_input: #cbcbcb;
+      --border_checkbox: #d0d0d0;
+      --border_dropdown: #dadada;
+      --border_bt_sidebar : #f6f6f6;
+      --color_icon_drop: #6b6b6b;
+
+      
+          --color_ipt: #3c3c3c;
+        
+
+      
+      --color_slick_arrow: #000000;
+      --color_border_slick_arrow: #e5e5e5;
+      --color_bg_slick_arrow: #e5e5e5;
+      
+
+      /*color Mobile*/
+
+      --color_menu_mb: #232323;
+      --color_menu_level3: #3c3c3c;
+
+      /* Mixin ================= */
+      
+          --padding_btn: 20px 15px 18px !important;
+          --padding_btn_bundle: 20px 15px 18px;
+          --padding_btn_qv_add_to_cart: 20px 15px 18px;
+          --font_size_btn: var(--font_size);
+          --letter_spacing_btn: 0;
+      
+
+      
+      
+          --color-price-box: var(--color_compare_price);
+      
+
+      --color_review: #232323;
+      --color_review_empty: #232323;
+
+      --border-product-image: #e6e6e6;
+
+      
+      --border-radius-17: 17px;
+      --border-radius-50: 50%;
+      
+    }
+</style>
+  <link href="//delbrenna.com/cdn/shop/t/14/assets/vendor.min.css?v=72559489221033970801646033688" rel="stylesheet" type="text/css" media="all" />
+<link href="//delbrenna.com/cdn/shop/t/14/assets/theme-styles.css?v=89125201207080076221668100566" rel="stylesheet" type="text/css" media="all" />
+<link href="//delbrenna.com/cdn/shop/t/14/assets/theme-styles-responsive.css?v=20992727209497062941648441278" rel="stylesheet" type="text/css" media="all" />
+<link href="//delbrenna.com/cdn/shop/t/14/assets/theme-settings.css?v=100979737843621854851691154629" rel="stylesheet" type="text/css" media="all" />
+
+
+
+	<link href="//delbrenna.com/cdn/shop/t/14/assets/layout_style_1170.css?v=2921510718573639591646033669" rel="stylesheet" type="text/css" media="all" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+   <!-- Scripts -->
+  <script src="//delbrenna.com/cdn/shop/t/14/assets/jquery.min.js?v=56888366816115934351646033664" type="text/javascript"></script>
+<script src="//delbrenna.com/cdn/shop/t/14/assets/jquery-cookie.min.js?v=72365755745404048181646033663" type="text/javascript"></script>
+<script src="//delbrenna.com/cdn/shop/t/14/assets/lazysizes.min.js?v=84414966064882348651646033673" type="text/javascript"></script>
+
+<script>
+  	window.lazySizesConfig = window.lazySizesConfig || {};
+    lazySizesConfig.loadMode = 1;
+    window.lazySizesConfig.init = false;
+    lazySizes.init();
+  
+    window.ajax_cart = "upsell";
+    window.money_format = "${{amount}}";//"${{amount}} USD";
+    window.shop_currency = "USD";
+    window.show_multiple_currencies = false;
+    window.use_color_swatch = true;
+    window.color_swatch_style = "variant";
+    window.enable_sidebar_multiple_choice = true;
+    window.file_url = "//delbrenna.com/cdn/shop/files/?14222";
+    window.asset_url = "";
+    window.router = "";
+    window.swatch_recently = "color";
+    window.label_sale = "discount_sale";
+    window.layout_style = "layout_style_1170";
+    window.layout_home = "";
+    window.product_style = "full_with";
+    window.category_style = "skin_1";
+    window.layout_body = "default";
+    
+    window.inventory_text = {
+        in_stock: "In stock",
+        many_in_stock: "Many in stock",
+        out_of_stock: "Out of stock",
+        add_to_cart: "Add to cart",
+        add_all_to_cart: "Add all to Cart",
+        sold_out: "Sold Out",
+        select_options : "Select options",
+        unavailable: "Sold Out",
+        view_all_collection: "View All",
+        no_more_product: "No more product",
+        show_options: "Show Variants",
+        hide_options: "Hide Variants",
+        adding : "Adding",
+        thank_you : "Thank You",
+        add_more : "Add More",
+        cart_feedback : "Added",
+        add_wishlist : "Add to Wish List",
+        remove_wishlist : "Remove Wish List",
+        add_wishlist_1 : "Add to wishlist",
+        remove_wishlist_1 : "Remove wishlist",
+        previous: "Prev",
+        next: "Next",
+      	pre_order : "Pre Order",
+        hotStock: "Hurry up! only [inventory] left",
+        view_more: "View All",
+        view_less : "View Less",
+        show_more: "Show More",
+        show_less : "Show Less",
+        days : "Days",
+        hours : "Hours",
+        mins : "Mins",
+        secs : "Secs",
+
+        customlabel: "Custom Label",
+        newlabel: "New",
+        salelabel: "Sale",
+        soldoutlabel: "Sold Out",
+        bundlelabel: "Bundle",
+
+        message_compare : "You must select at least two products to compare!",
+        message_iscart : "is added to your shopping cart.",
+
+        add_compare : "Add to compare",
+        remove_compare : "Remove compare",
+        remove: "Remove",
+        warning_quantity: "Maximum quantity",
+    };
+    window.multi_lang = false;
+    window.infinity_scroll_feature = true;
+    window.newsletter_popup = false;
+    window.hidden_newsletter = false;
+    window.option_ptoduct1 = "size";
+    window.option_ptoduct2 = "color";
+    window.option_ptoduct3 = "option 3"
+
+    /* Free Shipping Message */
+    window.free_shipping_color1 = "#F44336";  
+    window.free_shipping_color2 = "#FF9800";
+    window.free_shipping_color3 = "#69c69c";
+    window.free_shipping_price = 800;
+    window.free_shipping_text = {
+        free_shipping_message_1: "You qualify for free shipping!",
+        free_shipping_message_2:"Only",
+        free_shipping_message_3: "away from",
+        free_shipping_message_4: "free shipping",
+        free_shipping_1: "Free",
+        free_shipping_2: "TBD",
+    }
+
+</script>
+  
+  <!-- IP REDIRECT CODE -->
+  
+
+  <script src="//geoip-js.com/js/apis/geoip2/v2.1/geoip2.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    
+    function setCookie(name,value,days) {
+      var expires = "";
+      if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+      }
+      document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+    }
+    
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    
+    function eraseCookie(name) {   
+        document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+
+    var redirect = (function () {
+      
+      /* This implements the actual redirection. */
+      var redirectBrowser = function () {
+        var uri = "https://delbrenna.it";
+        window.location = uri;
+        
+      };
+
+      var onSuccess = function (geoipResponse) {
+        /* There's no guarantee that a successful response object
+             * has any particular property, so we need to code defensively. */
+        if (!geoipResponse.continent.code) {
+          console.log('Could not get continent code');
+          return;
+        }
+
+        /* ISO country codes are in upper case. */
+        var code = geoipResponse.continent.code.toLowerCase();
+
+        if ( code == 'na' ) {
+          setCookie('ipcookie','na',7);
+          console.log('Cookie for NA has been set!');
+        }
+        else if ( code == 'eu' ) {
+          redirectBrowser();
+        }
+        
+        else {
+          setCookie('ipcookie','na',7);
+        }
+      };
+
+      /* We don't really care what the error is, we'll console log */
+      var onError = function (error) {
+        console.log('There was an error with geoip');
+      };
+
+      return function () {
+        var ipCookie = getCookie('ipcookie');
+        console.log(ipCookie);
+        if (ipCookie === 'na') {
+        console.log('Redirect API did not fire since ipCookie is NA');
+        }
+        else {
+          geoip2.country( onSuccess, onError );
+        }
+      };
+    }());
+
+redirect();
+
+</script>
+  
+
+
+  <!-- Header hook for plugins ================================ -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="6xOojKKpog5coGMx0uBHZeCb0KwGAdOie18L0Ap1gh8">
+<meta name="google-site-verification" content="H4Rmt37XEja6JLPcDD4oJnijLz5ppbZ5A5jMpxqKv0Y">
+<meta name="facebook-domain-verification" content="zrzp3fsa32gv3pkca9kwz2p3cgl98q">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/34046541957/digital_wallets/dialog">
+<link rel="alternate" hreflang="x-default" href="https://delbrenna.com/">
+<link rel="alternate" hreflang="en-US" href="https://delbrenna.com/">
+<link rel="alternate" hreflang="en-CA" href="https://delbrenna.com/en-ca">
+<script>
+  (function() {
+    var scripts = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.baseline.en.31510737ba679927bc07.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/809.baseline.en.f398d37a1955c4eb6e20.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/810.baseline.en.d3de5a49b3f490317ed3.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.baseline.en.598fd1a0b9f027f03165.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/518.baseline.en.b6f6028734bdb345451b.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/253.baseline.en.14d4860bd9e523020e95.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/27.baseline.en.fb6cd517125a27d477b3.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.baseline.en.b1b6373f56b94fe616aa.js"];
+    var styles = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/518.baseline.en.720b740d411e8606a89f.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.baseline.en.4d89df24e62128b7fa65.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/739.baseline.en.0c17b1c57e10844613f2.css"];
+
+    function prefetch(url, as, callback) {
+      var link = document.createElement('link');
+      if (link.relList.supports('prefetch')) {
+        link.rel = 'prefetch';
+        link.fetchPriority = 'low';
+        link.as = as;
+        link.href = url;
+        link.onload = link.onerror = callback;
+        document.head.appendChild(link);
+      } else {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onloadend = callback;
+        xhr.send();
+      }
+    }
+
+    function prefetchAssets() {
+      var resources = [].concat(
+        scripts.map(function(url) { return [url, 'script']; }),
+        styles.map(function(url) { return [url, 'style']; })
+      );
+      var index = 0;
+      (function next() {
+        var res = resources[index++];
+        if (res) prefetch(res[0], res[1], next);
+      })();
+    }
+
+    addEventListener('load', prefetchAssets);
+   })();
+</script>
+<script id="shopify-features" type="application/json">{"accessToken":"2c639436294da0a12bac230c98054cca","betas":["rich-media-storefront-analytics"],"domain":"delbrenna.com","predictiveSearch":true,"shopId":34046541957,"smart_payment_buttons_url":"https:\/\/delbrenna.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/delbrenna.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":false,"optimusHidden":false,"betterDynamicCheckoutRecommendation":false}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "delbrenna-jewelry.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"DelBrenna 2.0 v2","id":131204415712,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=UCLtXX\u0026shop=delbrenna-jewelry.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=UCLtXX\u0026shop=delbrenna-jewelry.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0340\/4654\/1957\/t\/4\/assets\/affirmShopify.js?v=1594864427\u0026shop=delbrenna-jewelry.myshopify.com","https:\/\/cdn1.stamped.io\/files\/widget.min.js?shop=delbrenna-jewelry.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=RewDLD\u0026shop=delbrenna-jewelry.myshopify.com","https:\/\/instafeed.nfcube.com\/cdn\/7c97e434fd5fbc3f2a6a3446609abcba.js?shop=delbrenna-jewelry.myshopify.com","https:\/\/api-shop.emotionalcommerce.com\/js\/emotional-comm.js?token=7bc1e54d6bbfd7ec26592791aff9b1d17c970c57\u0026sub_domain=delbrenna-jewelry-it\u0026shop_id=120\u0026shop=delbrenna-jewelry.myshopify.com","https:\/\/geolocation-recommendations.shopifyapps.com\/locale_bar\/script.js?shop=delbrenna-jewelry.myshopify.com","https:\/\/call.chatra.io\/shopify?chatraId=3vmFAMAwQrCNNfWez\u0026shop=delbrenna-jewelry.myshopify.com","https:\/\/app.showpopup.com\/storage\/js\/kaktus_popup-delbrenna-jewelry.myshopify.com.js?ver=21\u0026shop=delbrenna-jewelry.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":34046541957,"offset":-18000,"reqid":"5d762877-1ff0-48b5-b6d1-8e409b10e7f7","pageurl":"delbrenna.com\/","u":"105ab1fa3f9b","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-atgy37M9Jn61+JKsuMFsbCkWlGMgmOcwfLDPeUl9V2s=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//delbrenna.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-6ad832dfb33d267eb5f892acb8c16c6c291694632098e7307cb0cf79497d576b.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//delbrenna.com/cdn/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+  <![endif]-->
+
+  
+  
+  
+
+  <script>
+
+    Shopify.productOptionsMap = {};
+    Shopify.quickViewOptionsMap = {};
+
+    Shopify.updateOptionsInSelector = function(selectorIndex, wrapperSlt) {
+        Shopify.optionsMap = wrapperSlt === '.product' ? Shopify.productOptionsMap : Shopify.quickViewOptionsMap;
+
+        switch (selectorIndex) {
+            case 0:
+                var key = 'root';
+                var selector = $(wrapperSlt + ' .single-option-selector:eq(0)');
+                break;
+            case 1:
+                var key = $(wrapperSlt + ' .single-option-selector:eq(0)').val();
+                var selector = $(wrapperSlt + ' .single-option-selector:eq(1)');
+                break;
+            case 2:
+                var key = $(wrapperSlt + ' .single-option-selector:eq(0)').val();
+                key += ' / ' + $(wrapperSlt + ' .single-option-selector:eq(1)').val();
+                var selector = $(wrapperSlt + ' .single-option-selector:eq(2)');
+        }
+
+        var initialValue = selector.val();
+        selector.empty();
+
+        var availableOptions = Shopify.optionsMap[key];
+
+        if (availableOptions && availableOptions.length) {
+            for (var i = 0; i < availableOptions.length; i++) {
+                var option = availableOptions[i].replace('-sold-out','');
+                var newOption = $('<option></option>').val(option).html(option);
+
+                selector.append(newOption);
+            }
+
+            $(wrapperSlt + ' .swatch[data-option-index="' + selectorIndex + '"] .swatch-element').each(function() {
+                // debugger;
+                if ($.inArray($(this).attr('data-value'), availableOptions) !== -1) {
+                    $(this).addClass('available').removeClass('soldout').find(':radio').prop('disabled',false).prop('checked',true);
+                }
+                else {
+                    if ($.inArray($(this).attr('data-value') + '-sold-out', availableOptions) !== -1) {
+                        $(this).addClass('available').addClass('soldout').find(':radio').prop('disabled',false).prop('checked',true);
+                    } else {
+                        $(this).removeClass('available').addClass('soldout').find(':radio').prop('disabled',true).prop('checked',false);
+                    }
+                    
+                }
+            });
+
+            if ($.inArray(initialValue, availableOptions) !== -1) {
+                selector.val(initialValue);
+            }
+
+            selector.trigger('change');
+        };
+    };
+
+    Shopify.linkOptionSelectors = function(product, wrapperSlt, check) {
+        // Building our mapping object.
+        Shopify.optionsMap = wrapperSlt === '.product' ? Shopify.productOptionsMap : Shopify.quickViewOptionsMap;
+        var arr_1= [],
+            arr_2= [],
+            arr_3= [];
+
+        Shopify.optionsMap['root'] == [];
+        for (var i = 0; i < product.variants.length; i++) {
+            var variant = product.variants[i];
+            if (variant) {
+                var key1 = variant.option1;
+                var key2 = variant.option1 + ' / ' + variant.option2;
+                Shopify.optionsMap[key1] = [];
+                Shopify.optionsMap[key2] = [];
+            }
+        }
+        for (var i = 0; i < product.variants.length; i++) {
+            var variant = product.variants[i];
+            if (variant) {
+                if (window.use_color_swatch) {
+                    if (variant.available) {
+                        // Gathering values for the 1st drop-down.
+                        Shopify.optionsMap['root'] = Shopify.optionsMap['root'] || [];
+
+                        // if ($.inArray(variant.option1 + '-sold-out', Shopify.optionsMap['root']) !== -1) {
+                        //     Shopify.optionsMap['root'].pop();
+                        // } 
+
+                        arr_1.push(variant.option1);
+                        arr_1 = $.unique(arr_1);
+
+                        Shopify.optionsMap['root'].push(variant.option1);
+
+                        Shopify.optionsMap['root'] = Shopify.uniq(Shopify.optionsMap['root']);
+
+                        // Gathering values for the 2nd drop-down.
+                        if (product.options.length > 1) {
+                        var key = variant.option1;
+                            Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+                            // if ($.inArray(variant.option2 + '-sold-out', Shopify.optionsMap[key]) !== -1) {
+                            //     Shopify.optionsMap[key].pop();
+                            // } 
+                            Shopify.optionsMap[key].push(variant.option2);
+                            if ($.inArray(variant.option2, arr_2) === -1) {
+                                arr_2.push(variant.option2);
+                                arr_2 = $.unique(arr_2);
+                            }
+                            Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+                        }
+
+                        // Gathering values for the 3rd drop-down.
+                        if (product.options.length === 3) {
+                            var key = variant.option1 + ' / ' + variant.option2;
+                            Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+                            Shopify.optionsMap[key].push(variant.option3);
+
+                            if ($.inArray(variant.option3, arr_3) === -1) {
+                                arr_3.push(variant.option3);
+                                arr_3 = $.unique(arr_3);
+                            }
+                            
+                            Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+                        }
+                    } else {
+                        // Gathering values for the 1st drop-down.
+                        Shopify.optionsMap['root'] = Shopify.optionsMap['root'] || [];
+                        if ($.inArray(variant.option1, arr_1) === -1) {
+                            Shopify.optionsMap['root'].push(variant.option1 + '-sold-out');
+                        }
+                        
+                        Shopify.optionsMap['root'] = Shopify.uniq(Shopify.optionsMap['root']);
+
+                        // Gathering values for the 2nd drop-down.
+                        if (product.options.length > 1) {
+                            var key = variant.option1;
+                            Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+                            // Shopify.optionsMap[key].push(variant.option2);
+
+                            // if ($.inArray(variant.option2, arr_2) === -1) {
+                                Shopify.optionsMap[key].push(variant.option2 + '-sold-out');
+                            // }
+                            
+                            Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+                        }
+
+                        // Gathering values for the 3rd drop-down.
+                        if (product.options.length === 3) {
+                            var key = variant.option1 + ' / ' + variant.option2;
+                            Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+//                             if ($.inArray(variant.option3, arr_3) === -1) {
+                                Shopify.optionsMap[key].push(variant.option3 + '-sold-out');
+//                             }
+                            Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+                        }
+
+                    }
+                } else {
+                    // Gathering values for the 1st drop-down.
+                    if (check) {
+                        if (variant.available) {
+                            Shopify.optionsMap['root'] = Shopify.optionsMap['root'] || [];
+                            Shopify.optionsMap['root'].push(variant.option1);
+                            Shopify.optionsMap['root'] = Shopify.uniq(Shopify.optionsMap['root']);
+
+                            // Gathering values for the 2nd drop-down.
+                            if (product.options.length > 1) {
+                            var key = variant.option1;
+                                Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+                                Shopify.optionsMap[key].push(variant.option2);
+                                Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+                            }
+
+                            // Gathering values for the 3rd drop-down.
+                            if (product.options.length === 3) {
+                                var key = variant.option1 + ' / ' + variant.option2;
+                                Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+                                Shopify.optionsMap[key].push(variant.option3);
+                                Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+                            }
+                        }
+                    } else {
+                        Shopify.optionsMap['root'] = Shopify.optionsMap['root'] || [];
+
+                        Shopify.optionsMap['root'].push(variant.option1);
+                        Shopify.optionsMap['root'] = Shopify.uniq(Shopify.optionsMap['root']);
+
+                        // Gathering values for the 2nd drop-down.
+                        if (product.options.length > 1) {
+                        var key = variant.option1;
+                            Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+                            Shopify.optionsMap[key].push(variant.option2);
+                            Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+                        }
+
+                        // Gathering values for the 3rd drop-down.
+                        if (product.options.length === 3) {
+                            var key = variant.option1 + ' / ' + variant.option2;
+                            Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+                            Shopify.optionsMap[key].push(variant.option3);
+                            Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+                        }
+                    }
+                    
+                }
+            }
+        };
+
+        // Update options right away.
+        Shopify.updateOptionsInSelector(0, wrapperSlt);
+
+        if (product.options.length > 1) Shopify.updateOptionsInSelector(1, wrapperSlt);
+        if (product.options.length === 3) Shopify.updateOptionsInSelector(2, wrapperSlt);
+
+        // When there is an update in the first dropdown.
+        $(wrapperSlt + " .single-option-selector:eq(0)").change(function() {
+            Shopify.updateOptionsInSelector(1, wrapperSlt);
+            if (product.options.length === 3) Shopify.updateOptionsInSelector(2, wrapperSlt);
+            return true;
+        });
+
+        // When there is an update in the second dropdown.
+        $(wrapperSlt + " .single-option-selector:eq(1)").change(function() {
+            if (product.options.length === 3) Shopify.updateOptionsInSelector(2, wrapperSlt);
+            return true;
+        });
+    };
+</script>
+  
+
+<script id="nx8HmVar" type="text/javascript" >
+    const NX8_HM_CURRENCY_FORMAT = "${{amount}}";
+    const NX8_HM_LINKS = [{ id: "main-menu", title: "2022 Main menu", items: ["/collections/all-iconic-chains","/collections/all-jewelry","/collections/all","/pages/world-of-delbrenna","https://delbrenna.com/pages/experiences",], },{ id: "footer", title: "Footer menu", items: ["/search",], },{ id: "299806032005-child-579578668d04f4bd1c2ab88806febd29-legacy-jewelry", title: "Jewelry", items: ["/collections/necklaces","/collections/pendants","/collections/earrings","/collections/bracelets","/collections/rings","/collections/charms","/collections/new-releases","/collections/cufflinks","/collections/all-jewelry","/collections/18k-gold","/collections/2023-markdown-sale",], },{ id: "assistance", title: "Assistance", items: ["https://delbrenna-jewelry.myshopify.com/account","https://delbrenna-jewelry.myshopify.com/account","/pages/customer-care#shipping-exchanges-returns","/pages/customer-care#shipping-exchanges-returns","/pages/customer-care#faq","/pages/delbrenna-jewelry-lab-services",], },{ id: "301099679877-child-322171a5aa4642788e246a59b9c0de69-legacy-earrings", title: "Earrings", items: ["/collections/chain-link","/collections/stud","/collections/hoop","/collections/statement","/collections/drop",], },{ id: "301099712645-child-a62315488410baf11ee6a06fa8f230da-legacy-bracelets", title: "Bracelets", items: ["/collections/chain-link-1","/collections/statement-1",], },{ id: "303267905669-child-2eb46c1ea926e01e06b48a212051e222-legacy-necklaces", title: "Necklaces", items: ["/collections/chain-link-2","/collections/statement-2","/collections/princess-a","/collections/matinee-b","/collections/opera-d","/collections/rope-c","/collections/t-bar",], },{ id: "experience-events", title: "Our Company", items: ["/pages/about-delbrenna","/pages/timeline","/pages/delbrenna-radio","/policies/terms-of-service","/policies/privacy-policy","/pages/stockists",], },{ id: "need-help", title: "Contact", items: ["/pages/delbrenna-jewelry-styling","/pages/customer-care","/pages/locations",], },{ id: "book-a-delbrenna-moment", title: "Services", items: ["/pages/customer-care","/pages/world-of-delbrenna","https://winedineshine.com/","https://www.molesini-market.com/","/products/gift-card",], },{ id: "299805999237-child-3bc0942291fb9002dcf4bd2c8834485f-legacy-iconic-chains", title: "Iconic Chains", items: ["/collections/all-links","/collections/cylinders-3mm","/collections/all-ciambelle","/collections/all-beads","/collections/all-iconic-chains","/collections/all-diamonds",], },{ id: "322766078085-child-62f845aec4f4971e51ba2e63f8a42dec-legacy-links", title: "Links", items: ["/collections/links-3mm","/collections/links-5mm","/collections/links-7mm","/collections/etruscan-links-7mm","/collections/figaro","/collections/links-2mm","/collections/everything-links",], },{ id: "322766209157-child-52e0fcd43db727d0d35373e3b6085da0-legacy-cylinders", title: "Cylinders", items: ["/collections/cylinders-3mm","/collections/cylinders-7mm","/collections/everything-cylinders",], },{ id: "322766274693-child-e16b9efcad959521b6c54922968eb50c-legacy-ciambelle", title: "Ciambelle", items: ["/collections/ciambelle-3mm","/collections/ciambelle-5mm","/collections/ciambelle-10mm","/collections/everything-ciambelle",], },{ id: "322766372997-child-08bb0f05ad78081e7bd392347279d750-legacy-beads", title: "Beads", items: ["/collections/beads-3mm","/collections/everything-beads",], },{ id: "301098827909-child-3da3839a01087b112af5f158c4a68dc5-legacy-collections", title: "Collections", items: ["/collections/all-jewelry","/collections/all-iconic-chains","/collections/pendants","/collections/inspiration-pieces-1","/collections/cufflinks","/collections/18k-gold","/collections/gifts","/collections/earrings",], },{ id: "sidebar-products-page", title: "Sidebar Products Page", items: ["#","/collections/all-jewelry","/collections/gifts","/collections/shoes",], },{ id: "322766438533-child-0eeb362884a6f0606716bdfb6b4c8e60-legacy-diamond-cut", title: "Diamond-Cut", items: ["/collections/diamond-beads","/collections/ponte-vecchio","/collections/everything-diamond-cut",], },{ id: "second-main-menu", title: "Second Main Menu", items: ["/","/",], },{ id: "346023952546-child-ef6fedf41a0bb4c78102b0321a0c29de-legacy-the-world-of-delbrenna", title: "The World Of Delbrenna", items: ["/pages/about-delbrenna","/pages/how-its-made","/pages/locations","/pages/delbrenna-jewelry-lab-services","/pages/delbrenna-jewelry-styling","/pages/timeline","/pages/customer-care","/pages/wish-list","/blogs/selected-stories",], },{ id: "346025492642-child-79a1496bad111b4a3fb7425b07919adc-legacy-about", title: "About", items: ["/pages/about-delbrenna#story","/pages/about-delbrenna#heritage","/pages/about-delbrenna#philosophy","/pages/about-delbrenna#sebastian-megan",], },{ id: "346025558178-child-3fd6b03a5fb6c0b2652dad1041f144c2-legacy-how-its-made", title: "How It's Made", items: ["/pages/how-its-made#our-process","/pages/how-its-made#the-iconic-chains","/pages/how-its-made#our-metals","/pages/how-its-made#gemstones","/pages/how-its-made#sustainability",], },{ id: "346025590946-child-fbbfa92081598dbed7dec24e18c887b8-legacy-locations", title: "Locations", items: ["/pages/locations#cortona-boutique","/pages/locations#cortona-showroom","/pages/locations#kansas-city-boutique","https://delbrenna.com/pages/locations#florence-atelier",], },{ id: "346025623714-child-858e9ee794ece8d87b968aa780a9b050-legacy-db-lab-services", title: "DB Lab Services", items: ["/pages/delbrenna-jewelry-lab-services#personalizations","/pages/delbrenna-jewelry-lab-services#custom-build-design","/pages/delbrenna-jewelry-lab-services#revive-time-worn-pieces","/pages/delbrenna-jewelry-lab-services#care-and-repair",], },{ id: "346025656482-child-e71889f762f606456adb8cc973f086e8-legacy-jewelry-styling", title: "Jewelry Styling", items: ["/pages/delbrenna-jewelry-styling#chat","/pages/delbrenna-jewelry-styling#consultation",], },{ id: "346025722018-child-5d32e788d722a4823092cb1ab9798512-legacy-customer-care", title: "Customer Care", items: ["/pages/customer-care#consult-customer-care","/account","/pages/customer-care#shipping-exchanges-returns","/pages/customer-care#faq","/pages/customer-care#gift-helper",], },{ id: "377936543906-child-4c3f19f28839bfb8b4b2598b7b2a67db-legacy-availability", title: "Availability", items: ["/collections/in-stock","/collections/pre-order",], },{ id: "377940934818-child-947f67eb79c7e96462412f92cd216b2d-legacy-jewelry", title: "Jewelry", items: ["/collections/cufflinks","/collections/charms","/collections/rings","/collections/pendants","/collections/necklaces","/collections/bracelets","/collections/earrings",], },{ id: "436324303010-child-38872e187c021cd721080b66a33d2de1-legacy-featured", title: "Featured", items: ["/collections/amore-collection","/collections/aperitivo","/collections/botticelli","/collections/bucatini","/collections/bubbles","/collections/filary-coins","/collections/filary-gemstones","/collections/freshwater-pearls","/collections/hammered-beads","/collections/italiana","/collections/magnolia","/collections/mini-filary","/collections/piazza-collection","/collections/signorelli","/collections/sofia","/collections/vivaldi","/collections/wispy",], },{ id: "436324368546-child-a948355298a0a1d3f7b50299f12d3b61-legacy-iconic-chains", title: "Iconic Chains", items: ["/collections/links-3mm","/collections/links-5mm","/collections/links-7mm","/collections/etruscan-links-7mm","/collections/links-2mm","/collections/beads-3mm","/collections/cylinders-3mm","/collections/cylinders-7mm","/collections/ciambelle-3mm","/collections/ciambelle-5mm","/collections/ciambelle-10mm","/collections/diamond-beads","/collections/ponte-vecchio","/collections/figaro",], },{ id: "436324630690-child-f43d509b8940f224dd29c13411673548-legacy-sculptural", title: "Sculptural", items: ["/collections/coins","/collections/italy","/collections/creativity","/collections/heart","/collections/nature","/collections/travel",], },{ id: "436324663458-child-9721b08d4eacb047e4711a120891d57e-legacy-earrings-collections", title: "Earrings Collections", items: ["/collections/chiara","/collections/constantina","/collections/dbandco",], },{ id: "448745406688-child-9e8f739a8770bbd175e34cbee68bbfcb-legacy-more-than-jewelry", title: "More Than Jewelry...", items: ["/collections/scarf-brooches","/collections/gift-cards","/collections/silver-frames","/collections/wine-glasses",], },{ id: "sidebar-menu-2021", title: "Sidebar Menu 2021", items: ["/collections/bracelets","/collections/cufflinks","/collections/charms","/collections/earrings","/collections/gifts","/collections/necklaces","/collections/pendants","/collections/rings","/collections/shoes",], },{ id: "markdown-menu", title: "Markdown Menu", items: ["/collections/markdown-20-off","/collections/markdown-30-off","/collections/markdown-50-off",], },{ id: "preorder", title: "Preorder", items: ["/collections/in-stock","/collections/pre-order",], },{ id: "463985541344-child-ad5dd41e619d9d35483f76a45f9976d6-legacy-experiences", title: "Experiences", items: ["/pages/everyday-at-delbrenna-cortona","/pages/host-your-guests","/pages/cortona-locals-delbrenna-together","/pages/events-at-delbrenna",], },{ id: "463986852064-child-68f079233e6f24584bf1142c5cd95a9d-legacy-everyday-at-delbrenna-cortona", title: "Everyday at DelBrenna, Cortona", items: ["https://delbrenna.com/pages/everyday-at-delbrenna-cortona#historic-location","https://delbrenna.com/pages/everyday-at-delbrenna-cortona#jewelry-museum","https://delbrenna.com/pages/everyday-at-delbrenna-cortona#showroom-studio-tour","https://delbrenna.com/pages/everyday-at-delbrenna-cortona#jewelry-tasting","https://delbrenna.com/pages/everyday-at-delbrenna-cortona#reservations",], },{ id: "463987048672-child-8a06235c0c5807dc1bdf1938458ab35f-legacy-host-your-guests-at-delbrenna-cortona", title: "Host your guests at DelBrenna, Cortona", items: ["https://delbrenna.com/pages/host-your-guests","https://delbrenna.com/pages/host-your-guests","https://delbrenna.com/pages/host-your-guests","https://delbrenna.com/pages/host-your-guests","https://delbrenna.com/pages/host-your-guests","https://delbrenna.com/pages/host-your-guests","https://delbrenna.com/pages/host-your-guests",], },{ id: "463987310816-child-c5cb1cb081a2ac7d51369c1e158183da-legacy-cortona-locals-delbrenna-together", title: "Cortona Locals & Delbrenna, Together", items: ["https://delbrenna.com/pages/cortona-locals-delbrenna-together#wine-dine-shine","https://delbrenna.com/pages/cortona-locals-delbrenna-together#book-a-wine-tasting","https://delbrenna.com/pages/cortona-locals-delbrenna-together#book-olive-balsamic-tasting",], },{ id: "463987474656-child-742ce05c9d9abc8d1ceacdaf0ba9cd27-legacy-events-in-kansas-city-usa-around-the-world", title: "EVENTS IN KANSAS CITY, USA & AROUND THE WORLD", items: ["https://delbrenna.com/pages/events-at-delbrenna#trunkshow-dates","https://www.delbrennaevents.com/home","https://delbrenna.com/pages/events-at-delbrenna#sip-and-shop-party","https://delbrenna.com/pages/events-at-delbrenna#donations",], },];
+    window.nx8HmCurrencyFormat = NX8_HM_CURRENCY_FORMAT;
+    window.nx8HmLinks = NX8_HM_LINKS;
+</script>
+<script type="text/javascript" src="//delbrenna.com/cdn/shop/t/14/assets/nx8_hm_data.js?v=75442059516021113881691784290"></script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 34046541957,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,o,t,r,i){function s(e,n){if(document.head){var a=document.createElement("link");e.match(/spin\.dev\/?/)&&(e+="?fast_storefront_renderer=1"),a.rel="preload",a.href=e,n&&(a.as=n);try{document.head.appendChild(a)}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Could not append prefetch link tag to DOM.")}}}var l=i||[],d=null!==e;d&&(window.Shopify=window.Shopify||{},window.Shopify.analytics=window.Shopify.analytics||{},window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=function(e,n,a){window.Shopify.analytics.replayQueue.push([e,n,a])});var c=function(){var e="legacy",n="unknown",a=null,o=navigator.userAgent.match(/(Firefox|Chrome)\/(\d+)/i),t=navigator.userAgent.match(/(Edg)\/(\d+)/i),r=navigator.userAgent.match(/(Version)\/(\d+)(.+)(Safari)\/(\d+)/i);r?(n="safari",a=parseInt(r[2],10)):t?(n="edge",a=parseInt(t[2],10)):o&&(n=o[1].toLocaleLowerCase(),a=parseInt(o[2],10));var i={chrome:60,firefox:55,safari:11,edge:80}[n];return void 0!==i&&null!==a&&i<=a&&(e="modern"),e}(),p=c.substring(0,1),f=o.substring(0,1);if(d)try{self.performance.mark("wpm:start")}catch(e){}if(d){var u=self.location.origin,w=(e.webPixelsConfigList||[]).filter((function(e){return"app"===e.type.toLowerCase()}));for(let e=0;e<w.length;e++){s([u,"/wpm@",r,"/web-pixel-",w[e].id,"@",w[e].scriptVersion,"/sandbox/worker.",c,".js"].join(""),"script")}}var h,y,m,g,v,b,_,S,x=[a,"/wpm","/",f,r,p,".js"].join("");h={src:x,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);n(a),window.Shopify.analytics.replayQueue.forEach((function(e){a.publishCustomEvent(e[0],e[1],e[2])})),window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=a.publishCustomEvent,l.indexOf("web_pixels_visitor_api")>-1&&(window.Shopify.analytics.visitor=a.visitor)}},onerror:function(){var n=(e.storefrontBaseUrl?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin)+"/.well-known/shopify/monorail/unstable/produce_batch",a=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:x+" has failed to load"},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(n,a))return!0}catch(e){}const o=new XMLHttpRequest;try{return o.open("POST",n,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(a),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}},y=document.createElement("script"),m=h.src,g=h.async||!0,v=h.onload,b=h.onerror,_=document.head,S=document.body,y.async=g,y.src=m,v&&y.addEventListener("load",v),b&&y.addEventListener("error",b),_?_.appendChild(y):S?S.appendChild(y):console.error("Did not find a head or body element to append the script")})({shopId: 34046541957,storefrontBaseUrl: "https://delbrenna.com",cdnBaseUrl: "https://delbrenna.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0559","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0559","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://delbrenna.com/cdn","browser","0.0.342","87eaa7dbwc7f05f01pc1b5c503me955d4ef",["web_pixels_async_pixel_refactor"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 34046541957,
+      theme_id: 131204415712,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.700693e2d3750a524f284ea8561edbb1c8c62b04.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.700693e2d3750a524f284ea8561edbb1c8c62b04.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = 'https://cdn.shopify.com/s/trekkie.storefront.700693e2d3750a524f284ea8561edbb1c8c62b04.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":34046541957,"isMerchantRequest":null,"themeId":131204415712,"themeCityHash":"6286152436374838090","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Google Analytics":{"trackingId":"UA-170504540-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["392666218362877"],"agent":"plshopify1.2"},"Google Gtag Pixel":{"conversionId":"G-HG7BJGJ925","eventLabels":[{"type":"search","action_label":["G-HG7BJGJ925","AW-620865893\/kKEpCPv-1dQBEOXShqgC"]},{"type":"begin_checkout","action_label":["G-HG7BJGJ925","AW-620865893\/zwxUCPj-1dQBEOXShqgC"]},{"type":"view_item","action_label":["G-HG7BJGJ925","AW-620865893\/ddAWCPL-1dQBEOXShqgC","MC-DVF9YLVCG0"]},{"type":"purchase","action_label":["G-HG7BJGJ925","AW-620865893\/mg41CO_-1dQBEOXShqgC","MC-DVF9YLVCG0"]},{"type":"page_view","action_label":["G-HG7BJGJ925","AW-620865893\/jNQ1COH51dQBEOXShqgC","MC-DVF9YLVCG0"]},{"type":"add_payment_info","action_label":["G-HG7BJGJ925","AW-620865893\/ja3yCP7-1dQBEOXShqgC"]},{"type":"add_to_cart","action_label":["G-HG7BJGJ925","AW-620865893\/pkymCPX-1dQBEOXShqgC"]}],"targetCountry":"US"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"392666218362877","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+        ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//delbrenna.com/cdn/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Ella";
+  window.BOOMR.themeVersion = "5.0.3";
+  window.BOOMR.shopId = 34046541957;
+  window.BOOMR.themeId = 131204415712;
+  window.BOOMR.renderRegion = "gcp-us-east1";
+  window.BOOMR.url =
+    "https://delbrenna.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+    
+
+    
+
+     
+
+
+<body data-url-lang="/cart" id="handmade-jewelry-from-italy-tuscany-delbrenna" class="header-parallax-tpl  
+ template-index style_product_grid_1 layout_style_1170 
+ before-you-leave-disableMobile
+">
+  	  
+    <h1 style="display: none">Handmade Jewelry from Italy </h1>
+    
+    
+<div class="wrapper-header wrapper_header_parallax ">
+    <div id="shopify-section-header-parallax" class="shopify-section"><style>
+    
+
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+  
+  	
+
+    .header-logo a.logo-title {
+      color: #000000;
+    }
+         
+    .header-top {
+        background-color: #00a8a8;
+        color: #ffffff;
+    }
+
+    
+    .header-top .top-message {
+        font-weight: normal;
+        letter-spacing: normal;
+        text-transform: none;
+    }
+    
+    
+    .header-top a {
+        color: #ffffff;
+    }
+    
+    .header-top .top-message p a:hover {
+        border-bottom-color: #ffffff;
+    }
+  
+    .header-parallax-tpl.layout_home_6 .header-top .top-message {
+        letter-spacing: .05em;
+    }
+
+    .header-parallax-tpl.layout_home_5 .header-top .top-message {
+        letter-spacing: .02em;
+    }
+
+    .header-top .top-message {
+        font-size: 14px;
+    }
+
+    .logo-img {
+        display: block;
+    }
+    
+    .header-mb .logo-img img,
+    .header-mb .logo-title {
+        width: 120px;
+    }
+    
+    .wrapper-header-bt .logo-img img {
+        width: 180px;
+    }
+
+    .header-parallax .search-form .search-bar {
+        background-color: #f8f8f8;
+    }
+
+    .header-parallax .search-form .input-group-field {
+        color: #787878;
+    }
+
+    .header-parallax .search-form .icon-search {
+        color: #333333;
+    }
+
+    .header-parallax .search-form .search-bar ::-webkit-input-placeholder {
+        color: #787878;
+    }
+
+    .header-parallax .search-form .search-bar ::-moz-placeholder {
+        color: #787878;
+    }
+
+    .header-parallax .search-form .search-bar :-ms-input-placeholder {
+        color: #787878;
+    }
+
+    .header-parallax .search-form .search-bar :-moz-placeholder {
+        color: #787878;
+    }
+    
+    .cart-icon .cartCount {
+        background-color: #f8f8f8;
+        color: #3c3c3c;
+    }
+
+    .header-parallax.style_header_2 .lang-currency-groups .dropdown-label .text,.header-parallax.style_header_2 .lang-currency-groups .dropdown-toggle:after {
+        color: #000000;
+    }
+
+    .header-parallax.style_header_2 .lang-currency-groups .currency-block+.lang-block:before {
+        background-color: #cccccc;
+    }
+
+    .header-parallax.style_header_2 .acc-mb .user-text a {
+        color: #000000;
+    }
+
+    .header-parallax.style_header_2 .right-header .nav-search .icon-search svg {
+        color: #000000;
+        fill: #000000;
+    }
+
+    .header-parallax.style_header_2 .right-header .wishlist-icon svg {
+        color: #000000;
+        fill: #000000;
+    }
+
+    .header-parallax.style_header_2 .right-header .cart-icon svg {
+        color: #000000;
+        fill: #000000;
+    }
+
+    .wrapper_header_parallax .header-parallax.style_header_2 .right-header .nav-search .search-form {
+        background-color: #f8f8f8;
+    }
+
+
+    
+
+    
+
+    
+       
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    .site-nav .menu-lv-1 > a,
+    .site-nav .menu-mb-title {
+        font-size: 18px;    
+    }
+    
+    .site-nav .menu-lv-2 > a,
+    .site-nav .mega-menu .mega-banner .title,
+    .site-nav .mega-menu .product-item .btn {
+        font-size: 12px;    
+    }
+    
+   .header-parallax .site-nav .mega-menu .mega-banner .title {
+     text-transform: none;
+   }
+   
+  .header-parallax .site-nav .mega-menu .product-item .btn {
+  	padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-bottom: 0 !important;
+    border-bottom: none;
+    background-image: linear-gradient(transparent 96%, rgba(35, 35, 35, 0.7) 4%);
+    background-repeat: repeat-x;
+	background-position-y: -2px;
+  }
+  
+   .header-parallax-tpl.layout_home_6 .product-vendor a {
+     font-weight: 700;
+     text-transform: uppercase;
+   }
+
+   .header-parallax-tpl.layout_home_5 .product-vendor a {
+     font-weight: 700;
+   }
+   
+    .site-nav .menu-lv-3 > a {
+        font-size: 12px;    
+    }
+    
+    .site-nav .icon_sale {
+        background-color: #ef6454;
+        color: #ffffff;
+    }
+        
+    .site-nav .icon_new {
+        background-color: #06bfe2;
+        color: #ffffff;
+    }
+        
+    .site-nav .icon_hot {
+        background-color: #ffbb49;
+        color: #ffffff;
+    }
+
+    
+    .slideshow .slide-content .slide-button {
+        min-width: 190px;
+    }
+    
+
+    @media (min-width:1200px) {
+        .header-parallax .search-form {
+            background-color: #f8f8f8;
+        }
+
+        .header-parallax .right-header .search-form .close-search {
+            color: #333333 !important;
+        }
+
+        .wrapper-navigation .main-menu {
+            text-align: center;
+        }
+
+        .wrapper_header_parallax .wrapper-header-bt {
+            background-color: #ffffff;
+        }
+        
+        .site-nav .sub-menu-mobile {
+            background-color: #ffffff;
+        }        
+        
+        /*  Menu Lv 1  */
+        .site-nav .menu-lv-1 > a,
+        .wrapper_header_parallax .wrapper-header-bt .right-header a[class|='icon'],
+        .wrapper_header_parallax .wrapper-header-bt .right-header .wishlist,
+        .wrapper_header_parallax .wrapper-header-bt .right-header .cart-icon a {
+            color: #232323;
+        }
+
+        .wrapper_header_parallax .right-header .icon-nav .icon-line,
+        .wrapper_header_parallax .right-header .icon-nav .icon-line:before,
+        .wrapper_header_parallax .right-header .icon-nav .icon-line:after {
+            background-color: #232323;
+        }
+
+        .site-nav .menu-lv-1 > a:hover {
+            color: #232323;
+        }
+        
+        .site-nav .menu-lv-1>a span:before {
+            background-color: #232323;
+        }
+        
+        /*  Menu Lv 2  */
+        .site-nav .menu-lv-2>a,
+        .site-nav .mega-menu .mega-banner .title,
+        .site-nav .mega-menu .product-item .btn {
+            color: #232323;
+        }
+        
+        .site-nav .mega-menu .product-item .btn {
+            border-bottom-color: rgba(35, 35, 35, 0.7);
+        }
+        
+        .site-nav .menu-lv-2 > a:hover {
+            color: #232323;
+        }
+        
+        /*  Menu Lv 3  */
+        .site-nav .menu-lv-3 > a,
+        .site-nav .no-mega-menu .menu-lv-2 > a {
+            color: #939393;
+        }
+        
+        .site-nav .menu-lv-3 > a:hover,
+        .site-nav .no-mega-menu .menu-lv-2 > a:hover {
+            color: #000000;
+        }
+        
+        .site-nav .menu-lv-3 > a span:before, .header-parallax.style_header_2 .site-nav .no-mega-menu li>a span:before {
+            background-color: #000000;
+        }
+        
+        .site-nav .icon_sale:before {
+            border-top-color: #ef6454;
+        }
+
+        .site-nav .icon_new:before {
+            border-top-color: #06bfe2;
+        }
+
+        .site-nav .icon_hot:before {
+            border-top-color: #ffbb49;
+        }
+
+        
+        
+        .site-nav .menu-lv-1 > a {
+            font-weight: 500;
+            text-transform: capitalize;
+            letter-spacing: normal;
+        }
+        
+
+        .wrapper_header_parallax .is_parallax .header-logo .logo-img .logo-parallax {
+            display: none;
+        }
+
+        .template-index .wrapper_header_parallax .header-logo .logo-img img:first-of-type {
+            display: none;
+        }
+
+        .template-index .wrapper_header_parallax .header-logo .logo-img .logo-parallax {
+            display: block;
+        }
+
+        .template-index .wrapper_header_parallax .is-sticky .header-logo .logo-img img:first-of-type {
+            display: block;
+        }
+
+        .template-index .wrapper_header_parallax .is-sticky .header-logo .logo-img .logo-parallax {
+            display: none;
+        }
+
+        .template-index .wrapper_header_parallax .is_parallax {
+            position: absolute;
+            width: 100%;
+            z-index: 4;
+        }
+
+        .body-boxed.template-index .wrapper_header_parallax .is_parallax {
+            max-width: 1350px;
+        }
+
+        .template-index .wrapper_header_parallax .is_parallax .wrapper-header-bt {
+            background-color: rgba(255, 255, 255, 0);
+        }
+
+        .template-index .site-nav .menu-lv-1 > a,
+        .template-index .wrapper_header_parallax .wrapper-header-bt .right-header a[class|='icon'],
+        .template-index .wrapper_header_parallax .wrapper-header-bt .right-header .wishlist,
+        .template-index .wrapper_header_parallax .wrapper-header-bt .right-header .cart-icon a {
+            color: #ffffff;
+        }
+
+        .template-index .site-nav .menu-lv-1:hover > a span:before {
+            background-color:#ffffff;
+        }
+
+        .template-index .wrapper_header_parallax .right-header .icon-nav .icon-line,
+        .template-index .wrapper_header_parallax .right-header .icon-nav .icon-line:before,
+        .template-index .wrapper_header_parallax .right-header .icon-nav .icon-line:after {
+            background-color:  #ffffff;
+        }
+
+        .template-index .wrapper_header_parallax .is_parallax .is-sticky .wrapper-header-bt {
+            background-color: #ffffff;
+        }
+
+        .template-index .is-sticky .site-nav .menu-lv-1 > a,
+        .template-index .wrapper_header_parallax .is-sticky .wrapper-header-bt .right-header a[class|='icon'],
+        .template-index .wrapper_header_parallax .is-sticky .wrapper-header-bt .right-header .wishlist,
+        .template-index .wrapper_header_parallax .is-sticky .wrapper-header-bt .right-header .cart-icon a {
+            color: #232323;
+        }
+
+        .template-index .is-sticky .site-nav .menu-lv-1:not(.dropdown):hover > a span:before {
+            background-color: #232323;
+        }
+
+        .template-index .wrapper_header_parallax .is-sticky .right-header .icon-nav .icon-line,
+        .template-index .wrapper_header_parallax .is-sticky .right-header .icon-nav .icon-line:before,
+        .template-index .wrapper_header_parallax .is-sticky .right-header .icon-nav .icon-line:after {
+            background-color: #232323;
+        }
+                
+    }
+
+    @media (max-width:1199px) {
+        .site-nav .icon_sale:before {
+            border-right-color: #ef6454;
+        }
+
+        .site-nav .icon_new:before {
+            border-right-color: #06bfe2;
+        }
+
+        .site-nav .icon_hot:before {
+            border-right-color: #ffbb49;
+        }
+    }
+
+    .header-parallax.style_header_2 .site-nav .mega-menu .style_5 .skin-2 .azbrandstable .vendor-letter-menu a, .header-parallax.style_header_2 .site-nav .mega-menu .style_5 .mega-banner.skin-2 .col-right .link-brands {
+        color: #232323;
+    }
+</style>
+
+<header class="site-header header-parallax " role="banner">
+    
+  
+    <a href="#" class="icon-nav close-menu-mb" title="Menu Mobile Icon" data-menu-mb-toogle>
+        <span class="icon-line"></span>
+    </a>
+
+    <div class="header-bottom" data-sticky-mb>
+        <div class="container-padd60">
+            <div class="header-mb ">          
+    <div class="header-mb-left header-mb-items">
+        <div class="hamburger-icon svg-mb">
+            <a href="#" class="icon-nav" title="Menu Mobile Icon" data-menu-mb-toogle>
+                <span class="icon-line"></span>
+            </a>
+        </div>
+
+        
+        	
+          <div class="search-mb svg-mb">
+              <a href="#" title="Search Icon" class="icon-search" data-search-mobile-toggle>
+                  
+	<svg data-icon="search" viewBox="0 0 512 512" width="100%" height="100%">
+	    <path d="M495,466.2L377.2,348.4c29.2-35.6,46.8-81.2,46.8-130.9C424,103.5,331.5,11,217.5,11C103.4,11,11,103.5,11,217.5   S103.4,424,217.5,424c49.7,0,95.2-17.5,130.8-46.7L466.1,495c8,8,20.9,8,28.9,0C503,487.1,503,474.1,495,466.2z M217.5,382.9   C126.2,382.9,52,308.7,52,217.5S126.2,52,217.5,52C308.7,52,383,126.3,383,217.5S308.7,382.9,217.5,382.9z"></path>
+	</svg>
+
+
+              </a>
+
+              <a href="javascript:void(0)" title="close" class="close close-search">
+                  <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+              </a>
+          
+              <div class="search-form" data-ajax-search>
+    <div class="header-search">
+        <div class="header-search__form">
+            <a href="javascript:void(0)" title="close" class="close close-search">
+                <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+            </a>
+            <form action="/search" method="get" class="search-bar" role="search">
+                <input type="hidden" name="type" value="product">
+                    <input type="search" name="q" 
+                     
+                    placeholder="Search" 
+                    class="input-group-field header-search__input" aria-label="Search Site" autocomplete="off">
+                <button type="submit" class="btn icon-search">
+                    
+	<svg data-icon="search" viewBox="0 0 512 512" width="100%" height="100%">
+	    <path d="M495,466.2L377.2,348.4c29.2-35.6,46.8-81.2,46.8-130.9C424,103.5,331.5,11,217.5,11C103.4,11,11,103.5,11,217.5   S103.4,424,217.5,424c49.7,0,95.2-17.5,130.8-46.7L466.1,495c8,8,20.9,8,28.9,0C503,487.1,503,474.1,495,466.2z M217.5,382.9   C126.2,382.9,52,308.7,52,217.5S126.2,52,217.5,52C308.7,52,383,126.3,383,217.5S308.7,382.9,217.5,382.9z"></path>
+	</svg>
+
+
+                </button>
+                
+            </form>       
+        </div>
+
+        <div class="quickSearchResultsWrap" style="display: none;">
+            <div class="custom-scrollbar">
+                <div class="container">
+                    
+
+                    
+                    
+                    <div class="header-search__results-wrapper"></div>          
+                </div>
+            </div>
+        </div>
+    </div>
+  
+     
+
+    <script id="search-results-template" type="text/template7">
+        
+        {{#if is_loading}}
+        <div class="header-search__results">
+            <div class="header-search__spinner-container">
+                <div class="loading-modal modal"><div></div><div></div><div></div><div></div></div>
+            </div>
+        </div>
+
+        {{else}}
+
+        {{#if is_show}}
+        <div class="header-search__results header-block">
+            
+            {{#if has_results}}
+            <div class="box-title">
+                {{ title_heading }}
+            </div>
+
+            <div class="search__products">
+                <div class="products-grid row">
+                    {{#each results}}
+
+                    <div class="grid-item col-6 col-sm-4 ">
+                        <div class="inner product-item">
+                            <div class="inner-top">
+                                <div class="product-top">
+                                    <div class="product-image">
+                                        <a href="{{url}}" class="product-grid-image">
+                                            <img src="{{image}}" alt="{{image_alt}}">                                               
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="product-bottom">
+
+                                    
+
+                                    <a class="product-title" href="{{url}}">
+                                        {{title}}
+                                    </a>
+
+                                    <div class="price-box">
+                                        {{#if on_sale}}
+                                        <div class="price-sale">
+                                            <span class="old-price">{{ compare_at_price }}</span>
+                                            <span class="special-price">
+                                                {{ price }}
+                                            </span>
+                                        </div>
+                                        {{else}}
+                                        <div class="price-regular">
+                                            <span>{{ price }}</span>
+                                        </div>
+                                        {{/if}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{/each}}
+                </div>              
+            </div>
+            
+            <div class="text-center">            
+                <a href="{{results_url}}" class="text-results header-search__see-more" data-results-count="{{results_count}}">
+                    {{results_label}} ({{results_count}})
+                </a>
+            </div>
+            {{else}}
+
+            <p class="header-search__no-results text-results">{{ results_label }}</p>
+            {{/if}}
+            
+        </div>
+        {{/if}}
+        {{/if}}
+    
+    </script>
+</div>
+          </div>  
+        	
+        
+
+        
+
+
+    </div>
+
+  <div class="header-mb-middle header-mb-items">
+    
+      <div class="header-logo">
+        
+        <a class="logo-img" href="/" title="Logo">
+          <img data-src="//delbrenna.com/cdn/shop/files/Logo_Medium_PNG_44a662d7-ff05-4a45-836b-36792b155132.png?v=1634526063"
+               src="//delbrenna.com/cdn/shop/files/Logo_Medium_PNG_44a662d7-ff05-4a45-836b-36792b155132.png?v=1634526063"
+               alt="DelBrenna" itemprop="logo" class="lazyautosizes lazyloade" data-sizes="auto">
+        </a>
+        
+      </div>
+    
+  </div>
+
+  <div class="header-mb-right header-mb-items">
+    
+
+    
+      
+      <div class="acc-mb svg-mb">
+        <a href="#" title="User Icon" class="icon-user" data-user-mobile-toggle>
+          
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="lnr-user" viewBox="0 0 1024 1024" width="100%" height="100%"><title>user</title><path class="path1" d="M486.4 563.2c-155.275 0-281.6-126.325-281.6-281.6s126.325-281.6 281.6-281.6 281.6 126.325 281.6 281.6-126.325 281.6-281.6 281.6zM486.4 51.2c-127.043 0-230.4 103.357-230.4 230.4s103.357 230.4 230.4 230.4c127.042 0 230.4-103.357 230.4-230.4s-103.358-230.4-230.4-230.4z"/><path class="path2" d="M896 1024h-819.2c-42.347 0-76.8-34.451-76.8-76.8 0-3.485 0.712-86.285 62.72-168.96 36.094-48.126 85.514-86.36 146.883-113.634 74.957-33.314 168.085-50.206 276.797-50.206 108.71 0 201.838 16.893 276.797 50.206 61.37 27.275 110.789 65.507 146.883 113.634 62.008 82.675 62.72 165.475 62.72 168.96 0 42.349-34.451 76.8-76.8 76.8zM486.4 665.6c-178.52 0-310.267 48.789-381 141.093-53.011 69.174-54.195 139.904-54.2 140.61 0 14.013 11.485 25.498 25.6 25.498h819.2c14.115 0 25.6-11.485 25.6-25.6-0.006-0.603-1.189-71.333-54.198-140.507-70.734-92.304-202.483-141.093-381.002-141.093z"/></svg>
+          
+        </a>
+      </div>
+      
+    
+
+    <div class="cart-icon svg-mb">
+      <a href="#" title="Cart Icon" data-cart-toggle>
+        
+          
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+    <path class="path1" d="M409.6 1024c-56.464 0-102.4-45.936-102.4-102.4s45.936-102.4 102.4-102.4S512 865.136 512 921.6 466.064 1024 409.6 1024zm0-153.6c-28.232 0-51.2 22.968-51.2 51.2s22.968 51.2 51.2 51.2 51.2-22.968 51.2-51.2-22.968-51.2-51.2-51.2z"></path>
+    <path class="path2" d="M768 1024c-56.464 0-102.4-45.936-102.4-102.4S711.536 819.2 768 819.2s102.4 45.936 102.4 102.4S824.464 1024 768 1024zm0-153.6c-28.232 0-51.2 22.968-51.2 51.2s22.968 51.2 51.2 51.2 51.2-22.968 51.2-51.2-22.968-51.2-51.2-51.2z"></path>
+    <path class="path3" d="M898.021 228.688C885.162 213.507 865.763 204.8 844.8 204.8H217.954l-5.085-30.506C206.149 133.979 168.871 102.4 128 102.4H76.8c-14.138 0-25.6 11.462-25.6 25.6s11.462 25.6 25.6 25.6H128c15.722 0 31.781 13.603 34.366 29.112l85.566 513.395C254.65 736.421 291.929 768 332.799 768h512c14.139 0 25.6-11.461 25.6-25.6s-11.461-25.6-25.6-25.6h-512c-15.722 0-31.781-13.603-34.366-29.11l-12.63-75.784 510.206-44.366c39.69-3.451 75.907-36.938 82.458-76.234l34.366-206.194c3.448-20.677-1.952-41.243-14.813-56.424zm-35.69 48.006l-34.366 206.194c-2.699 16.186-20.043 32.221-36.39 33.645l-514.214 44.714-50.874-305.246h618.314c5.968 0 10.995 2.054 14.155 5.782 3.157 3.73 4.357 9.024 3.376 14.912z"></path>
+</svg>
+
+
+             
+        <span class="cartCount" data-cart-count>
+          0
+        </span>
+      </a>
+    </div>
+
+  </div>          
+</div> 
+        </div>
+    </div>
+
+    <div class="is_parallax">
+        <div class="wrapper-header-bt" data-sticky-pc>
+            <div class="container-padd60">       
+                <div class="header-panel-bt">
+                    <div class="left-header header-items">
+                      <div class="phone-and-email" style="height: 32px;">
+                      	<a class="custom-header-link" href="tel:+18169829922">816.982.9922</a>
+                        <a style="margin-left: 20px;" class="custom-header-link" href="mailto:shop@delbrenna.com">shop@delbrenna.com</a>
+                      </div>    
+                    </div>
+                  
+                    <div class="center-header">
+                      <div class="header-logo" itemscope itemtype="http://schema.org/Organization">
+                          <meta itemprop="url" content="https://delbrenna.com">
+                            
+                            <a class="logo-img" href="/" title="Logo">
+                                <img itemprop="logo" data-src="//delbrenna.com/cdn/shop/files/Logo_Medium_PNG_44a662d7-ff05-4a45-836b-36792b155132.png?v=1634526063"
+                                    src="//delbrenna.com/cdn/shop/files/Logo_Medium_PNG_44a662d7-ff05-4a45-836b-36792b155132.png?v=1634526063"
+                                    alt="DelBrenna" itemprop="logo" class="lazyautosizes lazyloaded" data-sizes="auto">
+
+                                
+                                <img class="logo-parallax" data-src="//delbrenna.com/cdn/shop/files/Logo_Medium_PNG_White-min_7400fd25-3641-46f5-9222-2a3b55fbe4f6.png?v=1634526547"
+                                    src="//delbrenna.com/cdn/shop/files/Logo_Medium_PNG_White-min_7400fd25-3641-46f5-9222-2a3b55fbe4f6.png?v=1634526547"
+                                    alt="DelBrenna" itemprop="logo" class="lazyautosizes lazyloaded" data-sizes="auto">
+                                
+                            </a>
+                            
+                        </div>
+                    </div>
+             
+					<div class="right-header header-items header-lang-style2">
+
+                        
+
+                        
+                            
+                            <div class="nav-search svg-mb">                    
+                                <a href="#" title="Search Icon" class="icon-search" data-search-mobile-toggle>
+                                    
+	<svg data-icon="search" viewBox="0 0 512 512" width="100%" height="100%">
+	    <path d="M495,466.2L377.2,348.4c29.2-35.6,46.8-81.2,46.8-130.9C424,103.5,331.5,11,217.5,11C103.4,11,11,103.5,11,217.5   S103.4,424,217.5,424c49.7,0,95.2-17.5,130.8-46.7L466.1,495c8,8,20.9,8,28.9,0C503,487.1,503,474.1,495,466.2z M217.5,382.9   C126.2,382.9,52,308.7,52,217.5S126.2,52,217.5,52C308.7,52,383,126.3,383,217.5S308.7,382.9,217.5,382.9z"></path>
+	</svg>
+
+
+                                </a>
+                              	
+                                <div class="search-form" data-ajax-search>
+    <div class="header-search">
+        <div class="header-search__form">
+            <a href="javascript:void(0)" title="close" class="close close-search">
+                <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+            </a>
+            <form action="/search" method="get" class="search-bar" role="search">
+                <input type="hidden" name="type" value="product">
+                    <input type="search" name="q" 
+                     
+                    placeholder="Search" 
+                    class="input-group-field header-search__input" aria-label="Search Site" autocomplete="off">
+                <button type="submit" class="btn icon-search">
+                    
+	<svg data-icon="search" viewBox="0 0 512 512" width="100%" height="100%">
+	    <path d="M495,466.2L377.2,348.4c29.2-35.6,46.8-81.2,46.8-130.9C424,103.5,331.5,11,217.5,11C103.4,11,11,103.5,11,217.5   S103.4,424,217.5,424c49.7,0,95.2-17.5,130.8-46.7L466.1,495c8,8,20.9,8,28.9,0C503,487.1,503,474.1,495,466.2z M217.5,382.9   C126.2,382.9,52,308.7,52,217.5S126.2,52,217.5,52C308.7,52,383,126.3,383,217.5S308.7,382.9,217.5,382.9z"></path>
+	</svg>
+
+
+                </button>
+                
+            </form>       
+        </div>
+
+        <div class="quickSearchResultsWrap" style="display: none;">
+            <div class="custom-scrollbar">
+                <div class="container">
+                    
+
+                    
+                    
+                    <div class="header-search__results-wrapper"></div>          
+                </div>
+            </div>
+        </div>
+    </div>
+  
+     
+
+    <script id="search-results-template" type="text/template7">
+        
+        {{#if is_loading}}
+        <div class="header-search__results">
+            <div class="header-search__spinner-container">
+                <div class="loading-modal modal"><div></div><div></div><div></div><div></div></div>
+            </div>
+        </div>
+
+        {{else}}
+
+        {{#if is_show}}
+        <div class="header-search__results header-block">
+            
+            {{#if has_results}}
+            <div class="box-title">
+                {{ title_heading }}
+            </div>
+
+            <div class="search__products">
+                <div class="products-grid row">
+                    {{#each results}}
+
+                    <div class="grid-item col-6 col-sm-4 ">
+                        <div class="inner product-item">
+                            <div class="inner-top">
+                                <div class="product-top">
+                                    <div class="product-image">
+                                        <a href="{{url}}" class="product-grid-image">
+                                            <img src="{{image}}" alt="{{image_alt}}">                                               
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="product-bottom">
+
+                                    
+
+                                    <a class="product-title" href="{{url}}">
+                                        {{title}}
+                                    </a>
+
+                                    <div class="price-box">
+                                        {{#if on_sale}}
+                                        <div class="price-sale">
+                                            <span class="old-price">{{ compare_at_price }}</span>
+                                            <span class="special-price">
+                                                {{ price }}
+                                            </span>
+                                        </div>
+                                        {{else}}
+                                        <div class="price-regular">
+                                            <span>{{ price }}</span>
+                                        </div>
+                                        {{/if}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{/each}}
+                </div>              
+            </div>
+            
+            <div class="text-center">            
+                <a href="{{results_url}}" class="text-results header-search__see-more" data-results-count="{{results_count}}">
+                    {{results_label}} ({{results_count}})
+                </a>
+            </div>
+            {{else}}
+
+            <p class="header-search__no-results text-results">{{ results_label }}</p>
+            {{/if}}
+            
+        </div>
+        {{/if}}
+        {{/if}}
+    
+    </script>
+</div>
+                              	
+                            </div>
+                          	
+                        
+
+                        
+                        <div class="acc-mb svg-mb">
+                            
+                                <a href="#" title="User Icon" class="icon-user" data-user-mobile-toggle>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="lnr-user" viewBox="0 0 1024 1024" width="100%" height="100%"><title>user</title><path class="path1" d="M486.4 563.2c-155.275 0-281.6-126.325-281.6-281.6s126.325-281.6 281.6-281.6 281.6 126.325 281.6 281.6-126.325 281.6-281.6 281.6zM486.4 51.2c-127.043 0-230.4 103.357-230.4 230.4s103.357 230.4 230.4 230.4c127.042 0 230.4-103.357 230.4-230.4s-103.358-230.4-230.4-230.4z"/><path class="path2" d="M896 1024h-819.2c-42.347 0-76.8-34.451-76.8-76.8 0-3.485 0.712-86.285 62.72-168.96 36.094-48.126 85.514-86.36 146.883-113.634 74.957-33.314 168.085-50.206 276.797-50.206 108.71 0 201.838 16.893 276.797 50.206 61.37 27.275 110.789 65.507 146.883 113.634 62.008 82.675 62.72 165.475 62.72 168.96 0 42.349-34.451 76.8-76.8 76.8zM486.4 665.6c-178.52 0-310.267 48.789-381 141.093-53.011 69.174-54.195 139.904-54.2 140.61 0 14.013 11.485 25.498 25.6 25.498h819.2c14.115 0 25.6-11.485 25.6-25.6-0.006-0.603-1.189-71.333-54.198-140.507-70.734-92.304-202.483-141.093-381.002-141.093z"/></svg>
+                                </a>
+                            
+                        </div>
+                        
+
+                        
+
+                        
+                        <div class="svg-mb wishlist-icon">
+                            <a class="wishlist" href="/pages/wish-list" title="My Wish Lists">
+                                
+                                    <svg aria-hidden="true" data-prefix="fal" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-heart fa-w-16 fa-2x"><path fill="currentColor" d="M462.3 62.7c-54.5-46.4-136-38.7-186.6 13.5L256 96.6l-19.7-20.3C195.5 34.1 113.2 8.7 49.7 62.7c-62.8 53.6-66.1 149.8-9.9 207.8l193.5 199.8c6.2 6.4 14.4 9.7 22.6 9.7 8.2 0 16.4-3.2 22.6-9.7L472 270.5c56.4-58 53.1-154.2-9.7-207.8zm-13.1 185.6L256.4 448.1 62.8 248.3c-38.4-39.6-46.4-115.1 7.7-161.2 54.8-46.8 119.2-12.9 142.8 11.5l42.7 44.1 42.7-44.1c23.2-24 88.2-58 142.8-11.5 54 46 46.1 121.5 7.7 161.2z" class=""></path></svg>
+                                
+                            </a>                   
+                        </div>
+                        
+
+                        <div class="cart-icon svg-mb" data-cart-header-parallax>
+                            <a href="#" title="Cart Icon" data-cart-toggle>       
+                                
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+    <path class="path1" d="M409.6 1024c-56.464 0-102.4-45.936-102.4-102.4s45.936-102.4 102.4-102.4S512 865.136 512 921.6 466.064 1024 409.6 1024zm0-153.6c-28.232 0-51.2 22.968-51.2 51.2s22.968 51.2 51.2 51.2 51.2-22.968 51.2-51.2-22.968-51.2-51.2-51.2z"></path>
+    <path class="path2" d="M768 1024c-56.464 0-102.4-45.936-102.4-102.4S711.536 819.2 768 819.2s102.4 45.936 102.4 102.4S824.464 1024 768 1024zm0-153.6c-28.232 0-51.2 22.968-51.2 51.2s22.968 51.2 51.2 51.2 51.2-22.968 51.2-51.2-22.968-51.2-51.2-51.2z"></path>
+    <path class="path3" d="M898.021 228.688C885.162 213.507 865.763 204.8 844.8 204.8H217.954l-5.085-30.506C206.149 133.979 168.871 102.4 128 102.4H76.8c-14.138 0-25.6 11.462-25.6 25.6s11.462 25.6 25.6 25.6H128c15.722 0 31.781 13.603 34.366 29.112l85.566 513.395C254.65 736.421 291.929 768 332.799 768h512c14.139 0 25.6-11.461 25.6-25.6s-11.461-25.6-25.6-25.6h-512c-15.722 0-31.781-13.603-34.366-29.11l-12.63-75.784 510.206-44.366c39.69-3.451 75.907-36.938 82.458-76.234l34.366-206.194c3.448-20.677-1.952-41.243-14.813-56.424zm-35.69 48.006l-34.366 206.194c-2.699 16.186-20.043 32.221-36.39 33.645l-514.214 44.714-50.874-305.246h618.314c5.968 0 10.995 2.054 14.155 5.782 3.157 3.73 4.357 9.024 3.376 14.912z"></path>
+</svg>
+
+
+
+                                <span class="cartCount" data-cart-count>
+                                0
+                                </span>
+                            </a>                    
+                        </div>
+                        
+                    </div>
+                    
+
+                    
+                </div>
+                <div class="wrapper-navigation">
+                        <div class="main-menu jas-mb-style">
+                            <div class="col-12">
+                                <div class="mb-area">
+                                    <nav class="nav-bar" role="navigation">
+                                        
+<ul class="site-nav">
+    
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    <li class=" menu-lv-1 item dropdown no-mega-menu">
+        <a class="menu__moblie "  href="/collections/all-iconic-chains">
+            
+<span>
+  Iconic Chains
+</span>
+
+
+            
+            <span class="icon-dropdown" data-toggle-menu-mb>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
+            </span>
+            
+
+            
+
+            
+
+            
+        </a>
+
+        
+    </li>
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    <li class=" menu-lv-1 item dropdown no-mega-menu">
+        <a class="menu__moblie "  href="/collections/all-jewelry">
+            
+<span>
+  Jewelry
+</span>
+
+
+            
+            <span class="icon-dropdown" data-toggle-menu-mb>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
+            </span>
+            
+
+            
+
+            
+
+            
+        </a>
+
+        
+    </li>
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    <li class=" menu-lv-1 item dropdown no-mega-menu">
+        <a class="menu__moblie "  href="/collections/all">
+            
+<span>
+  Collections
+</span>
+
+
+            
+            <span class="icon-dropdown" data-toggle-menu-mb>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
+            </span>
+            
+
+            
+
+            
+
+            
+        </a>
+
+        
+    </li>
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    <li class=" menu-lv-1 item dropdown no-mega-menu">
+        <a class="menu__moblie "  href="/pages/world-of-delbrenna">
+            
+<span>
+  The World Of Delbrenna
+</span>
+
+
+            
+            <span class="icon-dropdown" data-toggle-menu-mb>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
+            </span>
+            
+
+            
+
+            
+
+            
+        </a>
+
+        
+    </li>
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    <li class=" menu-lv-1 item dropdown no-mega-menu">
+        <a class="menu__moblie "  href="https://delbrenna.com/pages/experiences">
+            
+<span>
+  Experiences
+</span>
+
+
+            
+            <span class="icon-dropdown" data-toggle-menu-mb>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
+            </span>
+            
+
+            
+
+            
+
+            
+        </a>
+
+        
+    </li>
+
+    
+    
+</ul>
+
+
+                                    </nav>  
+
+                                    <div class="header-pc" data-header-pc>
+                                        <div class="header-links">
+                                            
+                                            <a class="wishlist" href="/pages/wish-list" title=''>
+                                                <span class="wishlist-text text-hover">
+                                                    My Wish Lists
+                                                </span>                  
+                                            </a>
+                                            
+                                            
+                                            <div class="customer-links">
+                                                  
+                                                
+                                                <a data-dropdown-user class="acc-links acc-sign-in" id="customer_login_link" href="/account/login" >
+                                                    Sign In
+                                                </a>
+                                                <a class="acc-links acc-regis" id="customer_register_link" href="/account/register">
+                                                    Create an account
+                                                </a>
+                                                                                   
+                                            </div>
+
+                                            
+                                                
+                                            
+
+
+                                        </div> 
+                                    </div>              
+                                </div>
+                            </div>                       
+                        </div>                   
+                    </div>
+            </div>
+        </div>    
+    </div>
+</header>
+
+<script> 
+    window.fixtop_menu = true;
+
+    var appendPrependMenuMobile = function() {
+        var translateHeaderBlock = $('[data-translate-header]'),
+            headerPc = $('[data-header-pc]'),
+            areaMb = $('.wrapper-navigation .mb-area'),
+            lang_currency = $('.right-header .lang-currency-groups');
+
+        if (window.innerWidth < 1200) {
+            headerPc.appendTo(areaMb);
+            
+
+        } else {
+            headerPc.appendTo(translateHeaderBlock);
+            
+        };
+    };
+
+    $(document).ready(function() {
+        appendPrependMenuMobile();
+    });
+
+    var winWidth = $(window).innerWidth();
+
+    $(window).on('resize', function () {
+        var resizeTimerId;
+
+        clearTimeout(resizeTimerId);
+
+        resizeTimerId = setTimeout(function() {
+            var curWinWidth = $(window).innerWidth();
+
+            if ((curWinWidth < 1200 && winWidth >= 1200) || (curWinWidth >= 1200 && winWidth < 1200)) {
+                appendPrependMenuMobile();
+            };
+            winWidth = curWinWidth;
+        }, 0);
+    })
+
+    
+</script>
+
+<style>
+@media (min-width:1200px) {
+    .site-nav .mega-menu .style_5 .mega-banner {
+        background-color: #eaeaea;
+    }
+    .site-nav .mega-menu .style_5 .mega-banner .col-left:before {
+        background-color: #eaeaea;
+    }
+    .site-nav .mega-menu .style_5 .mega-banner.skin-2:before {
+        background-color: #eaeaea;
+    }
+    .site-nav .mega-menu .style_5 .mega-banner.skin-3.skin-3-product, .site-nav .mega-menu .style_5 .mega-banner.skin-3.skin-3-product:before, .site-nav .mega-menu .style_5 .mega-banner.skin-3.skin-3-product:after {
+        background-color: #eaeaea !important;
+    }
+    .site-nav .mega-menu .style_5 .mega-banner.skin-3 .col-product .slick-arrow {
+        background: #8c8c8c;
+        border: #8c8c8c;
+    }
+    .site-nav .mega-menu .style_5 .mega-banner.skin-3 .col-product .slick-arrow svg {
+        color: #ffffff;
+    }
+}
+</style>
+
+</div>
+</div>
+
+   
+
+        
+
+    
+	
+
+    <div class="wrapper-container wrapper-body">	
+        <main class="main-content" role="main">      
+            <!-- BEGIN content_for_index --><div id="shopify-section-1540952363851" class="shopify-section home-slideshow-sections">
+<section class="home-slideshow hasvideo" id="slideshow-1540952363851" 
+data-loader-script="//delbrenna.com/cdn/shop/t/14/assets/halo.slide-show-hasvideo.js?v=165629589365623725551646033651">
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class ="no-padd col-12 init-slider">
+                <div class="slideshow " data-auto-video="true" data-init-slideshow data-dots="false" data-autoplay="true" data-autoplay-speed="5000" data-fade="false" data-arrows="true">
+                
+                
+                
+                <div class="item slide-active" id="block-021347b7-d204-4f85-bd27-8e49e67c16b5" data-index="1">
+                
+
+                
+
+                <div data-video-mp4 class="item slide-video item-video" id="slide-021347b7-d204-4f85-bd27-8e49e67c16b5">
+                    <div class="fluid-width-video-wrapper">
+                        <video class="video" muted playsinline preload="none" autoplay loop>
+                            <source type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/946f076b791845a8b474c26cd559d20b.mp4">
+                        </video>
+                    </div>
+                </div>
+                
+
+                
+                
+                <div class="slide-content abs_left text_center">
+                
+
+                
+
+                
+                <a href="https://delbrenna.com/blogs/selected-stories/delbrenna-florence" class="slide-button btn no-des"
+                    style="
+                            background-color:#db3171;
+                            
+                            
+                            border-color:#db3171;
+                            
+                            
+                            color:#ffffff;
+                            
+                            
+                            
+                            ">
+                    
+<span>
+  New opening Florence
+</span>
+
+                </a>
+                
+                <style>
+                    
+
+                    @media (max-width: 767px) {
+                        #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content .slide-heading {
+                            color: #ffffff !Important;
+                        }
+                        #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content .slide-sub {
+                            color:  !Important;
+                        }
+                        #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content .slide-heading .line {
+                            background-color: #ffffff !Important;
+                        }
+                        #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content .slide-text {
+                            color: #ffffff !Important;
+                        }
+                        #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content .slide-button {
+                            background-color:#e96794 !Important;
+                            border-color:#e96794 !Important;
+                            color:#ffffff !Important;
+                        }
+                        
+                    }
+                    #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content.style_2, #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content.style_3 {
+                        background-color: ;
+                    }
+                    #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content.style_2:before, #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content.style_3:before {
+                        border-color: ;
+                    }
+                    #block-021347b7-d204-4f85-bd27-8e49e67c16b5 .slide-content.style_4 .slide-heading strong {
+                        color: ;
+                    }
+                </style>
+                </div>
+                
+                </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+                
+                <div class="custom-arrow-left">
+                  <div class="triangle-left"></div>
+                </div>
+                <div class="custom-arrow-right">
+                  <div class="triangle-right"></div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+<style>
+    
+    
+    
+    
+    
+
+    
+    #slideshow-1540952363851 .slick-arrow {
+        color: #636a6a;
+        border-color: #636a6a;
+        background-color: rgba(0,0,0,0);
+    }
+
+    #slideshow-1540952363851 .slick-arrow.slick-prev {
+        left: 9.5%;
+    }
+
+    #slideshow-1540952363851 .slick-arrow.slick-next {
+        right: 9.5%;
+    }
+
+    
+
+    
+
+    .fluid-width-video-wrapper {
+        padding-top: 56.5%!important;
+    }
+
+    #slideshow-1540952363851 [data-video-mp4] .fluid-width-video-wrapper:before {
+        background: #866965;
+        opacity: 0.0;
+    }
+
+    #slideshow-1540952363851 {
+        background-color: ;
+    }
+
+    #slideshow-1540952363851 .categories-slider li a {
+        color: ;
+    }
+
+    #slideshow-1540952363851 .categories-slider .label {
+        color: ;
+        border-bottom: 2px solid ;
+    }
+
+    #slideshow-1540952363851 .categories-slider .label span {
+        background-color: ;
+    }
+
+    
+        @media (max-width: 767px) {
+            #slideshow-1540952363851 {
+                padding-bottom: 0px;
+            }
+        }
+
+        @media (min-width: 768px) and (max-width: 1199px) {
+            #slideshow-1540952363851 {
+                padding-bottom: 0px;
+            }
+        }
+
+        @media (min-width: 1200px) {
+            #slideshow-1540952363851 {
+                padding-bottom: 0px;
+            }
+        }
+        
+
+    @media (min-width: 768px) {
+        
+        #slideshow-1540952363851 .slick-dots li:not(.slick-active) button {
+            opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)";
+            filter: alpha(opacity=80);
+        }
+        
+
+        
+            #slideshow-1540952363851 .slick-dots li button {
+                border-color: #707979;
+                background: #707979;
+                border-width: 1.5px;
+            }
+
+            #slideshow-1540952363851 .slick-dots li.slick-active button {
+                background: rgba(255,255,255,0);
+                border-color: #747d7d;
+            }
+        
+    }
+
+    
+    
+    
+
+    
+</style>
+
+
+
+
+</div><section id="shopify-section-163452524862956310" class="shopify-section spaced-section"><div class="container">
+<div class="home-newbar">
+<img class="desktop-info" src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/homepage_info-min.png?v=1646782794">
+<img class="mobile-info" src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/homepage_info_cell-min.png?v=1646782806">
+</div>
+</div>
+
+
+
+
+</section><section id="shopify-section-1634525297b01025bc" class="shopify-section spaced-section"><div class="container">
+<div style="margin-top: 50px; padding: 40px 0px 10px 0px; text-align: center;">
+<h2 style="font-size:20px; letter-spacing: 3px;">JEWELRY COLLECTIONS</h2>
+</div>
+<div style="margin-top: 20px; margin-bottom: 60px;" class="container">
+<div class="row">
+
+<div class="hover-shadow col-md-2 col-sm-6 col-6" style="text-align: center;">
+<a href="/collections/necklaces">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Necklaces_DelBrenna_Jewelry_b491008e-a501-4306-8184-737f24d84fb8.jpg?v=1597737275" style="width: 100%;">
+<h5 style="margin-top: 20px;">NECKLACES</h5>
+</a>
+</div>
+
+<div class="hover-shadow col-md-2 col-sm-6 col-6" style="text-align: center;">
+<a href="/collections/bracelets">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Bracelets_DelBrenna_Jewelry_54a859c4-5b08-45f0-9193-b648ea0e315b.jpg?v=1597737275" style="width: 100%;">
+<h5 style="margin-top: 20px;">BRACELETS</h5>
+</a>
+</div>
+
+<div class="hover-shadow col-md-2 col-sm-6 col-6" style="text-align: center;">
+<a href="/collections/earrings">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Earrings_DelBrenna_Jewelry_21d5dcc9-7ec0-4532-864f-608034e35d40.jpg?v=1597737275" style="width: 100%;">
+<h5 style="margin-top: 20px;">EARRINGS</h5>
+</a>
+</div>
+
+<div class="hover-shadow col-md-2 col-sm-6 col-6" style="text-align: center;">
+<a href="/collections/charms">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Charms_DelBrenna_Jewelry_56c0a9d0-0924-489c-b48f-4a5c7fbb7e46.jpg?v=1597737275" style="width: 100%;">
+<h5 style="margin-top: 20px;">CHARMS</h5>
+</a>
+</div>
+
+<div class="hover-shadow col-md-2 col-sm-6 col-6" style="text-align: center;">
+<a href="/collections/rings">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Rings_DelBrenna_Jewelry_56449db3-c368-475e-8fef-dbd52abef74b.jpg?v=1597737275" style="width: 100%;">
+<h5 style="margin-top: 20px;">RINGS</h5>
+</a>
+</div>
+
+<div class="hover-shadow col-md-2 col-sm-6 col-6" style="text-align: center;">
+<a href="/collections/pendants">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Pendants_DelBrenna_Jewelry_18ea97f7-8cb1-494c-bd02-2b744b955069.jpg?v=1597737275" style="width: 100%;">
+<h5 style="margin-top: 20px;">PENDANTS</h5>
+</a>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+</section><div id="shopify-section-16345254417e3e967d" class="shopify-section home-new-arrivals-sections">
+
+
+<div class="new-arrivals-product" id="new-arrivals-16345254417e3e967d" data-new-arrivals-product data-loader-product data-collection="signature-chain-home" data-limit="4" data-grid="4" data-layout="" sectionId="16345254417e3e967d">
+    <div class="container">
+        
+        <div class="widget-title not-before ">   
+            <h3 class="box-title">
+                <span class="title"> 
+                
+<span>
+  SIGNATURE CHAIN CRAFTED DESIGNS
+</span>
+
+                </span>
+            </h3>
+            
+                
+            
+        </div>
+        
+        
+        <div class="widget-product">
+            <div class="products-grid row column-4" data-products-to-show="4">        
+                
+                
+                
+                
+            
+                <div class="grid-item col-6 col-md-4 col-lg-3 ">
+                    
+<div class="inner product-item" data-product-id="product-7195087929506">
+  <div class="inner-top">
+    <div class="product-top">
+      <div class="product-image image-swap">
+        <a href="/products/links-3mm-necklace-in-silver" class="animation-load-image product-grid-image adaptive_height" data-collections-related="/collections/?view=related" style="padding-top: 100.0%">
+          <!-- <img data-srcset="" class="lazyloading" alt="Links 3mm Necklace in Silver" /> -->
+        </a>
+      </div> 
+    </div>
+    <div class="product-bottom">
+      <div class="wrapper-compare">
+        
+      </div>
+      <a class="product-title " href="/products/links-3mm-necklace-in-silver">
+        
+<span>
+  Links 3mm Necklace in Silver
+</span>
+
+      </a>
+
+      <div class="price-box">
+        
+          
+          <div class="price-regular">
+            <span><em>from </em>$259.00</span>
+          </div>
+          
+        
+      </div>
+
+      	
+    </div>
+  </div>
+</div>
+
+                </div>
+            
+                
+            
+                <div class="grid-item col-6 col-md-4 col-lg-3 ">
+                    
+<div class="inner product-item" data-product-id="product-6932195279010">
+  <div class="inner-top">
+    <div class="product-top">
+      <div class="product-image image-swap">
+        <a href="/products/copy-of-links-3mm-bracelet-in-gold" class="animation-load-image product-grid-image adaptive_height" data-collections-related="/collections/?view=related" style="padding-top: 100.0%">
+          <!-- <img data-srcset="" class="lazyloading" alt="Links 3mm Bracelet in Gold" /> -->
+        </a>
+      </div> 
+    </div>
+    <div class="product-bottom">
+      <div class="wrapper-compare">
+        
+      </div>
+      <a class="product-title " href="/products/copy-of-links-3mm-bracelet-in-gold">
+        
+<span>
+  Links 3mm Bracelet in Gold
+</span>
+
+      </a>
+
+      <div class="price-box">
+        
+          
+          <div class="price-regular">
+            <span>$159.00</span>
+          </div>
+          
+        
+      </div>
+
+      	
+    </div>
+  </div>
+</div>
+
+                </div>
+            
+                
+            
+                <div class="grid-item col-6 col-md-4 col-lg-3 ">
+                    
+<div class="inner product-item" data-product-id="product-6932322844834">
+  <div class="inner-top">
+    <div class="product-top">
+      <div class="product-image image-swap">
+        <a href="/products/links-5mm-toggle-necklace-in-gold" class="animation-load-image product-grid-image adaptive_height" data-collections-related="/collections/?view=related" style="padding-top: 100.0%">
+          <!-- <img data-srcset="" class="lazyloading" alt="Links 5mm Toggle Necklace in Gold" /> -->
+        </a>
+      </div> 
+    </div>
+    <div class="product-bottom">
+      <div class="wrapper-compare">
+        
+      </div>
+      <a class="product-title " href="/products/links-5mm-toggle-necklace-in-gold">
+        
+<span>
+  Links 5mm Toggle Necklace in Gold
+</span>
+
+      </a>
+
+      <div class="price-box">
+        
+          
+          <div class="price-regular">
+            <span>$559.00</span>
+          </div>
+          
+        
+      </div>
+
+      	
+    </div>
+  </div>
+</div>
+
+                </div>
+            
+                
+            
+                <div class="grid-item col-6 col-md-4 col-lg-3 ">
+                    
+<div class="inner product-item" data-product-id="product-4728192237701">
+  <div class="inner-top">
+    <div class="product-top">
+      <div class="product-image image-swap">
+        <a href="/products/earrings-links-5mm-x5-rhodium" class="animation-load-image product-grid-image adaptive_height" data-collections-related="/collections/?view=related" style="padding-top: 100.0%">
+          <!-- <img data-srcset="" class="lazyloading" alt="Links 5mm Earrings in Silver, Long" /> -->
+        </a>
+      </div> 
+    </div>
+    <div class="product-bottom">
+      <div class="wrapper-compare">
+        
+      </div>
+      <a class="product-title " href="/products/earrings-links-5mm-x5-rhodium">
+        
+<span>
+  Links 5mm Earrings in Silver, Long
+</span>
+
+      </a>
+
+      <div class="price-box">
+        
+          
+          <div class="price-regular">
+            <span>$149.00</span>
+          </div>
+          
+        
+      </div>
+
+      	
+    </div>
+  </div>
+</div>
+
+                </div>
+            
+                
+            </div>
+            
+            
+        </div>
+    </div>
+</div>
+
+<style>
+     
+    @media (max-width: 767px) {
+        #new-arrivals-16345254417e3e967d {
+            margin-bottom: 40px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1199px) {
+        #new-arrivals-16345254417e3e967d {
+            margin-bottom: 40px;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        #new-arrivals-16345254417e3e967d {
+            margin-bottom: 50px;
+        }
+    }   
+</style>
+
+
+
+
+</div><section id="shopify-section-163452537092ecff24" class="shopify-section spaced-section"><div class="container">
+<div style="margin-top: 40px; margin-bottom: 60px;" class="container">
+<div class="row" style="display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;">
+
+<div class="col-md-4" style="margin-bottom: 20px; display: flex;
+  flex-direction: column; text-align: center;">
+<a href="/collections/everything-links">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/INSPIRED_BY_BEAUTY_3.jpg?v=1636474140" style="width: 100%;">
+</a>
+</div>
+
+<div class="col-md-8" style="margin-bottom: 20px; display: flex;
+  flex-direction: column; text-align: center;">
+<a style="height: 100%;" href="/collections/all-iconic-chains?constraint=yellow-gold&sort_by=best-selling">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/24K_GOLD_FINISH_1.jpg?v=1636469528" style="height: 100%; width: 100%; object-fit: cover;">
+</a>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+</section><div id="shopify-section-16345253831943c155" class="shopify-section home-new-arrivals-sections">
+
+
+<div class="new-arrivals-product" id="new-arrivals-16345253831943c155" data-new-arrivals-product data-loader-product data-collection="delbrenna-picks-home" data-limit="8" data-grid="4" data-layout="" sectionId="16345253831943c155">
+    <div class="container">
+        
+        <div class="widget-title not-before ">   
+            <h3 class="box-title">
+                <span class="title"> 
+                
+<span>
+  DELBRENNA PICKS
+</span>
+
+                </span>
+            </h3>
+            
+                
+            
+        </div>
+        
+        
+        <div class="widget-product">
+            <div class="products-grid row column-4" data-products-to-show="8">        
+                
+                
+                
+                
+            
+                <div class="grid-item col-6 col-md-4 col-lg-3 ">
+                    
+<div class="inner product-item" data-product-id="product-4728226939013">
+  <div class="inner-top">
+    <div class="product-top">
+      <div class="product-image image-swap">
+        <a href="/products/diamond-cut-oval-dbandco-earrings-yellow-gold" class="animation-load-image product-grid-image adaptive_height" data-collections-related="/collections/?view=related" style="padding-top: 100.0%">
+          <!-- <img data-srcset="" class="lazyloading" alt="DBandCo Earrings in Gold" /> -->
+        </a>
+      </div> 
+    </div>
+    <div class="product-bottom">
+      <div class="wrapper-compare">
+        
+      </div>
+      <a class="product-title " href="/products/diamond-cut-oval-dbandco-earrings-yellow-gold">
+        
+<span>
+  DBandCo Earrings in Gold
+</span>
+
+      </a>
+
+      <div class="price-box">
+        
+          
+          <div class="price-regular">
+            <span>$129.00</span>
+          </div>
+          
+        
+      </div>
+
+      	
+    </div>
+  </div>
+</div>
+
+                </div>
+            
+                
+            
+                <div class="grid-item col-6 col-md-4 col-lg-3 ">
+                    
+<div class="inner product-item" data-product-id="product-6932263796898">
+  <div class="inner-top">
+    <div class="product-top">
+      <div class="product-image image-swap">
+        <a href="/products/links-5mm-bracelet-in-gold" class="animation-load-image product-grid-image adaptive_height" data-collections-related="/collections/?view=related" style="padding-top: 100.0%">
+          <!-- <img data-srcset="" class="lazyloading" alt="Links 5mm Bracelet in Gold" /> -->
+        </a>
+      </div> 
+    </div>
+    <div class="product-bottom">
+      <div class="wrapper-compare">
+        
+      </div>
+      <a class="product-title " href="/products/links-5mm-bracelet-in-gold">
+        
+<span>
+  Links 5mm Bracelet in Gold
+</span>
+
+      </a>
+
+      <div class="price-box">
+        
+          
+          <div class="price-regular">
+            <span>$229.00</span>
+          </div>
+          
+        
+      </div>
+
+      	
+    </div>
+  </div>
+</div>
+
+                </div>
+            
+                
+            
+                <div class="grid-item col-6 col-md-4 col-lg-3 ">
+                    
+<div class="inner product-item" data-product-id="product-7736181063904">
+  <div class="inner-top">
+    <div class="product-top">
+      <div class="product-image image-swap">
+        <a href="/products/guiding-compass-pendant-in-gold" class="animation-load-image product-grid-image adaptive_height" data-collections-related="/collections/?view=related" style="padding-top: 100.0%">
+          <!-- <img data-srcset="" class="lazyloading" alt="Guiding Compass Pendant in Gold" /> -->
+        </a>
+      </div> 
+    </div>
+    <div class="product-bottom">
+      <div class="wrapper-compare">
+        
+      </div>
+      <a class="product-title " href="/products/guiding-compass-pendant-in-gold">
+        
+<span>
+  Guiding Compass Pendant in Gold
+</span>
+
+      </a>
+
+      <div class="price-box">
+        
+          
+          <div class="price-regular">
+            <span>$259.00</span>
+          </div>
+          
+        
+      </div>
+
+      	
+    </div>
+  </div>
+</div>
+
+                </div>
+            
+                
+            </div>
+            
+            
+        </div>
+    </div>
+</div>
+
+<style>
+     
+    @media (max-width: 767px) {
+        #new-arrivals-16345253831943c155 {
+            margin-bottom: 40px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1199px) {
+        #new-arrivals-16345253831943c155 {
+            margin-bottom: 40px;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        #new-arrivals-16345253831943c155 {
+            margin-bottom: 50px;
+        }
+    }   
+</style>
+
+
+
+
+</div><section id="shopify-section-1634525541ef57e3cf" class="shopify-section spaced-section"><div class="container">
+<div style="margin-top: 20px;" class="container">
+<div class="row" style="display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;">
+
+<div class="col-md-8" style="margin-bottom: 20px; display: flex;
+  flex-direction: column; text-align: center;">
+<a href="/pages/experiences">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Row_3.jpg?v=1597738120" style="width: 100%;">
+</a>
+</div>
+
+<div class="col-md-4" style="margin-bottom: 20px; display: flex;
+  flex-direction: column; text-align: center;">
+<a href="/pages/world-of-delbrenna" style="height: 100%;">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Row_3_-_2.jpg?v=1597738120" style="width: 100%; height: 100%; object-fit: cover;">
+</a>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+</section><section id="shopify-section-1634525557c9816788" class="shopify-section spaced-section"><div class="container">
+<div style="margin-top: 40px; padding: 40px 0px 40px 0px; text-align: center;">
+<h2 style="font-size:20px; letter-spacing: 3px;">FOR OUR CUSTOMERS</h2>
+<p>
+During these times, we want to offer our customers enhanced service at your convenience.  Visit <a style="text-decoration: underline;" href="https://delbrenna.com/pages/customer-care">Customer Care to Learn More.</a>
+</p>
+</div>
+<div style="margin-bottom: 80px; margin-top: 20px;" class="container">
+<div class="row">
+
+<div class="col-md-4 col-sm-6 col-6" style="margin-bottom: 30px; text-align: center;">
+<a href="https://delbrenna.com/pages/customer-care#shipping-exchanges-returns">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Fast_Delivery_Icon.png?v=1597738815">
+<h6 style="margin-top: 20px;">FREE SHIPPING</h6>
+<p>
+Fast, free two day shipping in the U.S.
+</p>
+</a>
+</div>
+
+<div class="col-md-4 col-sm-6 col-6" style="margin-bottom: 30px; text-align: center;">
+<a href="https://delbrenna.com/pages/customer-care#return-policy">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Icon_material-assignment-return.png?v=1597738502">
+<h6 style="margin-top: 20px;">30 DAY RETURNS</h6>
+<p>
+Free returns for all purchases made in the last 30 days.
+</p>
+</a>
+</div>
+
+<div class="col-md-4 col-sm-6 col-6" style="margin-bottom: 30px; text-align: center;">
+<a href="https://delbrenna.com/pages/customer-care#payment-methods">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/affirm_logo.png?v=1597738502">
+<h6 style="margin-top: 20px;">FINANCING OPTIONS</h6>
+<p>
+Make monthly installment payments through Affirm.
+</p>
+</a>
+</div>
+
+<div class="col-md-4 col-sm-6 col-6" style="margin-bottom: 30px; text-align: center;">
+<a href="https://delbrenna.com/pages/customer-care#gift-helper">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Gift_Card_Product_Photo.png?v=1597738503">
+<h6 style="margin-top: 20px;">GIFT CARDS</h6>
+<p>
+Give the gift of DelBrenna with an online gift card.
+</p>
+</a>
+</div>
+
+<div class="col-md-4 col-sm-6 col-6" style="margin-bottom: 30px; text-align: center;">
+<a href="https://delbrenna.com/pages/customer-care#gift-helper">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Icon_awesome-gift.png?v=1597738502">
+<h6 style="margin-top: 20px;">GIFT PACKAGING</h6>
+<p>
+All purchases will be delivered in our custom gift packaging.
+</p>
+</a>
+</div>
+
+<div class="col-md-4 col-sm-6 col-6" style="margin-bottom: 30px; text-align: center;">
+<a href="https://delbrenna.com/pages/customer-care#warranty">
+<img src="https://cdn.shopify.com/s/files/1/0340/4654/1957/files/Icon_awesome-tools.png?v=1597738502">
+<h6 style="margin-top: 20px;">1 YEAR WARRANTY</h6>
+<p>
+Any workmanship faults will be repaired or replaced, up to 1 year.
+</p>
+</a>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+</section><section id="shopify-section-1634630614df7412d2" class="shopify-section spaced-section"><div class="container">
+<div id="insta-feed"></div>
+</div>
+
+
+
+
+</section><!-- END content_for_index -->
+        </main>
+
+        
+
+        
+              
+            
+
+                
+        <div id="shopify-section-footer" class="shopify-section"><style>
+  .site-footer {
+    
+      background: #ffffff;
+    
+    
+    	
+  }
+  
+  .site-footer .newsletter .input-group-field {
+  	background-color: rgba(0,0,0,0);
+    color: #717171;
+    border-color: #3b3b3b;
+  }
+  
+  .site-footer .newsletter ::-webkit-input-placeholder {
+    color: #717171;
+  }
+  
+  .site-footer .newsletter ::-moz-placeholder {
+    color: #717171;
+  }
+  
+  .site-footer .newsletter :-ms-input-placeholder {
+    color: #717171;
+  }
+  
+  .site-footer .newsletter :-moz-placeholder {
+    color: #717171;
+  }
+  
+  .site-footer .newsletter .btn {
+  	background-color: #3b3b3b;
+    border-color: #3b3b3b;
+    color: #ffffff;
+  }
+  
+  .site-footer .newsletter .btn:hover {
+  	background-color: #ffffff;
+    border-color: #3b3b3b;
+    color: #3b3b3b;
+  }
+  
+  .site-footer,
+  .foot-title {
+    color: #2d2d2d; 
+  }
+  
+
+  
+  
+  .site-footer a,
+  .header-vertical-tpl .footer-default .newsletter-des {
+    color: #5b5b5b;
+  }
+  
+  .site-footer a:hover {
+    color: #969696; 
+  }
+  
+  .site-footer .foot-link>span:before {
+  	background-color: #969696; 
+  }
+
+  .footer-social li a {
+  	color: #ffffff; 
+    background-color: #212121;
+  }
+  
+  .footer-bottom {
+  	background-color: #ffffff; 
+      
+    border-top: 1px solid #939393;
+     
+  }
+  
+  .footer-bottom,
+  .footer-bottom address,
+  .footer-bottom address a {
+  	color: #242424; 
+  }    
+  
+  .footer-bottom address a:hover {
+  	color: #242424; 
+  }
+  
+  @media (max-width: 767px) {
+    .footer-top .col-footer .dropdow-mb {
+      border-bottom: 1px solid #939393; 
+    }
+  }
+</style>
+<footer class="site-footer footer-default" role="contentinfo" >
+    
+    <div class="footer-top">       
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-12 col-md-12 col-lg-6 col-xl-7 footer-col-left">
+                    <div class="row">
+                        
+
+                        
+                        <div class="col-footer col-12 col-md-3 col-lg-6 col-xl-3">
+                        
+                        <h3 class="foot-title dropdow-mb">
+                            
+<span>
+  Contact
+</span>
+
+                        </h3>
+                        
+
+                        <ul>
+                            
+                            <li>
+                            <a href="/pages/delbrenna-jewelry-styling" title="Consult a Stylist" class="foot-link">
+                                
+<span>
+  Consult a Stylist
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/customer-care" title="Contact Us" class="foot-link">
+                                
+<span>
+  Contact Us
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/locations" title="Stores" class="foot-link">
+                                
+<span>
+  Stores
+</span>
+
+                            </a>
+                            </li>
+                            
+                        </ul>
+                        
+                        </div>
+                        
+                        <div class="col-footer col-12 col-md-3 col-lg-6 col-xl-3">
+                        
+                        <h3 class="foot-title dropdow-mb">
+                            
+<span>
+  Assistance
+</span>
+
+                        </h3>
+                        
+
+                        <ul>
+                            
+                            <li>
+                            <a href="https://delbrenna-jewelry.myshopify.com/account" title="Account / Sign-In" class="foot-link">
+                                
+<span>
+  Account / Sign-In
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="https://delbrenna-jewelry.myshopify.com/account" title="Track Your Order" class="foot-link">
+                                
+<span>
+  Track Your Order
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/customer-care#shipping-exchanges-returns" title="Shipping" class="foot-link">
+                                
+<span>
+  Shipping
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/customer-care#shipping-exchanges-returns" title="Exchanges & Returns" class="foot-link">
+                                
+<span>
+  Exchanges & Returns
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/customer-care#faq" title="FAQs" class="foot-link">
+                                
+<span>
+  FAQs
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/delbrenna-jewelry-lab-services" title="Care & Repair" class="foot-link">
+                                
+<span>
+  Care & Repair
+</span>
+
+                            </a>
+                            </li>
+                            
+                        </ul>
+                        
+                        </div>
+                        
+                        <div class="col-footer col-12 col-md-3 col-lg-6 col-xl-3">
+                        
+                        <h3 class="foot-title dropdow-mb">
+                            
+<span>
+  Services
+</span>
+
+                        </h3>
+                        
+
+                        <ul>
+                            
+                            <li>
+                            <a href="/pages/customer-care" title="Customer Care" class="foot-link">
+                                
+<span>
+  Customer Care
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/world-of-delbrenna" title="World of DelBrenna" class="foot-link">
+                                
+<span>
+  World of DelBrenna
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="https://winedineshine.com/" title="Wine Dine Shine" class="foot-link">
+                                
+<span>
+  Wine Dine Shine
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="https://www.molesini-market.com/" title="Molesini Wine Shop" class="foot-link">
+                                
+<span>
+  Molesini Wine Shop
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/products/gift-card" title="Gift Cards" class="foot-link">
+                                
+<span>
+  Gift Cards
+</span>
+
+                            </a>
+                            </li>
+                            
+                        </ul>
+                        
+                        </div>
+                        
+                        <div class="col-footer col-12 col-md-3 col-lg-6 col-xl-3">
+                        
+                        <h3 class="foot-title dropdow-mb">
+                            
+<span>
+  Our Company
+</span>
+
+                        </h3>
+                        
+
+                        <ul>
+                            
+                            <li>
+                            <a href="/pages/about-delbrenna" title="About" class="foot-link">
+                                
+<span>
+  About
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/timeline" title="Timeline" class="foot-link">
+                                
+<span>
+  Timeline
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/delbrenna-radio" title="DelBrenna Radio" class="foot-link">
+                                
+<span>
+  DelBrenna Radio
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/policies/terms-of-service" title="Terms & Conditions" class="foot-link">
+                                
+<span>
+  Terms & Conditions
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/policies/privacy-policy" title="Privacy Policy" class="foot-link">
+                                
+<span>
+  Privacy Policy
+</span>
+
+                            </a>
+                            </li>
+                            
+                            <li>
+                            <a href="/pages/stockists" title="Stockists" class="foot-link">
+                                
+<span>
+  Stockists
+</span>
+
+                            </a>
+                            </li>
+                            
+                        </ul>
+                        
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="col-12 col-md-12 col-lg-6 col-xl-5 footer-col-right">
+                    
+                    <div class="footer-social">
+                        
+                        <h3 class="social-title foot-title">
+                        
+<span>
+  Follow Us
+</span>
+
+                        </h3>
+                        
+                        
+                        <div class="groups-block">
+                        
+
+
+<ul class="social-icons">
+  
+  <li class="facebook">
+    <a href="https://www.facebook.com/DelBrennaJewelryCortona/" title="Facebook" target="_blank">
+        
+        <i class="fa fa-facebook fa-lg" aria-hidden="true"></i>
+        
+    </a>
+  </li>
+  
+  
+  <li class="twitter">
+    <a href="https://twitter.com/DelBrenna" title="Twitter" target="_blank">
+      <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  <li class="instagram">
+    <a href="https://www.instagram.com/delbrenna/" title="Instagram" target="_blank">
+      <i class="fa fa-instagram fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  
+  
+  
+  <li class="pinterest">
+    <a href="https://www.pinterest.com/delbrenna/pins/" title="Pinterest" target="_blank">
+      <i class="fa fa-pinterest-p fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  
+     
+  
+  
+  
+  
+  <li class="vimeo">
+    <a href="https://delbrenna.com/pages/delbrenna-radio" title="Vimeo" target="_blank">
+      <i class="fa fa-spotify fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  
+
+  
+</ul>
+ 
+
+                        
+                        </div>
+                    </div>
+                    
+                
+                    
+                    <div class="footer-newsletter">
+                        
+                        <h3 class="newsletter-title foot-title">
+                        
+<span>
+  Join Our Newsletter
+</span>
+
+                        </h3>
+                        
+
+                        
+                        
+                        <section class="newsletter">
+  <div class="block-content">
+    
+
+
+<form method="post" action="/contact" id="contact_form" accept-charset="UTF-8" class="input-group"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+<script>
+  $(document).ready(function(){
+    if (window.location.href.indexOf('newsletter&form_type=customer') > -1) {
+      var newsletterSuccessPopup = (function(){
+        var popup = $('.newsletter-success-modal');
+        var close = popup.find('.close');
+        var success = popup.find('.success');
+        var error = popup.find('.error');
+        var overlay = popup.find('.modal-overlay');
+        popup.show();
+        error.show();
+        success.hide();
+        $.cookie('emailSubcribeModal', 'closed', {
+          expires: 1,
+          path: '/'
+        });
+        close.off('click').on('click',function(){
+          popup.fadeOut();
+        });
+        overlay.off('click').on('click',function(){
+          popup.fadeOut();
+        });
+      })();
+      var newURL = location.href.split("?")[0];
+      window.history.pushState('object', document.title, newURL);
+    }
+  })
+</script>
+
+    <input type="hidden" name="contact[tags]" value="newsletter">
+    <input class="input-group-field" type="email" name="contact[email]"  aria-label="Email Address" placeholder="enter your email address" required="required">
+    <input class="btn" type="submit" value="Submit"></form>
+  </div>
+</section>
+
+                    </div>
+                    
+                </div>
+                
+            </div>    
+        </div>
+    </div>
+    
+    
+    
+    <div class="footer-bottom">
+        <div class="container">
+            
+
+            
+            <address>
+                
+                <div>
+                © 2023 DelBrenna Tuscan Artisan LLC ®DelBrenna.
+                </div>
+                
+            </address>
+
+            
+
+            
+            
+            
+
+            
+        </div>
+    </div>
+    
+</footer>
+
+
+</div>
+        
+        
+        <div class="footbar-fixed ">
+            <div id="shopify-section-someone-purchased" class="shopify-section">
+
+<style>
+@media (min-width: 1200px) {
+    .product-notification{
+        
+        right: 15px;
+        
+    }
+} 
+</style>
+
+
+
+
+<script>
+
+    $(document).ready(function() {
+        $('.product-notification').addClass('notifi-right');
+        if($('#accept-cookies').hasClass('cookies-right')){
+          $('.footbar-fixed').addClass('all-right')
+        }
+    })
+
+</script>
+
+
+
+
+<style>
+    @media (max-width: 767px) {
+        .product-notification {
+            display:none;
+        }
+    }
+</style>
+</div>
+            <div id="shopify-section-GDPR-modal" class="shopify-section">
+
+
+
+
+
+
+</div>
+            
+        </div>
+        
+      
+        <div id="back-top" style="display: none;">
+            <a class="nav_up" href="#top" title="Back to top">
+                <i class="fa fa-angle-up" aria-hidden="true"></i>
+            </a>
+        </div>  
+      
+    </div>
+
+    
+
+    
+    
+    <!-- Footer scripts -->
+<script src="//delbrenna.com/cdn/shop/t/14/assets/vendor.min.js?v=23888304798037428931646033689" defer></script>
+<script src="//delbrenna.com/cdn/shop/t/14/assets/api.jquery.js?v=13568615863607319991646033626" async></script>
+<script src="//delbrenna.com/cdn/shopifycloud/shopify/assets/themes_support/option_selection-9f517843f664ad329c689020fb1e45d03cac979f64b9eb1651ea32858b0ff452.js" async></script>
+<script>
+  window.show_auto_currency = false;
+</script>
+
+	
+<script src="//delbrenna.com/cdn/shop/t/14/assets/jquery.sticky.js?v=20130159699687993421646033669"></script>
+<!-- <script src="//delbrenna.com/cdn/shop/t/14/assets/ella.min.js?v=75480080688178420601646033630"></script> -->
+<script src="//delbrenna.com/cdn/shop/t/14/assets/halo.js?v=176720300465400040651646033643"></script>
+
+
+
+
+<script>
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
+
+    
+    
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/template7/1.4.0/template7.js"></script>
+
+<script>
+    (function ($) {
+        var pluginName = 'Search',
+        namespace = 'plugin_' + pluginName;
+
+        function Plugin(element) {
+            this.headerSearch = $(element);
+            this.headerSearchForm = this.headerSearch.find('.header-search__form');
+            this.headerInput = this.headerSearch.find('.header-search__input');
+            this.headerSearchResults = this.headerSearch.find('.header-search__results-wrapper');
+            this.searchResultsTemplate = Template7.compile($('#search-results-template').html());
+            this.PopularProducts = this.headerSearch.find(".header-search__product");
+            this.searchMode = "product";
+            this.searchTrending = $(".quickSearchResultsWrap .header-search__trending .item");
+            this.trending = $(".header-search__trending");
+            this.searchWrapper = this.headerSearch.find('.quickSearchResultsWrap');
+
+            this.headerInput.focus(function(e){
+                e.stopPropagation();
+                
+                $(this).closest('.header-search').find('.quickSearchResultsWrap').show();
+            });
+
+            $(document).mouseup(function (e) {
+                var container = $(".search-form");
+
+                if (!container.is(e.target) && container.has(e.target).length === 0){
+                    container.find('.quickSearchResultsWrap').hide();
+                }
+            });
+
+            this.headerInput.on('focusin', $.proxy(this._focusin, this));
+
+
+            this.headerInput.on('keyup', $.proxy(this._initSearch, this));
+        };
+
+        Plugin.prototype._initSearch = function(event) {
+            var target = $(event.currentTarget);
+
+            if ((event.keyCode ? event.keyCode : event.which) != 13) {
+                clearTimeout(target.data('timeout'));
+                target.data('timeout', setTimeout($.proxy(this._doSearch, this), 250));
+            }
+        };
+
+        Plugin.prototype._doSearch = function(event) {
+
+            if (this.headerInput.val().trim() === '') {
+                this.headerSearchResults.empty();
+                this.searchTrending.show();
+                this.PopularProducts.show();
+                this.searchWrapper.show();
+                this.trending.show();
+
+                return; 
+            }
+            else {
+                this.headerSearchResults.html(this.searchResultsTemplate({is_loading: true}));
+            }
+
+            if (this.headerInput.val().length > 0) {
+                this.searchWrapper.hide();
+                this._doCompleteSearch();
+            }
+            else {
+                this.headerSearchResults.html(this.searchResultsTemplate({is_show: false}));
+                this.searchTrending.show();
+                this.PopularProducts.show();
+                this.searchWrapper.show();
+            }
+
+            if(this.searchTrending.css('display') == 'none') {
+                this.trending.hide();
+            } else {
+                this.trending.show();
+            }
+        };
+
+        Plugin.prototype._doCompleteSearch = function(event) {
+            var self = this;
+
+            $.ajax({
+                method: 'GET',
+                url: window.router + '/search?view=json',
+                dataType: 'json',
+                data: {
+                    q: this.headerInput.val() + '*',
+                    type: this.searchMode
+                }
+            }).then(function(data) {
+
+                self.headerSearchResults.html(self.searchResultsTemplate({
+                    is_show: true,
+                    is_loading: false,
+                    results: data['results'],
+                    has_results: (data['results'].length > 0),
+                    results_count: data['results_count'],
+                    results_label: data['results_label'],
+                    title_heading: data['title_heading'],
+                    results_url: (data['url'] + '&type=' + self.searchMode)
+                }));
+
+                self.PopularProducts.hide();
+
+
+                var value = self.headerInput.val().toLowerCase();
+                if (data && data.length) {
+                    self.searchTrending.filter(function(e) {
+                        $(this).toggle($(this).find('.highlight span').text().toLowerCase().indexOf(value) > -1);
+                    });
+                    self.trending.show();
+                }
+                else {
+                    self.trending.hide();
+                }
+
+                self.searchWrapper.show();
+            });
+        };
+
+        $.fn[pluginName] = function(options) {
+            var method = false,
+            methodArgs = arguments;
+
+            if (typeof options == 'string') {
+                method = options;
+            }
+
+            return this.each(function() {
+                var plugin = $.data(this, namespace);
+
+                if (!plugin && !method) {
+                    $.data(this, namespace, new Plugin(this, options));
+                } else if (method) {
+                    callMethod(plugin, method, Array.prototype.slice.call(methodArgs, 1));
+                }
+            });
+        };
+    }(jQuery));
+
+    $(function() {
+        $('[data-ajax-search]').Search();
+    });
+</script>
+
+    
+    
+    <div class="translate-header" data-translate-header>
+        <div id="dropdown-customer" class="ct_login">  
+  <div class="customer-title">
+    <a href="javascript:void(0)" title="Close" class="close-customer close">
+      <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+      <span >
+        Close
+      </span>
+    </a>
+    
+      
+        <h5 >
+          Sign In
+        </h5>
+      
+    
+  </div>
+  
+  <div class="customer-content">
+    
+    <div class="customer-inner login-customer">
+      <form accept-charset="UTF-8" action="/account/login" method="post">
+        <input name="form_type" type="hidden" value="customer_login" />
+        <input name="utf8" type="hidden" value="✓" />
+
+        <div class="ct-login">
+          <div class="form-group">
+            <label for="customer_email">
+              <span >
+                Email Address
+              </span>
+              <em>*</em>
+            </label>
+            <input class="form-control" type="email" value="" name="customer[email]" placeholder="Email Address" >
+          </div>
+          <div class="form-group">
+            <label for="customer_password">
+              <span >
+                Password
+              </span>
+              <em>*</em>
+            </label>
+            <input class="form-control" type="password" value="" placeholder="Password" name="customer[password]" >
+          </div>
+
+          <div class="action-btn">
+            <input type="submit" class="btn btn-login"  value="Login">
+            <a class="text-hover forgot-password" href="/account/login#recover" >
+              Forgot your password?
+            </a>
+          </div>
+        </div>
+        
+        <div class="ct-register">
+          
+            <a href="/account/register" class="btn btn-register" >
+              Create An Account
+            </a>
+          
+        </div>
+      </form>
+    </div>
+    
+  </div>
+</div>
+        
+
+<div id="dropdown-cart"> 
+  <div class="cart-title">
+    <a href="javascript:void(0)" title="Close" class="close-cart close">
+      <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+      <span >
+        Close
+      </span>
+    </a>
+    
+    <h5 >
+      Your Cart
+    </h5>
+    <div class="wrapper-cartCount" style="display: none;">
+      <span class="cartCount" data-cart-count="">0</span>
+      <span>items</span>
+    </div>
+  </div>
+  
+  <div class="no-items">
+    <p class="cart_empty">
+      Your cart is currently empty.
+    </p>
+    <div class="text-continue">
+      <a class="btn btn-continue"  href="/collections/all">
+        Continue Shopping
+      </a>
+    </div>
+  </div>
+
+  <div class="has-items">
+    
+    <ol class="mini-products-list">  
+      
+    </ol>
+
+    <div class="summary">
+      
+      
+      <div style="display: none" data-cart-discount-wrapper>
+          <div class="order-discount-card-wrapper" data-cart-discount>
+              
+                  <span class="order-discount order-discount--title order-discount--cart">
+                      <svg class="icon icon-saletag" id="icon-saletag">
+                          <path d="M10 3a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm0-3H7a1 1 0 0 0-.71.29l-6 6a1 1 0 0 0 0 1.42l4 4a1 1 0 0 0 1.42 0c.19-.2 5.8-5.81 6-6A1 1 0 0 0 12 5V2a2 2 0 0 0-2-2z" fill="#231F20"></path>
+                      </svg>
+                      <span data-cart-discount-title></span>
+                  </span>
+                  <span class="order-discount order-discount--cart order-discount--cart-total">
+                      -<span data-cart-discount-amount></span>
+                  </span>
+              
+          </div>
+      </div>
+                  
+      <div class="total">
+        <span class="label">
+          <span>
+            Total
+          </span>
+        </span>
+        <span class="price">
+          $0.00
+        </span> 
+      </div>
+      <div class="d-flex">
+        <span class="label">
+          <span>
+            Shipping
+          </span>
+        </span>
+        <span class="text">
+          Taxes and shipping fee will be calculated at checkout
+        </span> 
+      </div>
+    </div>
+
+    
+    <div class="actions">
+      <button class="btn btn-checkout" onclick="window.location='/checkout'" >
+        Check Out
+      </button>
+      <a class="btn btn-view-cart" href="/cart" >
+        View Cart
+      </a>      
+    </div>
+    
+
+    
+    
+    <div class="cart-sidebar-products">
+      <h3></h3>
+      
+      <div class="before-you-leave__content--product">
+          <div class="products-grid" data-product-cart-slider>
+              
+          </div>
+      </div>
+    </div>
+    
+  
+
+  </div>
+
+  
+
+</div>
+
+
+
+
+    </div>
+    
+
+    
+<div class="modal fade halo_modal-custom" id="size_chart" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                
+                <h5 class="modal-title">
+                    
+<span>
+  Size Chart
+</span>
+
+                </h5>
+                
+                
+                <a data-dismiss="modal" class="close close-modal" title="Close" href="javascript:void(0)">
+                    <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+                </a>
+            </div>
+        
+            <div class="modal-body">
+                <div class="size-chart-img">
+                              
+                    
+                    <img class="size-chart-img-display" onError="style.display = 'none';" src="//delbrenna.com/cdn/shop/files/-sizechart.jpg?14222" alt="Size Chart"/>
+                    
+                                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+  
+  	
+<div class="modal fade halo_modal-custom" id="size_chart_quickview" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                
+                <h5 class="modal-title">
+                    
+<span>
+  Size Chart
+</span>
+
+                </h5>
+                
+                
+                <a data-dismiss="modal" class="close close-modal" title="Close" href="javascript:void(0)">
+                    <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+                </a>
+            </div>
+        
+            <div class="modal-body">
+                <div class="size-chart-img">
+                    <img src="//delbrenna.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif" alt="Size Chart"/>             
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+    <div class="loading-modal modal"><div></div><div></div><div></div><div></div></div>
+
+<div class="ajax-lookbook-modal">
+    <div class="overlay"></div>
+    <div class="ajax-modal-content">
+        <a href="javascript:void(0)" data-close-lookbook-modal class="close close-modal">
+        <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+        </a>
+        <div class="lookbook-content"></div>
+    </div>  
+</div>
+
+<div class="ajax-error-modal modal">
+    <div class="modal-inner">
+        <div class="ajax-error-message"></div>
+    </div>
+</div>
+
+<div class="ajax-success-modal halo-modal" data-ajax-cart-success>
+    <div class="modal-overlay">
+        <div class="halo-modal-content">
+            <a class="close close-modal" title="Close">
+                <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+            </a>
+            
+            <div class="halo-modal-body">
+                
+                <div class="cart-popup-content"></div>
+                <div class="cart-popup-coll-related"></div> 
+
+                
+            </div>
+        </div>     
+  </div>
+</div>
+
+
+
+<div class="newsletter-success-modal">
+    <div class="modal-overlay"></div>
+    <div class="halo-modal-content">
+      <a class="close close-modal" title="Close">
+        <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+      </a>
+
+      <div class="halo-modal-body success">
+        <i class="fa fa-check" aria-hidden="true"></i>
+        <span>You have successfully subscribed!</span>
+      </div>
+      <div class="halo-modal-body error">
+        <i class="fa fa-times"></i>
+        <span>This email has been registered</span>
+      </div>
+    </div> 
+</div>
+
+
+
+<div class="halo-modal ajax-editcart" data-cart-edit-modal>
+    <div class="modal-overlay">
+        <div class="halo-modal-content">
+            <a class="close close-modal" title="Close">
+                <span>Close</span>
+                <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+            </a>
+            <div class="halo-modal-body"></div>
+        </div>     
+    </div>
+</div>
+
+
+
+
+
+<div class="halo-modal popup--video" data-popup-video>
+    <div class="modal-overlay">
+        <div class="halo-modal-content">
+            <a class="close close-modal" title="Close">
+                <svg aria-hidden="true" data-prefix="fal" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-times fa-w-10 fa-2x"><path fill="currentColor" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" class=""></path></svg>
+            </a>
+            <div class="halo-modal-body">
+                
+            </div>
+        </div>     
+    </div>
+</div>
+
+
+
+    
+          
+    
+    
+
+    
+    
+    
+    <div class="wrapper-overlay"></div>
+<div id="shopify-block-3795279179704589772" class="shopify-block shopify-app-block"><script>
+    
+
+    window.kaktusAppData = {
+        customerId: null,
+        customerTags: ''.split(',') || []
+    }
+</script>
+<script async src="https://app.showpopup.com/storage/js/kaktus_popup-delbrenna-jewelry.myshopify.com.js?ver=1692277794&shop=delbrenna-jewelry.myshopify.com"></script>
+
+</div></body>
+</html>
