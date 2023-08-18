@@ -1,0 +1,1776 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Valley Solar | Capture the Sun in Western Massachusetts | Professional Solar Solutions, Battery Storage Systems and Installation in Massachusetts</title>
+<meta name="keywords" content="Valley Solar PV Systems Roof Mounted Ground Mounts Trackers Massachusetts Pioneer Valley ">
+<meta name="description" content="Valley Solar is a local professional provider of Photovoltaic solar systems for roof, ground, tracker installations and backup battery storage. We have over 25 years of professional experience.">
+<meta name="google-site-verification" content="JxWX0rQSNmaIa8bKF31TOBfm5QWR-py68Lvj1Q66L-E" />
+<meta name="facebook-domain-verification" content="460zidv7wsesaeu9kb5f19jofamoyf" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MTLW82Z');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167990825-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112653760-1');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-389107350"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-389107350');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '248417770473679'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=248417770473679&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<meta name="google-site-verification" content="tF6zmWDkKTfVIuPhWQtU7xExbc7NZsV9d5bNAeIemuM">
+
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/app.css?id=f4b4630a650f7a8a35cc" as="style">
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/js/app.js?id=9911c97ff4eb6ea27760" as="script">
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/Gotham-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/Gotham-BoldItalic.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/Gotham-Book.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/Gotham-BookItalic.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/Gotham-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/Gotham-MediumItalic.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/Gotham-XLight.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Amaranth&display=swap" rel="stylesheet">
+<link rel="shortcut icon" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/favicon.ico">
+<link rel="shortcut icon" type="image/png" href="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/favicon.png">
+<script async="async" src="https://static.mobilemonkey.com/js/mm_d46a4b0d-fcc2-4bd9-ba30-53c573797cd3-46778184.js"></script>
+<script type="text/javascript" src="//nexus.ensighten.com/choozle/14695/Bootstrap.js"></script>
+		<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}		</style>
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.13 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Explore Valley Solar for top-quality solar panel installations in the Valley region. Eco-friendly energy solutions await at valley solar." />
+	<link rel="canonical" href="https://valleysolar.solar/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Valley Solar | Solar Panel Installer - Tesla Powerwall Installers" />
+	<meta property="og:description" content="Explore Valley Solar for top-quality solar panel installations in the Valley region. Eco-friendly energy solutions await at valley solar." />
+	<meta property="og:url" content="https://valleysolar.solar/" />
+	<meta property="og:site_name" content="Valley Solar" />
+	<meta property="article:modified_time" content="2023-08-05T05:10:34+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://valleysolar.solar/","url":"https://valleysolar.solar/","name":"Valley Solar | Solar Panel Installer - Tesla Powerwall Installers","isPartOf":{"@id":"https://valleysolar.solar/#website"},"about":{"@id":"https://valleysolar.solar/#organization"},"datePublished":"2020-01-23T18:39:13+00:00","dateModified":"2023-08-05T05:10:34+00:00","description":"Explore Valley Solar for top-quality solar panel installations in the Valley region. Eco-friendly energy solutions await at valley solar.","breadcrumb":{"@id":"https://valleysolar.solar/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://valleysolar.solar/"]}]},{"@type":"BreadcrumbList","@id":"https://valleysolar.solar/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://valleysolar.solar/#website","url":"https://valleysolar.solar/","name":"Valley Solar","description":"Capture the Sun in Western Massachusetts | Professional Solar Solutions, Battery Storage Systems and Installation in Massachusetts","publisher":{"@id":"https://valleysolar.solar/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://valleysolar.solar/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://valleysolar.solar/#organization","name":"Valley Solar","url":"https://valleysolar.solar/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://valleysolar.solar/#/schema/logo/image/","url":"https://valleysolar.solar/vsolar2020/wp-content/uploads/2021/03/vslogo2021.png","contentUrl":"https://valleysolar.solar/vsolar2020/wp-content/uploads/2021/03/vslogo2021.png","width":1845,"height":429,"caption":"Valley Solar"},"image":{"@id":"https://valleysolar.solar/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='stylesheet' id='ga_appointments_calendar_css-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/gAppointments/assets/calendar.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ga_appointments_schedule_css-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/gAppointments/assets/schedule.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ga_appointments_calendar_css_grid-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/gAppointments/assets/grid.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://valleysolar.solar/vsolar2020/wp-includes/css/dashicons.min.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ga-font-awesome-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/gAppointments/assets/font-awesome.min.css?ver=1.2.6' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='foobox-free-min-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='vsapp-css' href='https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/css/vs.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='new-royalslider-core-css-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/new-royalslider/lib/royalslider/royalslider.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rsDefaultInv-css-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/new-royalslider/lib/royalslider/skins/default-inverted/rs-default-inverted.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.52' type='text/css' media='all' />
+<link rel='stylesheet' id='lgc-unsemantic-grid-responsive-tablet-css' href='https://valleysolar.solar/vsolar2020/wp-content/plugins/lightweight-grid-columns/css/unsemantic-grid-responsive-tablet.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-content/plugins/gravityforms/js/chosen.jquery.min.js?ver=2.7.11' id='gform_chosen-js'></script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/js/manifest.js?ver=1' id='vsmanifest-js'></script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/js/vendor.js?ver=1' id='vsvendor-js'></script>
+<script src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/js/app.js?ver=1" defer="defer" type="text/javascript"></script>
+<script id="foobox-free-min-js-before" type="text/javascript">
+/* Run FooBox FREE (v2.7.27) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.27' id='foobox-free-min-js'></script>
+<link rel="https://api.w.org/" href="https://valleysolar.solar/wp-json/" /><link rel="alternate" type="application/json" href="https://valleysolar.solar/wp-json/wp/v2/pages/5" /><link rel='shortlink' href='https://valleysolar.solar/' />
+<link rel="alternate" type="application/json+oembed" href="https://valleysolar.solar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvalleysolar.solar%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://valleysolar.solar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvalleysolar.solar%2F&#038;format=xml" />
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" href="https://valleysolar.solar/vsolar2020/wp-content/plugins/lightweight-grid-columns/css/ie.min.css" />
+		<![endif]-->
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style>
+			.ga_provider_page {
+				display: none !important;
+			}
+
+			.ga_customer_page {
+				display: none !important;
+			}
+
+			.ga_appointments_calendar_header,
+			.ga_monthly_schedule_wrapper table thead,
+			.ga_monthly_schedule_wrapper table thead th {
+				background: #d99e25 !important;
+			}
+
+			.ga_wrapper_small .ga_monthly_schedule_wrapper td.selected,
+			.ga_wrapper_small .ga_monthly_schedule_wrapper td.day_available:hover {
+				color: #d99e25 !important;
+			}
+
+			.ga_wrapper_small .ga_monthly_schedule_wrapper td.day_available:hover span,
+			.ga_wrapper_small .ga_monthly_schedule_wrapper td.selected span,
+			.ga_wrapper_medium .ga_monthly_schedule_wrapper td.day_available:hover span,
+			.ga_wrapper_medium .ga_monthly_schedule_wrapper td.selected span,
+			.ga_wrapper_large .ga_monthly_schedule_wrapper td.day_available:hover span,
+			.ga_wrapper_large .ga_monthly_schedule_wrapper td.selected span {
+				background: #d99e25 !important;
+				border: 2px solid #d99e25 !important;
+			}
+
+			.ga_wrapper_small .ga_monthly_schedule_wrapper td.ga_today span,
+			.ga_wrapper_medium .ga_monthly_schedule_wrapper td.ga_today span,
+			.ga_wrapper_large .ga_monthly_schedule_wrapper td.ga_today span {
+				border: 2px solid #d99e25 !important;
+			}
+
+			#no_time_slots i {
+				color: #d99e25 !important;
+			}
+
+			.ga_appointments_calendar_header h3,
+			.ga_appointments_calendar_header .arrow-left,
+			.ga_appointments_calendar_header .arrow-right,
+			.ga_monthly_schedule_wrapper thead th {
+				color: #ffffff !important;
+			}
+
+			.ga_monthly_schedule_wrapper td {
+				background: #f1f3f6 !important;
+			}
+
+			.ga_monthly_schedule_wrapper.ga_spinner:before {
+				background: rgba(250, 250, 250, 0.3) !important;
+			}
+
+			.ga_monthly_schedule_wrapper.ga_spinner:after {
+				border-color: #1dd59a transparent transparent !important;
+			}
+
+			.ga_monthly_schedule_wrapper td {
+				border-color: #000000 !important;
+			}
+
+			.ga_monthly_schedule_wrapper td {
+				color: #6D8298 !important;
+			}
+
+			.ga_wrapper_small .ga_monthly_schedule_wrapper td.selected,
+			.ga_wrapper_medium .ga_monthly_schedule_wrapper td.selected,
+			.ga_wrapper_large .ga_monthly_schedule_wrapper td.selected {
+				color: #ffffff !important;
+			}
+
+			.ga_wrapper_small .ga_monthly_schedule_wrapper td.day_available:hover,
+			.ga_wrapper_medium .ga_monthly_schedule_wrapper td.day_available:hover,
+			.ga_wrapper_large .ga_monthly_schedule_wrapper td.day_available:hover {
+				color: #ffffff !important;
+			}
+
+			.ga_wrapper_small .ga_monthly_schedule_wrapper td.day_available,
+			.ga_wrapper_medium .ga_monthly_schedule_wrapper td.day_available,
+			.ga_wrapper_large .ga_monthly_schedule_wrapper td.day_available {
+				background: #ffffff !important;
+			}
+
+			.ga_monthly_schedule_wrapper td.selected:after {
+				border-color: #ffffff transparent transparent transparent !important;
+			}
+
+			#gappointments_calendar_slots label.time_slot {
+				color: #6D8298 !important;
+			}
+
+			.ga_monthly_schedule_wrapper td.calendar_slots {
+				background: #e4e8ea !important;
+			}
+
+			#gappointments_calendar_slots label.time_selected div {
+				background: #1dd59a !important;
+			}
+
+			#gappointments_calendar_slots label.time_selected div {
+				color: #ffffff !important;
+			}
+
+			#gappointments_calendar_slots .calendar_time_slots .slots-title,
+			#no_time_slots span {
+				color: #333333 !important;
+			}
+
+
+			.ga_monthly_schedule_wrapper td.calendar_slots {
+				border: 1px solid rgba(0,0,0,0.03) !important;
+			}
+
+			.ajax-spinner-bars>div {
+				background-color: #25363F !important;
+			}
+
+					</style>
+
+
+</head>
+<body class="home page-template page-template-valleysolar-home page-template-valleysolar-home-php page page-id-5">
+	<body class="homepage" class="home page-template page-template-valleysolar-home page-template-valleysolar-home-php page page-id-5">
+
+<!-- START SVG Defs -->
+<div style="height: 0; width: 0; position: absolute; visibility: hidden">
+<svg><defs /><symbol id="add" viewBox="0 0 18 18">
+
+<title>plus</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_Portal_Training_1A" transform="translate(-416.000000, -770.000000)" stroke="currentColor" stroke-width="2">
+<g id="add" transform="translate(400.000000, 754.000000)">
+<g id="IMG">
+<g id="plus" transform="translate(25.146447, 25.087752) rotate(45.000000) translate(-25.146447, -25.087752) translate(18.646447, 18.587752)">
+<polyline id="Path-3-Copy" transform="translate(9.252953, 6.187950) rotate(90.000000) translate(-9.252953, -6.187950) " points="3.18795027 3.18795027 9.18795027 9.18795027 15.3179552 3.18795027" />
+<polyline id="Path-3-Copy" transform="translate(3.252953, 6.187950) scale(-1, 1) rotate(90.000000) translate(-3.252953, -6.187950) " points="-2.81204973 3.18795027 3.18795027 9.18795027 9.31795517 3.18795027" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="alert" viewBox="0 0 39 36">
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_Portal_MyApplications_2A" transform="translate(-401.000000, -1155.000000)">
+<g id="Content" transform="translate(0.000000, 28.000000)">
+<g id="Applications" transform="translate(397.000000, 467.000000)">
+<g id="Current" transform="translate(0.000000, 184.000000)">
+<g id="C" transform="translate(0.000000, 467.000000)">
+<g id="Tag" transform="translate(1.000000, 4.000000)">
+<path d="M27.7294532,9.29680573 L39.9703683,31.0584326 C41.5949512,33.9465798 40.5706298,37.6048704 37.6824825,39.2294532 C36.7843927,39.7346288 35.7713362,40 34.7409151,40 L10.2590849,40 C6.94537641,40 4.25908491,37.3137085 4.25908491,34 C4.25908491,32.9695789 4.52445614,31.9565224 5.02963168,31.0584326 L17.2705468,9.29680573 C18.8951296,6.40865846 22.5534202,5.38433711 25.4415674,7.00891994 C26.3993144,7.5476526 27.1907206,8.33905879 27.7294532,9.29680573 Z" id="Triangle" stroke="currentColor" stroke-width="2" />
+<text id="!" font-family="Gotham-Book" font-size="25" font-weight="300" letter-spacing="-1.071875" fill="currentColor">
+<tspan x="19.6484375" y="34">!</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="arrow-down" viewBox="0 0 16 16">
+<title>arrow-down</title>
+<path d="M16 5.5l-2-2-6 6-6-6-2 2 8 8 8-8z" />
+</symbol><symbol id="arrow-left" viewBox="0 0 16 16">
+<title>arrow-left</title>
+<path d="M10.5 16l2-2-6-6 6-6-2-2-8 8 8 8z" />
+</symbol><symbol id="arrow-right" viewBox="0 0 16 16">
+<title>arrow-right</title>
+<path d="M5.5 0l-2 2 6 6-6 6 2 2 8-8-8-8z" />
+</symbol><symbol id="arrow-up" viewBox="0 0 16 16">
+<title>arrow-up</title>
+<path d="M0 10.5l2 2 6-6 6 6 2-2-8-8-8 8z" />
+</symbol><symbol id="battery" viewBox="0 0 22 13"><title>Asset 9</title><g id="Layer_2" data-name="Layer 2"><g id="creds_storage"><path d="M20,2.5H19V0H0V13H19V10.5h1a2,2,0,0,0,2-2v-4A2,2,0,0,0,20,2.5ZM17,11H2V2H17v9Zm3-2.5H19v-4h1Z" style="fill-rule:evenodd" /><polygon points="4 9 8.92 9 11.92 4 4 4 4 9" style="fill-rule:evenodd" /></g></g></symbol><symbol id="bin" viewBox="0 0 20 20"><title>Asset 7</title><g id="Layer_2" data-name="Layer 2"><g id="profile_delete"><path d="M19,4H15V3a3,3,0,0,0-3-3H8A3,3,0,0,0,5,3V4H1A1,1,0,0,0,1,6H2V16a4,4,0,0,0,4,4h8a4,4,0,0,0,4-4V6h1a1,1,0,0,0,0-2ZM7,3A1,1,0,0,1,8,2h4a1,1,0,0,1,1,1V4H7Zm9,13a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2V6H16Z" /><path d="M7.5,8.5a1,1,0,0,0-1,1v4.64a1,1,0,0,0,2,0V9.5A1,1,0,0,0,7.5,8.5Z" /><path d="M12.5,8.5a1,1,0,0,0-1,1v4.64a1,1,0,0,0,2,0V9.5A1,1,0,0,0,12.5,8.5Z" /></g></g></symbol><symbol id="calendar" viewBox="0 0 19 20"><title>Asset 2</title><g id="Layer_2" data-name="Layer 2"><g id="nav_news"><polygon points="6.7 9.93 9.88 9.93 6.86 15 9.39 15 12.44 9.76 12.44 8 6.7 8 6.7 9.93" /><path d="M18,1H14a1,1,0,0,0-2,0H7A1,1,0,0,0,5,1H1A1,1,0,0,0,0,2V19a1,1,0,0,0,1,1H18a1,1,0,0,0,1-1V2A1,1,0,0,0,18,1ZM17,18H2V3H5V4.5a1,1,0,0,0,2,0V3h5V4.5a1,1,0,0,0,2,0V3h3Z" /></g></g></symbol><symbol id="camera-video" viewBox="0 0 18 12">
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+<g id="_Portal_Webinars_1A_(Installers)" transform="translate(-411.000000, -1185.000000)" stroke="currentColor" stroke-width="2">
+<g id="VIdeo" transform="translate(400.000000, 1171.000000)">
+<g id="Icon" transform="translate(12.000000, 15.000000)">
+<rect id="Rectangle" x="0" y="1.42108547e-14" width="11" height="10" />
+<polygon id="Triangle" transform="translate(13.500000, 5.000000) scale(-1, 1) rotate(90.000000) translate(-13.500000, -5.000000) " points="15.5 2.5 17.5 7.5 9.5 7.5 11.5 2.5" />
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="checkbox-checked" viewBox="0 0 20 20">
+
+<title>Group 2</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_News_1A" transform="translate(-650.000000, -514.000000)" stroke-width="2">
+<g id="Content" transform="translate(0.000000, 299.000000)">
+<g id="Filters" transform="translate(250.000000, 109.000000)">
+<g id="Categories" transform="translate(0.000000, 57.000000)">
+<g id="Check-boxes" transform="translate(1.000000, 44.000000)">
+<g id="Group-2" transform="translate(399.000000, 5.000000)">
+<rect id="Rectangle-11-Copy-5" stroke="#EF6E0B" x="1" y="1" width="18" height="18" />
+<polyline id="Path-2" stroke="#000000" points="6.15659859 11.429636 9.29418116 14.0252147 14.7905137 6.92671231" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="checkbox" viewBox="0 0 20 20">
+
+<title>Rectangle 11 Copy 4</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_News_1A" transform="translate(-650.000000, -554.000000)" stroke="#EF6E0B" stroke-width="2">
+<g id="Content" transform="translate(0.000000, 299.000000)">
+<g id="Filters" transform="translate(250.000000, 109.000000)">
+<g id="Categories" transform="translate(0.000000, 57.000000)">
+<g id="Check-boxes" transform="translate(1.000000, 44.000000)">
+<rect id="Rectangle-11-Copy-4" x="400" y="46" width="18" height="18" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="clipboard" viewBox="0 0 19 21.57"><title>Asset 6</title><g id="Layer_2" data-name="Layer 2"><g id="nav_accreditation"><path d="M14.5,15.07H5a1,1,0,0,0,0,2h9.5a1,1,0,0,0,0-2Z" /><path d="M4,12.07a1,1,0,0,0,1,1h9.5a1,1,0,0,0,0-2H5A1,1,0,0,0,4,12.07Z" /><path d="M18,2.57H14V2.36a1,1,0,0,0-.38-.79A6.55,6.55,0,0,0,9.56,0,7.05,7.05,0,0,0,5.4,1.55a1,1,0,0,0-.4.81v.21H1a1,1,0,0,0-1,1v17a1,1,0,0,0,1,1H18a1,1,0,0,0,1-1v-17A1,1,0,0,0,18,2.57Zm-11,2V2.88A4.75,4.75,0,0,1,9.56,2,4.29,4.29,0,0,1,12,2.86v2H7Zm10,15H2v-15H5V5.86a1,1,0,0,0,1,1h7a1,1,0,0,0,1-1V4.57h3Z" /></g></g></symbol><symbol id="close" viewBox="0 0 20 20">
+<title>close</title>
+<path d="M10 8.586l-7.071-7.071-1.414 1.414 7.071 7.071-7.071 7.071 1.414 1.414 7.071-7.071 7.071 7.071 1.414-1.414-7.071-7.071 7.071-7.071-1.414-1.414-7.071 7.071z" />
+</symbol><symbol id="dashboard" viewBox="0 0 19 19"><title>Asset 5</title><g id="Layer_2" data-name="Layer 2"><g id="nav_dashboard"><path d="M7,11H1a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H7a1,1,0,0,0,1-1V12A1,1,0,0,0,7,11ZM6,17H2V13H6Z" /><path d="M7,0H1A1,1,0,0,0,0,1V7A1,1,0,0,0,1,8H7A1,1,0,0,0,8,7V1A1,1,0,0,0,7,0ZM6,6H2V2H6Z" /><path d="M18,11H12a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1h6a1,1,0,0,0,1-1V12A1,1,0,0,0,18,11Zm-1,6H13V13h4Z" /><path d="M15,8a4,4,0,1,0-4-4A4,4,0,0,0,15,8Zm0-6a2,2,0,1,1-2,2A2,2,0,0,1,15,2Z" /></g></g></symbol><symbol id="drop" viewBox="0 0 15 21.5"><title>Asset 20</title><g id="Layer_2" data-name="Layer 2"><g id="creds_hydro"><path d="M7.5,16a1,1,0,0,1-1-1,1,1,0,0,0-2,0,3,3,0,0,0,3,3,1,1,0,0,0,0-2Z" /><path d="M15,14h0C15,10.39,12.74,5.88,8.28.37a1,1,0,0,0-1.56,0C2.26,5.9,0,10.42,0,14H0a7.5,7.5,0,0,0,15,0ZM7.5,19.5A5.5,5.5,0,0,1,2,14C2,11.18,3.82,7.36,7.5,2.61,11.18,7.34,13,11.16,13,14A5.5,5.5,0,0,1,7.5,19.5Z" /></g></g></symbol><symbol id="dropdown-arrow" viewBox="0 0 20 20">
+
+<title>arrow</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_Portal_Dashboard_1A" transform="translate(-964.000000, -800.000000)" stroke="#EF6E0B" stroke-width="2">
+<g id="r" transform="translate(338.000000, 28.000000)">
+<g id="Overview" transform="translate(60.000000, 161.000000)">
+<g id="profile" transform="translate(2.000000, 97.000000)">
+<g id="Download-(certs/ID)" transform="translate(408.000000, 500.000000)">
+<g id="arrow" transform="translate(156.000000, 14.000000)">
+<rect id="Rectangle-11-Copy" x="1" y="1" width="18" height="18" rx="9" />
+<polyline id="Path-3" points="6 8 10 12 14.0866699 8" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="facebook" viewBox="0 0 27 32"><path d="M22.286 2.286q2.125 0 3.634 1.509t1.509 3.634v17.143q0 2.125-1.509 3.634t-3.634 1.509h-3.357V19.09h3.554l.536-4.143H18.93v-2.643q0-1 .42-1.5t1.634-.5l2.179-.018V6.59q-1.125-.161-3.179-.161-2.429 0-3.884 1.429t-1.455 4.036v3.054h-3.571v4.143h3.571v10.625h-9.5q-2.125 0-3.634-1.509T.002 24.573V7.43q0-2.125 1.509-3.634t3.634-1.509h17.143z" /></symbol><symbol id="filter-bars" viewBox="0 0 28 17">
+
+<title>Group</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+<g id="_News_1A" transform="translate(-1145.000000, -322.000000)" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="3">
+<g id="Content" transform="translate(0.000000, 299.000000)">
+<g id="Header" transform="translate(250.000000, 0.000000)">
+<g id="Filter" transform="translate(879.000000, 0.000000)">
+<g id="Group" transform="translate(18.000000, 23.000000)">
+<path d="M7.40625,15.5 L17.5,15.5" id="Line-3" />
+<path d="M4.4047619,8.5 L20.5952381,8.5" id="Line-3" />
+<path d="M0.392857143,1.5 L24.5,1.5" id="Line-3" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="hexagon" viewBox="0 0 54 60">
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_Portal_Assessments_1A" transform="translate(-400.000000, -746.000000)">
+<g id="Content" transform="translate(0.000000, 28.000000)">
+<g id="Page" transform="translate(330.000000, 494.000000)">
+<g id="Years" transform="translate(0.000000, 199.000000)">
+<g id="2019">
+<g id="IMG" transform="translate(0.000000, 24.000000)">
+<path fill="currentColor" fill-rule="nonzero" d="M102.077131,2.51452557 L118.977837,12.2721527 C122.071848,14.0584807 123.977837,17.3597509 123.977837,20.9324068 L123.977837,40.4476611 C123.977837,44.020317 122.071848,47.3215871 118.977837,49.1079151 L102.077131,58.8655422 C98.9831204,60.6518702 95.171142,60.6518702 92.0771312,58.8655422 L75.1764252,49.1079151 C72.0824144,47.3215871 70.1764252,44.020317 70.1764252,40.4476611 L70.1764252,20.9324068 C70.1764252,17.3597509 72.0824144,14.0584807 75.1764252,12.2721527 L92.0771312,2.51452557 C95.171142,0.728197618 98.9831204,0.728197618 102.077131,2.51452557 Z" id="Polygon" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="home" viewBox="0 0 30 32">
+<title>Shape</title>
+<path d="M28.977 11.259l-12.68-10.402c-0.578-0.476-1.428-0.476-2.040 0l-12.68 10.402c-0.374 0.306-0.578 0.748-0.578 1.258v16.385c0 0.884 0.714 1.598 1.598 1.598h25.394c0.884 0 1.598-0.714 1.598-1.598v-16.419c0-0.476-0.238-0.918-0.612-1.224zM26.36 27.271h-22.164v-14.006l11.082-9.11 11.082 9.11v14.006z" />
+</symbol><symbol id="hybrid" viewBox="0 0 21.5 20"><title>Asset 10</title><g id="Layer_2" data-name="Layer 2"><g id="creds_hybrid"><path d="M3,0,0,20H8L11,0ZM8.68,2l-.6,4h-4l.6-4Zm-.9,6-.6,4h-4l.6-4ZM2.32,18l.6-4h4l-.6,4Z" /><path d="M21,10.38l-.24-.4L19.07,11.1l.14.22A2.51,2.51,0,0,1,17,15H10.35v2H17a4.49,4.49,0,0,0,4.5-4.5A4.41,4.41,0,0,0,21,10.38Z" /><path d="M15.55,11h0a4.5,4.5,0,1,0-3.24-7.76l1.38,1.45A2.5,2.5,0,1,1,15.41,9H11.24v2Z" /></g></g></symbol><symbol id="instagram" viewBox="0 0 16 16">
+<title>instagram</title>
+<path d="M8 1.441c2.137 0 2.391 0.009 3.231 0.047 0.781 0.034 1.203 0.166 1.484 0.275 0.372 0.144 0.641 0.319 0.919 0.597 0.281 0.281 0.453 0.547 0.6 0.919 0.109 0.281 0.241 0.706 0.275 1.484 0.037 0.844 0.047 1.097 0.047 3.231s-0.009 2.391-0.047 3.231c-0.034 0.781-0.166 1.203-0.275 1.484-0.144 0.372-0.319 0.641-0.597 0.919-0.281 0.281-0.547 0.453-0.919 0.6-0.281 0.109-0.706 0.241-1.484 0.275-0.844 0.037-1.097 0.047-3.231 0.047s-2.391-0.009-3.231-0.047c-0.781-0.034-1.203-0.166-1.484-0.275-0.372-0.144-0.641-0.319-0.919-0.597-0.281-0.281-0.453-0.547-0.6-0.919-0.109-0.281-0.241-0.706-0.275-1.484-0.038-0.844-0.047-1.097-0.047-3.231s0.009-2.391 0.047-3.231c0.034-0.781 0.166-1.203 0.275-1.484 0.144-0.372 0.319-0.641 0.597-0.919 0.281-0.281 0.547-0.453 0.919-0.6 0.281-0.109 0.706-0.241 1.484-0.275 0.841-0.038 1.094-0.047 3.231-0.047zM8 0c-2.172 0-2.444 0.009-3.297 0.047-0.85 0.038-1.434 0.175-1.941 0.372-0.528 0.206-0.975 0.478-1.419 0.925-0.447 0.444-0.719 0.891-0.925 1.416-0.197 0.509-0.334 1.091-0.372 1.941-0.037 0.856-0.047 1.128-0.047 3.3s0.009 2.444 0.047 3.297c0.038 0.85 0.175 1.434 0.372 1.941 0.206 0.528 0.478 0.975 0.925 1.419 0.444 0.444 0.891 0.719 1.416 0.922 0.509 0.197 1.091 0.334 1.941 0.372 0.853 0.037 1.125 0.047 3.297 0.047s2.444-0.009 3.297-0.047c0.85-0.037 1.434-0.175 1.941-0.372 0.525-0.203 0.972-0.478 1.416-0.922s0.719-0.891 0.922-1.416c0.197-0.509 0.334-1.091 0.372-1.941 0.037-0.853 0.047-1.125 0.047-3.297s-0.009-2.444-0.047-3.297c-0.037-0.85-0.175-1.434-0.372-1.941-0.197-0.531-0.469-0.978-0.916-1.422-0.444-0.444-0.891-0.719-1.416-0.922-0.509-0.197-1.091-0.334-1.941-0.372-0.856-0.041-1.128-0.050-3.3-0.050v0z" />
+<path d="M8 3.891c-2.269 0-4.109 1.841-4.109 4.109s1.841 4.109 4.109 4.109 4.109-1.841 4.109-4.109c0-2.269-1.841-4.109-4.109-4.109zM8 10.666c-1.472 0-2.666-1.194-2.666-2.666s1.194-2.666 2.666-2.666c1.472 0 2.666 1.194 2.666 2.666s-1.194 2.666-2.666 2.666z" />
+<path d="M13.231 3.728c0 0.53-0.43 0.959-0.959 0.959s-0.959-0.43-0.959-0.959c0-0.53 0.43-0.959 0.959-0.959s0.959 0.43 0.959 0.959z" />
+</symbol>
+
+<symbol id="linkedin" viewBox="0 0 16 16">
+<title>linkedin</title>
+<path d="M6 6h2.767v1.418h0.040c0.385-0.691 1.327-1.418 2.732-1.418 2.921 0 3.461 1.818 3.461 4.183v4.817h-2.885v-4.27c0-1.018-0.021-2.329-1.5-2.329-1.502 0-1.732 1.109-1.732 2.255v4.344h-2.883v-9z" />
+<path d="M1 6h3v9h-3v-9z" />
+<path d="M4 3.5c0 0.828-0.672 1.5-1.5 1.5s-1.5-0.672-1.5-1.5c0-0.828 0.672-1.5 1.5-1.5s1.5 0.672 1.5 1.5z" />
+</symbol>
+<symbol id="yelp" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 228.097 228.097" style="enable-background:new 0 0 228.097 228.097;" xml:space="preserve" >
+<title>yelp</title>
+
+<g>
+	<path style="fill:#ffffff;" d="M173.22,68.06c8.204,6.784,30.709,25.392,27.042,38.455c-1.696,5.867-8.434,7.746-13.43,9.579
+		c-11.505,4.171-23.33,7.471-35.339,9.9c-9.717,1.971-30.48,6.279-26.63-10.909c1.512-6.646,6.875-12.284,11.184-17.28
+		c8.846-10.404,17.876-21.405,28.555-29.93c0.871-0.688,1.925-0.871,2.842-0.733C169.232,66.41,171.386,66.502,173.22,68.06z"/>
+	<path style="fill:#ffffff;" d="M161.119,205.197c-7.196-5.821-12.284-14.942-16.684-22.917c-4.309-7.7-11.092-17.876-12.238-26.813
+		c-2.337-18.38,24.292-7.333,31.947-4.675c10.175,3.575,37.447,7.517,34.422,23.421c-2.521,12.971-18.151,28.784-31.213,30.801
+		c-0.137,0.046-0.321,0-0.504,0c-0.046,0.046-0.092,0.092-0.137,0.137c-0.367,0.183-0.779,0.413-1.192,0.596
+		C163.961,206.573,162.449,206.252,161.119,205.197z"/>
+	<path style="fill:#ffffff;" d="M101.58,157.896c14.484-6.004,15.813,10.175,15.721,19.984c-0.137,11.688-0.504,23.421-1.375,35.063
+		c-0.321,4.721-0.137,10.405-4.629,13.384c-5.546,3.667-16.225,0.779-21.955-1.008c-0.183-0.092-0.367-0.183-0.55-0.229
+		c-12.054-2.108-26.767-7.654-28.188-18.792c-0.138-1.283,0.367-2.429,1.146-3.3c0.367-0.688,0.733-1.329,1.146-1.925
+		c1.788-2.475,3.85-4.675,5.913-6.921c3.483-5.179,7.242-10.175,11.229-14.988C85.813,172.197,92.917,161.471,101.58,157.896z"/>
+	<path style="fill:#ffffff;" d="M103.689,107.661c-21.13-17.371-41.71-44.276-52.344-69.164
+		c-8.113-18.93,12.513-30.48,28.417-35.705c21.451-7.059,29.976-0.917,32.13,20.534c1.788,18.471,2.613,37.08,2.475,55.643
+		c-0.046,7.838,2.154,20.488-2.429,27.547c0.733,2.888-3.621,4.95-6.096,2.979c-0.367-0.275-0.733-0.642-1.146-0.963
+		C104.33,108.303,104.009,108.028,103.689,107.661z"/>
+	<path style="fill:#ffffff;" d="M101.397,134.566c1.696,7.517-3.621,10.542-9.854,13.384c-11.092,4.996-22.734,8.984-34.422,12.284
+		c-6.784,1.879-17.188,6.371-23.742,1.375c-4.95-3.758-5.271-11.596-5.729-17.28c-1.008-12.696,0.917-42.993,18.517-44.276
+		c8.617-0.596,19.388,7.104,26.447,11.138c9.396,5.409,19.48,11.596,26.492,20.076C100.159,131.862,101.03,132.916,101.397,134.566z
+		"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</symbol>
+<symbol id="lock" viewBox="0 0 20 20"><title>Asset 8</title><g id="Layer_2" data-name="Layer 2"><g id="profile_lock"><path d="M19,8H16V5.5A5.5,5.5,0,0,0,10.5,0h-1A5.5,5.5,0,0,0,4,5.5V8H1A1,1,0,0,0,0,9V19a1,1,0,0,0,1,1H19a1,1,0,0,0,1-1V9A1,1,0,0,0,19,8ZM6,5.5A3.5,3.5,0,0,1,9.5,2h1A3.5,3.5,0,0,1,14,5.5V8H6ZM18,18H2V10H18Z" /></g></g></symbol><symbol id="menu" viewBox="0 0 20 20">
+<title>menu</title>
+<path d="M0 3h20v2h-20v-2zM0 9h20v2h-20v-2zM0 15h20v2h-20v-2z" />
+</symbol><symbol id="minus-outline" viewBox="0 0 30 30">
+
+<title>minus</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_FAQ&apos;s_1A" transform="translate(-1145.000000, -1647.000000)" stroke="#EF6E0B" stroke-width="2">
+<g id="Content" transform="translate(243.000000, 707.000000)">
+<g id="FAQ&apos;s" transform="translate(0.000000, 729.000000)">
+<g id="FAQ-Group" transform="translate(10.000000, 0.000000)">
+<g id="FAQ-(open)" transform="translate(317.000000, 170.000000)">
+<g id="minus" transform="translate(575.000000, 41.000000)">
+<rect id="Rectangle-11" x="1" y="1" width="28" height="28" rx="14" />
+<path d="M9,15 L21,15" id="Path-3-Copy" transform="translate(15.000000, 15.000000) scale(1, -1) rotate(180.000000) translate(-15.000000, -15.000000) " />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="minus-solid" viewBox="0 0 30 30">
+
+<title>minus</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="#EF6E0B" fill-rule="evenodd">
+<g id="_FAQ&apos;s_1A" transform="translate(-1145.000000, -1647.000000)" stroke-width="2">
+<g id="Content" transform="translate(243.000000, 707.000000)">
+<g id="FAQ&apos;s" transform="translate(0.000000, 729.000000)">
+<g id="FAQ-Group" transform="translate(10.000000, 0.000000)">
+<g id="FAQ-(open)" transform="translate(317.000000, 170.000000)">
+<g id="minus" transform="translate(575.000000, 41.000000)">
+<rect id="Rectangle-11" x="1" y="1" width="28" height="28" stroke="#EF6E0B" fill="#EF6E0B" rx="14" />
+<path d="M9,15 L21,15" id="Path-3-Copy" stroke="#FFFFFF" transform="translate(15.000000, 15.000000) scale(1, -1) rotate(180.000000) translate(-15.000000, -15.000000) " />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="paper-plane" viewBox="0 0 65 65">
+
+<title>send-2</title>
+
+<g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Mobile/Footer" transform="translate(-505.000000, -159.000000)" stroke="#FFFFFF" stroke-width="2">
+<g id="send-2" transform="translate(508.000000, 161.000000)">
+<path d="M60,0 L24,36" id="Path" />
+<polygon id="Path" stroke-linecap="square" points="60 0 35.7142857 60 24.2857143 35.7142857 0 24.2857143" />
+</g>
+</g>
+</g>
+</symbol><symbol id="paper" viewBox="0 0 19 19"><title>Asset 3</title><g id="Layer_2" data-name="Layer 2"><g id="nav_resources"><path d="M18.71,7.29l-7-7A1,1,0,0,0,11,0H1A1,1,0,0,0,0,1V18a1,1,0,0,0,1,1H18a1,1,0,0,0,1-1V8A1,1,0,0,0,18.71,7.29ZM16.59,8H11V2.41ZM17,17H2V2H9V9a1,1,0,0,0,1,1h7Z" /></g></g></symbol><symbol id="paperclip" viewBox="0 0 15 18">
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_Portal_MyAccreditation_4A" transform="translate(-501.000000, -1197.000000)" fill="currentColor" fill-rule="nonzero">
+<g id="Content" transform="translate(0.000000, 28.000000)">
+<g id="Page" transform="translate(398.000000, 472.000000)">
+<g id="C" transform="translate(0.000000, 576.000000)">
+<g id="upload" transform="translate(80.000000, 54.000000)">
+<path d="M31.0420015,85 C27.8866639,84.9993983 26.0018163,83.1212351 26,79.9760538 L26.0186169,70.2536911 C26.0183899,70.0005683 26.0696999,69.1052115 26.7328702,68.265614 C27.1889842,67.6881651 28.0587568,67 29.6123598,67 C29.6125868,67 29.6141761,67 29.6157653,67 C31.205467,67 32.0695636,67.6404288 32.5143259,68.1779637 C33.1541116,68.9509711 33.2229033,69.850941 33.2226763,70.2019433 L33.2054216,79.9794636 C33.2056486,80.340294 33.2065568,81.1885161 32.547019,81.7711799 C32.1440312,82.1271966 31.5873405,82.307712 30.8930663,82.307712 C30.8912501,82.3075114 30.8896608,82.3075114 30.8882986,82.307712 C29.5787586,82.307712 28.7959406,81.4356217 28.7945784,79.9748504 L28.7886755,70.2392499 L30.1508877,70.2384476 L30.1565636,79.9740481 C30.1574717,81.0938458 30.6610362,81.1042755 30.8833038,81.1042755 C30.8867093,81.1042755 30.8896608,81.1042755 30.8917041,81.1042755 C31.2127321,81.1042755 31.4452164,81.0422986 31.5834809,80.9201498 C31.8436634,80.6902934 31.8432094,80.2099217 31.8429823,79.9790624 L31.860237,70.2009405 C31.860237,69.9690784 31.8173273,69.3751825 31.4143396,68.888593 C31.038369,68.4340951 30.4328656,68.2036371 29.6150842,68.2036371 C29.6144031,68.2036371 29.613722,68.2036371 29.6130409,68.2036371 C29.6130409,68.2036371 29.6128139,68.2036371 29.6125868,68.2036371 C28.8361259,68.2036371 28.2433365,68.4561581 27.8496572,68.9543808 C27.5032012,69.393234 27.3803751,69.9289638 27.3806021,70.2544934 L27.3619852,79.9766556 C27.3628933,81.4021261 27.841938,83.7959618 31.0417745,83.7965635 C34.0138946,83.7961624 34.6377878,81.720435 34.6377878,79.979263 L34.6089543,71.9226569 L35.9711665,71.9186455 L36,79.9772573 C36,83.1695731 34.1927984,84.9995989 31.0420015,85 Z" id="Path" transform="translate(31.000000, 76.000000) rotate(45.000000) translate(-31.000000, -76.000000) " />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="pin-outline" viewBox="0 0 16 21">
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_FindAnInstaller_1A" transform="translate(-1052.000000, -1065.000000)" fill-rule="nonzero" stroke="currentcolor" stroke-width="2">
+<g id="Content" transform="translate(0.000000, 845.000000)">
+<g id="Header" transform="translate(250.000000, 200.000000)">
+<g id="Search" transform="translate(393.000000, 0.000000)">
+<g id="Search-(location)">
+<g id="Location" transform="translate(411.000000, 22.000000)">
+<path d="M5.6,-1 C9.24428475,-1 12.2,1.95571525 12.2,5.6 C12.2,6.72077966 11.8738768,7.96237713 11.278213,9.31432134 C10.7673336,10.4738352 10.068706,11.6896843 9.22896444,12.9343013 C8.59869674,13.8684481 7.92514342,14.7657173 7.25145809,15.5957939 C7.01540444,15.8866457 6.79585512,16.1487176 6.59823369,16.3780997 C6.47814694,16.5174861 6.39095779,16.6161966 6.34210264,16.6702863 L5.6,17.4918999 L4.85789736,16.6702863 C4.80904221,16.6161966 4.72185306,16.5174861 4.60176631,16.3780997 C4.40414488,16.1487176 4.18459556,15.8866457 3.94854191,15.5957939 C3.27485658,14.7657173 2.60130326,13.8684481 1.97103556,12.9343013 C1.13129397,11.6896843 0.43266644,10.4738352 -0.0782129842,9.31432134 C-0.673876836,7.96237713 -1,6.72077966 -1,5.6 C-1,1.95571525 1.95571525,-1 5.6,-1 Z M5.6,7.6 C6.70371525,7.6 7.6,6.70371525 7.6,5.6 C7.6,4.49628475 6.70371525,3.6 5.6,3.6 C4.49628475,3.6 3.6,4.49628475 3.6,5.6 C3.6,6.70371525 4.49628475,7.6 5.6,7.6 Z" id="Shape" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="pin" viewBox="0 0 32 32">
+<title>pin</title>
+<path d="M15.938 32c0 0-9.938-14.062-9.938-20.062 0-11.813 9.938-11.938 9.938-11.938s10.062 0.125 10.062 11.875c0 6.187-10.062 20.125-10.062 20.125zM16 6c-2.209 0-4 1.791-4 4s1.791 4 4 4 4-1.791 4-4-1.791-4-4-4z" />
+</symbol><symbol id="pinterest" viewBox="0 0 27 32"><path d="M22.286 2.286q2.125 0 3.634 1.509t1.509 3.634v17.143q0 2.125-1.509 3.634t-3.634 1.509H9.34q1.518-2.179 1.929-3.75.161-.607.946-3.732.375.696 1.313 1.196t2.009.5q3.232 0 5.277-2.634t2.045-6.67q0-1.5-.625-2.902t-1.723-2.482-2.723-1.732-3.518-.652q-1.857 0-3.473.509T8.065 8.732t-1.92 1.955-1.188 2.286-.384 2.366q0 1.821.705 3.214t2.08 1.964q.232.089.42 0t.259-.339q.179-.786.268-1.089.107-.411-.196-.75-.893-1.107-.893-2.679 0-2.679 1.848-4.58t4.83-1.902q2.661 0 4.152 1.446t1.491 3.75q0 3-1.205 5.107t-3.098 2.107q-1.071 0-1.732-.777t-.411-1.848q.143-.607.473-1.652t.527-1.821.196-1.33q0-.875-.473-1.455t-1.348-.58q-1.089 0-1.848 1.009t-.759 2.491q0 1.286.429 2.161l-1.75 7.393q-.429 1.786-.125 4.536H5.145q-2.125 0-3.634-1.509T.002 24.572V7.429q0-2.125 1.509-3.634t3.634-1.509h17.143z" /></symbol><symbol id="plug" viewBox="0 0 14.87 23.92"><title>Asset 14</title><g id="Layer_2" data-name="Layer 2"><g id="creds_grid-connect"><path d="M13.87,21.92c-4,0-6.19-1.14-6.35-4.59A6.5,6.5,0,0,0,13,10.92V4.42H10.5V1a1,1,0,0,0-2,0V4.42h-4V1a1,1,0,0,0-2,0V4.42H0v6.5a6.5,6.5,0,0,0,5.52,6.42c.17,4.87,3.37,6.58,8.35,6.58h1v-2ZM2,10.92V6.42h9v4.5a4.5,4.5,0,1,1-9,0Z" /></g></g></symbol><symbol id="plus-outline" viewBox="0 0 30 30">
+
+<title>plus</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_FAQ&apos;s_1A" stroke="#EF6E0B" transform="translate(-1145.000000, -1972.000000)" stroke-width="2">
+<g id="Content" transform="translate(243.000000, 707.000000)">
+<g id="FAQ&apos;s" transform="translate(0.000000, 729.000000)">
+<g id="FAQ-Group" transform="translate(10.000000, 0.000000)">
+<g id="FAQ-(closed)" transform="translate(317.000000, 495.000000)">
+<g id="plus" transform="translate(575.000000, 41.000000)">
+<rect id="Rectangle-11-Copy" stroke="#EF6E0B" x="1" y="1" width="28" height="28" rx="14" />
+<path d="M9,15 L21,15" id="Path-3-Copy" stroke="#EF6E0B" transform="translate(15.000000, 15.000000) scale(1, -1) rotate(180.000000) translate(-15.000000, -15.000000) " />
+<path d="M15,9 L15,21" id="Path-3-Copy" stroke="#EF6E0B" transform="translate(15.000000, 15.000000) scale(1, -1) rotate(180.000000) translate(-15.000000, -15.000000) " />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="plus-solid" viewBox="0 0 30 30">
+
+<title>plus</title>
+
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_FAQ&apos;s_1A" transform="translate(-1145.000000, -1972.000000)" stroke-width="2">
+<g id="Content" transform="translate(243.000000, 707.000000)">
+<g id="FAQ&apos;s" transform="translate(0.000000, 729.000000)">
+<g id="FAQ-Group" transform="translate(10.000000, 0.000000)">
+<g id="FAQ-(closed)" transform="translate(317.000000, 495.000000)">
+<g id="plus" transform="translate(575.000000, 41.000000)">
+<rect id="Rectangle-11-Copy" stroke="#EF6E0B" fill="#EF6E0B" x="1" y="1" width="28" height="28" rx="14" />
+<path d="M9,15 L21,15" id="Path-3-Copy" stroke="#FFFFFF" transform="translate(15.000000, 15.000000) scale(1, -1) rotate(180.000000) translate(-15.000000, -15.000000) " />
+<path d="M15,9 L15,21" id="Path-3-Copy" stroke="#FFFFFF" transform="translate(15.000000, 15.000000) scale(1, -1) rotate(180.000000) translate(-15.000000, -15.000000) " />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="search" viewBox="0 0 20 20">
+<title>search</title>
+<path d="M12.9 14.32c-1.34 1.049-3.050 1.682-4.908 1.682-4.418 0-8-3.582-8-8s3.582-8 8-8c4.418 0 8 3.582 8 8 0 1.858-0.633 3.567-1.695 4.925l0.013-0.018 5.35 5.33-1.42 1.42-5.33-5.34zM8 14c3.314 0 6-2.686 6-6s-2.686-6-6-6v0c-3.314 0-6 2.686-6 6s2.686 6 6 6v0z" />
+</symbol><symbol id="share" viewBox="0 0 28 28">
+<title>share</title>
+<path d="M28 10c0 0.266-0.109 0.516-0.297 0.703l-8 8c-0.187 0.187-0.438 0.297-0.703 0.297-0.547 0-1-0.453-1-1v-4h-3.5c-6.734 0-11.156 1.297-11.156 8.75 0 0.641 0.031 1.281 0.078 1.922 0.016 0.25 0.078 0.531 0.078 0.781 0 0.297-0.187 0.547-0.5 0.547-0.219 0-0.328-0.109-0.438-0.266-0.234-0.328-0.406-0.828-0.578-1.188-0.891-2-1.984-4.859-1.984-7.047 0-1.75 0.172-3.547 0.828-5.203 2.172-5.391 8.547-6.297 13.672-6.297h3.5v-4c0-0.547 0.453-1 1-1 0.266 0 0.516 0.109 0.703 0.297l8 8c0.187 0.187 0.297 0.438 0.297 0.703z" />
+</symbol><symbol id="sidebar-close" viewBox="0 0 37.17 17"><title>Asset 15</title><g id="Layer_2" data-name="Layer 2"><g id="menu_close"><path d="M15.5,3H35.67a1.5,1.5,0,0,0,0-3H15.5a1.5,1.5,0,0,0,0,3Z" /><path d="M35.67,14H15.52a1.5,1.5,0,0,0,0,3H35.67a1.5,1.5,0,0,0,0-3Z" /><path d="M35.67,7H15.51a1.5,1.5,0,1,0,0,3H35.67a1.5,1.5,0,0,0,0-3Z" /><path d="M7.17,3.94a1.49,1.49,0,0,0-2.12,0L0,9l5,5.15a1.48,1.48,0,0,0,1.07.45,1.52,1.52,0,0,0,1-.43,1.5,1.5,0,0,0,0-2.12l-3-3,3-2.95A1.49,1.49,0,0,0,7.17,3.94Z" /></g></g></symbol><symbol id="sidebar-open" viewBox="0 0 23.16 17"><title>Asset 16</title><g id="Layer_2" data-name="Layer 2"><g id="menu_open"><path d="M1.5,3H21.66a1.5,1.5,0,0,0,0-3H1.5a1.5,1.5,0,0,0,0,3Z" /><path d="M21.66,14H1.51a1.5,1.5,0,0,0,0,3H21.66a1.5,1.5,0,0,0,0-3Z" /><path d="M21.66,7H1.51a1.5,1.5,0,0,0,0,3H21.66a1.5,1.5,0,0,0,0-3Z" /></g></g></symbol><symbol id="solar-panel" viewBox="0 0 20 20"><title>Asset 19</title><g id="Layer_2" data-name="Layer 2"><g id="creds_sbspv"><path d="M17,0H3L0,20H20Zm.68,18H11V14h6.08M11,8h5.18l.6,4H11ZM9,12H3.22l.6-4H9Zm6.88-6H11V2h4.28ZM9,2V6H4.12l.6-4ZM2.92,14H9v4H2.32" /></g></g></symbol><symbol id="star" viewBox="0 0 20 19">
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+<g id="_Portal_Search_1A" transform="translate(-38.000000, -323.000000)" stroke="currentColor">
+<g id="Left-Nav">
+<g id="Nav" transform="translate(35.000000, 161.000000)">
+<g id="Profile">
+<g id="Row" transform="translate(4.000000, 156.000000)">
+<g id="icon/membership/default" transform="translate(0.000000, 7.000000)">
+<g id="Icon">
+<polygon id="Star" stroke-width="2" points="9 13.5 3.70993273 16.2811529 4.72024568 10.3905765 0.440491353 6.21884705 6.35496636 5.35942353 9 0 11.6450336 5.35942353 17.5595086 6.21884705 13.2797543 10.3905765 14.2900673 16.2811529" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="tick" viewBox="5 -10 38 50">
+<path fill="none" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" stroke-width="5.0526" d="M3.368 13.681l13.273 13.339 25.316-23.651" />
+</symbol><symbol id="twitter" viewBox="0 0 16 16">
+<title>twitter</title>
+<path d="M16 3.538c-0.588 0.263-1.222 0.438-1.884 0.516 0.678-0.406 1.197-1.050 1.444-1.816-0.634 0.375-1.338 0.65-2.084 0.797-0.6-0.638-1.453-1.034-2.397-1.034-1.813 0-3.281 1.469-3.281 3.281 0 0.256 0.028 0.506 0.084 0.747-2.728-0.138-5.147-1.444-6.766-3.431-0.281 0.484-0.444 1.050-0.444 1.65 0 1.138 0.578 2.144 1.459 2.731-0.538-0.016-1.044-0.166-1.488-0.409 0 0.013 0 0.028 0 0.041 0 1.591 1.131 2.919 2.634 3.219-0.275 0.075-0.566 0.116-0.866 0.116-0.212 0-0.416-0.022-0.619-0.059 0.419 1.303 1.631 2.253 3.066 2.281-1.125 0.881-2.538 1.406-4.078 1.406-0.266 0-0.525-0.016-0.784-0.047 1.456 0.934 3.181 1.475 5.034 1.475 6.037 0 9.341-5.003 9.341-9.341 0-0.144-0.003-0.284-0.009-0.425 0.641-0.459 1.197-1.038 1.637-1.697z" />
+</symbol><symbol id="user" viewBox="0 0 15 19">
+<g id="DesktopHD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="_ApprovedSolarRetailers_2A" transform="translate(-1052.000000, -1066.000000)" fill-rule="nonzero" stroke="currentcolor" stroke-width="2">
+<g id="Content" transform="translate(0.000000, 845.000000)">
+<g id="Header" transform="translate(250.000000, 200.000000)">
+<g id="Search" transform="translate(393.000000, 0.000000)">
+<g id="Search-(name)">
+<g id="Name" transform="translate(410.000000, 23.000000)">
+<g id="Group">
+<circle id="Oval" cx="6.5" cy="2.5" r="3.5" />
+<path d="M13,16 C13,12.6862915 10.0898509,10 6.5,10 C2.91014913,10 0,12.6862915 0,16" id="Oval-Copy" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</symbol><symbol id="wind" viewBox="0 0 20.5 17"><title>Asset 11</title><g id="Layer_2" data-name="Layer 2"><g id="creds_wind"><path d="M15,4.5a4.5,4.5,0,0,0-9,0H8A2.5,2.5,0,1,1,10.5,7H0V9H10.5A4.49,4.49,0,0,0,15,4.5Z" /><path d="M16,4V6a2.5,2.5,0,0,1,0,5H0v2H16a4.5,4.5,0,0,0,0-9Z" /><rect y="15" width="7.5" height="2" /><rect x="9" y="15" width="4" height="2" /></g></g></symbol></svg>
+	
+	
+	 </div><!-- END SVG Defs -->
+
+
+<!-- START NAV area -->
+<div class="header-search-overlay js-header-search-close"></div>
+<div class="header-search">
+  <div class="header-search__upper">
+    <form action="https://valleysolar.solar/" method="get" role="search" class="header-search__form" autocomplete="off">
+      <div class="search-input" method="get">
+        <input class="search-input__input" id="header-search-input" type="search" name="s" placeholder="Search Valley Solar " value="">
+        <button class="search-input__submit" type="submit">
+        <svg class="icon ">
+          <use xlink:href="#search"></use>
+        </svg>
+        </button>
+      </div>
+      <a class="iconlink header-search__close js-header-search-close">
+      <svg class="icon ">
+        <use xlink:href="#close"></use>
+      </svg>
+      </a>
+    </form>
+  </div>
+  <div class="header-search__lower">
+    <div class="container container--large">
+      <h6 class="h6">Top Results</h6>
+      <ul id="search-results">
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="lionel">
+  <div class="lionel__header"> <a class="iconlink iconlink--fade js-header-search-toggle">
+    <svg class="icon ">
+      <use xlink:href="#search"></use>
+    </svg>
+    </a> <a class="iconlink iconlink--outline js-nav-toggle">
+    <svg class="icon ">
+      <use xlink:href="#close"></use>
+    </svg>
+    </a> </div>
+  <div class="lionel__body">
+    <div class="lionel__page">
+      <ul class="lionel__nav">
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/get-easy-quote/"> Get  Started <span class="lionel__arrow" data-page-link="134">
+          <svg class="icon ">
+            <use xlink:href="#arrow-right"></use>
+          </svg>
+          </span> </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/why-valley-solar/"> Why Valley Solar? <span class="lionel__arrow"  data-page-link="135">
+          <svg class="icon ">
+            <use xlink:href="#arrow-right"></use>
+          </svg>
+          </span></a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our_services/"> Our Services <span class="lionel__arrow"  data-page-link="57027">
+          <svg class="icon ">
+            <use xlink:href="#arrow-right"></use>
+          </svg>
+          </span> </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/affordability/"> Solar Benefits <span class="lionel__arrow" data-page-link="243"><svg class="icon ">
+            <use xlink:href="#arrow-right"></use>
+          </svg>
+          </span></a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our-installations/"> Resources <span class="lionel__arrow" data-page-link="345"><svg class="icon ">
+            <use xlink:href="#arrow-right"></use>
+          </svg>
+          </span> </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/get-easy-quote/" title="Get an accurate solar quote in hours, not days"> Get Easy Quote </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/referrals/"> Referrals </a> </li>
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="134">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> Get Started <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/get-easy-quote/" title="Get an accurate solar quote in hours, not days"> Get Easy Quote </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our-process/"> Our Process </a> </li>
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="135">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> Why Valley Solar? <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/why-valley-solar" > Our Difference </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/why-valley-solar#ourteam"> Our Team </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our-testimonials/"> Testimonials </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/now-hiring/"> Careers </a> </li>
+      </ul>
+      </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="136">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="345">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> Resources <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our-calculator/" > Solar Payback Calculator </a> </li>
+        <li class="lionel__navitem"> <a href="https://www.umassfive.coop/personal/loans/sustainability/solar-loans" > Solar Loans </a> </li>
+        <li class="lionel__navitem"> <a href="https://www.masscec.com/" >Massachusetts Clean Energy Center</a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our-testimonials/" >Testimonials</a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/05/2019_ValleySolar_eBook.pdf" >2019 eBook</a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our-installations/"> Gallery </a> </li>
+      </ul>
+      </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="137">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="57027">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a href="https://valleysolar.solar/our_services/"> Our Services <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our_services#solar_pv"> Solar PV for Home or Business  </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our_services#bat_storage"> Battery Energy Storage Systems </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our_services#elec_con"> Electrical Contracting </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our_services#home_ren"> Full Service Home Remodeling </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/our_services#weath_con"> Weatherization Contracting   </a> </li>
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="57028">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="57050">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="57062">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="63528">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="243">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> Solar Benefits <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/affordability#sol_save">Solar Will Save You Money</a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/affordability#enviro"> Solar Helps the Environment </a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/affordability#safe"> Solar is a Safe Choice</a> </li>
+        <li class="lionel__navitem"> <a href="https://valleysolar.solar/affordability#smile"> Solar Will Make You Smile</a> </li>
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="262">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="265">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="245">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="246">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="3847">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="57088">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="148">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+    </div>
+    <div class="lionel__page lionel__page--offscreen" data-page="261">
+      <div class="lionel__navitem lionel__navitem--back" data-back> <a> <span class="lionel__arrow">
+        <svg class="icon ">
+          <use xlink:href="#arrow-left"></use>
+        </svg>
+        </span> </a> </div>
+      <ul class="lionel__nav">
+      </ul>
+    </div>
+  </div>
+</div>
+<header class="header" itemscope itemtype="http://schema.org/Organization">
+<a href="https://valleysolar.solar" class="header__logo logo-2021" itemprop="url" >
+<img src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vslogo2021white.png" alt="Valley Solar - Bringing Solar Home">
+<img class="theme-light__logo" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vslogo2021white.png" alt="Valley Solar">
+</a>
+<a class="header__search iconlink js-header-search-toggle"><svg class="icon ">
+<use xlink:href="#search"></use>
+</svg>
+</a>
+<a class="header__nav-toggle iconlink js-nav-toggle"><svg class="icon ">
+<use xlink:href="#menu"></use>
+</svg>
+</a>
+<nav class="header__menus">
+<ul class="header__quicklinks">
+
+<li class="header__quicklink info"><a href="tel:4135848844" title="Call Valley Solar">Call (413) 584-8844</a></li>
+<li class="header__quicklink"><a href="https://valleysolar.solar/get-easy-quote/" class="btn" title="Get a fast, accurate solar quote - no home visit required!">Get Easy Quote</a></li>
+<li class="header__quicklink header__quicklink--last header__quicklink--border"><a href="https://valleysolar.solar/referral-program/" class="btn">Referrals</a></li>
+
+</ul>
+<ul class="header__navigation">
+
+<! –– start walker code ––>
+
+    <li class="item  has-megamenu has-kids bg-one">
+        <a href="https://valleysolar.solar/get-easy-quote/" class="title"  title="Get Started with Valley Solar">
+            Get Started        </a>
+        <div class="megamenu lazyload"data-bgset="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/placeholder.jpg" style="visibility: hidden">
+    <div class="container">
+      <div class="grid">
+        <div class="grid__item three-eighths">
+          <h2 class="h3 megamenu__heading">Our Expertise is your Peace of Mind</h2>
+        </div><div class="grid__item five-eighths megamenu__nav">    
+        
+    
+
+        
+                        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/get-easy-quote/" class="title"  title="Find out if your home is right for solar with our free solar score rating system. OR call us at 413-584-8844">Get Easy Quote                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/our-process/" class="title"  title="">Our Contact-Free Process                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+                        
+                        
+        
+        </li>                           
+    
+
+    <li class="item  has-megamenu has-kids bg-one">
+        <a href="https://valleysolar.solar/why-valley-solar/" class="title"  title="">
+            Why Valley Solar?        </a>
+        <div class="megamenu lazyload"data-bgset="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/placeholder.jpg" style="visibility: hidden">
+    <div class="container">
+      <div class="grid">
+        <div class="grid__item three-eighths">
+          <h2 class="h3 megamenu__heading">Customer Focused, Capable, Reliable</h2>
+        </div><div class="grid__item five-eighths megamenu__nav">    
+        
+    
+
+        
+                        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/why-valley-solar/" class="title"  title="">Our Difference                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/why-valley-solar#ourteam" class="title"  title="">Our Team                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/our-testimonials/" class="title"  title="">Testimonials                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/careers/" class="title"  title="">Careers in Solar                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+                        
+                        
+        
+        </li>                           
+    
+
+    <li class="item  has-megamenu has-kids bg-two">
+        <a href="https://valleysolar.solar/our-services/" class="title"  title="">
+            Our Services        </a>
+        <div class="megamenu lazyload"data-bgset="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/placeholder2.jpg" style="visibility: hidden">
+    <div class="container">
+      <div class="grid">
+        <div class="grid__item three-eighths">
+          <h2 class="h3 megamenu__heading">Full-Service Capabilities to Handle any Project.</h2>
+        </div><div class="grid__item five-eighths megamenu__nav">    
+        
+    
+
+        
+                        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/our_services#solar_pv" class="title"  title="">Solar PV for Home or Business                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/tesla-powerwall/" class="title"  title="">Tesla Energy Certified Installer                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/our_services#bat_storage" class="title"  title="">Battery Storage Systems                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/our_services#elec_con" class="title"  title="">Electrical Contracting                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/service-maintenance/" class="title"  title="">Service &#038; Maintenance                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+                        
+                        
+        
+        </li>                           
+    
+
+    <li class="item  has-megamenu has-kids bg-one">
+        <a href="https://valleysolar.solar/affordability/" class="title"  title="">
+            Solar Benefits        </a>
+        <div class="megamenu lazyload"data-bgset="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/placeholder.jpg" style="visibility: hidden">
+    <div class="container">
+      <div class="grid">
+        <div class="grid__item three-eighths">
+          <h2 class="h3 megamenu__heading">An investment that pays for itself</h2>
+        </div><div class="grid__item five-eighths megamenu__nav">    
+        
+    
+
+        
+                        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/affordability#sol_save" class="title"  title="">Solar Will Save You Money                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/affordability#enviro" class="title"  title="">Solar Helps the Environment                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/affordability#safe" class="title"  title="">Solar is a Safe Choice                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="/affordability#smile" class="title"  title="">Solar Will Make You Smile                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+                        
+                        
+        
+        </li>                           
+    
+
+    <li class="item  has-megamenu has-kids bg-one">
+        <a href="https://valleysolar.solar/vsolar2020/resources/" class="title"  title="">
+            Resources        </a>
+        <div class="megamenu lazyload"data-bgset="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/placeholder.jpg" style="visibility: hidden">
+    <div class="container">
+      <div class="grid">
+        <div class="grid__item three-eighths">
+          <h2 class="h3 megamenu__heading">Make an Informed Decision</h2>
+        </div><div class="grid__item five-eighths megamenu__nav">    
+        
+    
+
+        
+                        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/solar-investment-calculator/" class="title"  title="">Solar Savings Calculator                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/financing-insurance-and-warranties/" class="title"  title="">Financing, Insurance and Warranties                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/our-testimonials/" class="title"  title="">Testimonials                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/valley-solar-blog/" class="title"  title="">Valley Solar Blog                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/consider-a-power-system-based-on-stored-renewable-energy/" class="title"  title="">Valley Solar in the Media                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+            
+        
+    
+
+        
+            
+               <div class="megamenu__section">
+            <h6 class="h6 megamenu__title">
+                    <a href="https://valleysolar.solar/our-installations/" class="title"  title="">Gallery                    <svg class="icon ">
+                <use xlink:href="#arrow-right"></use>
+              </svg>
+              </a></h6>
+          </div>
+
+                        
+                        
+        
+        </li>                           
+    
+<! –– end walker code ––>
+
+
+<li class="header__navsearch">
+<a class="iconlink js-header-search-toggle">
+<svg class="icon ">
+<use xlink:href="#search"></use>
+</svg>
+</a>
+</li>
+
+</ul>
+</nav>
+</header><!-- end NAV area -->
+
+
+<div class="page ">
+<div class="page__content cf">
+<div class="hero-carousel js-hero-carousel">
+
+
+<div class="hero-carousel__slide" data-thumb="">
+       <div class="overlay"></div>
+  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" poster="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/videos/vsheroposter.jpg">
+      <source src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/videos/vshero-bg-v4.mp4" type="video/mp4">
+      <source src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/videos/vshero-bg-v4.webm" type="video/webm">
+      <source src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/videos/vshero-bg-v4.ogv" type="video/ogg">
+  </video>
+  <div class="hero-carousel__content">
+<h1 class="hero-carousel__title"><span>Valley Solar</span><br /><p class="sub">CAPTURE THE SUN</p></h1>
+<div class="hero-carousel__box lazyload" style="background-image: url('https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/hero_infobg.jpg')" data-bgset="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/hero_infobg.jpg">
+	<div class="hero-carousel__text">
+<p>Don't wait. Get the 30% Federal Solar Tax Credit Now</p>
+<a href="/get-easy-quote/" class="arrowlink">
+Get Started<svg class="icon ">
+<use xlink:href="#arrow-right"></use>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="hero-carousel__slide" data-thumb="">
+   <picture class="hero-carousel__picture">
+<source media="(min-width: 768px)" srcset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/01/valley_solar_hero_hiresEd.jpg">
+<source media="(min-width: 450px)" srcset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/01/valley_solar_hero_hiresEd.jpg">
+<source srcset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/01/valley_solar_hero_hiresEd.jpg">
+<img src="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/01/valley_solar_hero_hiresEd.jpg">
+</picture>
+<div class="hero-carousel__content">
+<h1 class="hero-carousel__title"></h1>
+	<div class="hero-carousel__box lazyload" style="background-image: url('https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/01/valley_solar_hero_hiresEd.jpg')" data-bgset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/01/valley_solar_hero_hiresEd.jpg">
+		<div class="hero-carousel__text">
+<p>Explore our range of services to see what is right for your home</p>
+<a href="https://valleysolar.solar/our_services/" class="arrowlink">
+Get Started<svg class="icon ">
+<use xlink:href="#arrow-right"></use>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="hero-carousel__slide" data-thumb="">
+   <picture class="hero-carousel__picture">
+<source media="(min-width: 768px)" srcset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/02/vs_groundmounts.jpg">
+<source media="(min-width: 450px)" srcset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/02/vs_groundmounts.jpg">
+<source srcset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/02/vs_groundmounts.jpg">
+<img src="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/02/vs_groundmounts.jpg">
+</picture>
+<div class="hero-carousel__content">
+<h1 class="hero-carousel__title"></h1>
+	<div class="hero-carousel__box lazyload" style="background-image: url('https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/02/vs_groundmounts.jpg')" data-bgset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/02/vs_groundmounts.jpg">
+		<div class="hero-carousel__text">
+<p>Contact us today to kick start your solar savings</p>
+<a href="https://valleysolar.solar/get-easy-quote/" class="arrowlink">
+Get Started<svg class="icon ">
+<use xlink:href="#arrow-right"></use>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+<div class="member-carousel">
+<div class="member-carousel__header">
+<div class="container">
+<a href="#" class="member-carousel__header-link is-active">
+<img src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vshomsol_color.png" data-logo-greyscale="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vshomsol_bw.png" data-logo-coloured="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vshomsol_color.png">
+</a>
+<a href="#" class="member-carousel__header-link">
+<img src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vsbatsto_bw.png" data-logo-greyscale="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vsbatsto_bw.png" data-logo-coloured="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vsbatsto_color.png">
+</a>
+<a href="#" class="member-carousel__header-link">
+<img src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vscomsol_bw.png" data-logo-greyscale="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vscomsol_bw.png" data-logo-coloured="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vscomsol_color.png">
+</a>
+</div>
+</div>
+<div class="member-carousel__slide-wrapper">
+
+<div class="container member-carousel__slide is-active">
+<div class="grid grid--xxl">
+      
+  <div class="grid__item desk-one-whole">
+                <h2 class="h3">VALLEY SOLAR</h2>
+                    <div class="member-carousel__text wysiwyg">          <p><span class="TextRun SCXW58895870 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW58895870 BCX4">Valley </span><span class="NormalTextRun SCXW58895870 BCX4">Solar ha</span><span class="NormalTextRun SCXW58895870 BCX4">s </span><span class="NormalTextRun SCXW58895870 BCX4">a</span><span class="NormalTextRun SCXW58895870 BCX4"> 5-star </span><span class="NormalTextRun SCXW58895870 BCX4">Google </span><span class="NormalTextRun SCXW58895870 BCX4">rating </span><span class="NormalTextRun SCXW58895870 BCX4">and co</span><span class="NormalTextRun SCXW58895870 BCX4">nsistently win</span><span class="NormalTextRun SCXW58895870 BCX4">s</span><span class="NormalTextRun SCXW58895870 BCX4"> consumer awards<img class="alignright wp-image-2797" src="https://valleysolar.solar/vsolar2020/wp-content/uploads/2022/07/2022-Website-Banner.png" alt="Valley Solar, LLC" width="238" height="916" /></span></span></p>
+<p><span class="valsol-cool-font">Why? Because Valley Solar Gives You More!</span></p>
+<p><img class="valsol-check" src="http://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/solcheck.svg" width="30" height="30" /><strong>Personalized Service:</strong> As a locally owned and operated company, our dedicated team lives and works in the community, so we take extra pride in providing personalized service that the big national companies just can't match.</p>
+<p><img class="valsol-check" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/solcheck.svg" alt="" width="30" /><strong>Accountability:</strong> <span class="TrackChangeTextInsertion TrackedChange BCX4 SCXW92249188"><span class="TextRun BCX4 SCXW92249188" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun BCX4 SCXW92249188"><span class="TrackChangeTextInsertion TrackedChange SCXW148596642 BCX4"><span class="TextRun SCXW148596642 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW148596642 BCX4">When</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW148596642 BCX4"><span class="TextRun SCXW148596642 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW148596642 BCX4"> you work with</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW148596642 BCX4"><span class="TextRun SCXW148596642 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW148596642 BCX4"> Valley Solar</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW148596642 BCX4"><span class="TextRun SCXW148596642 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW148596642 BCX4">, there is one team with one goal </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW148596642 BCX4"><span class="TextRun SCXW148596642 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW148596642 BCX4">– your total satisfaction</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW148596642 BCX4"><span class="TextRun SCXW148596642 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW148596642 BCX4">.</span></span></span><span class="TrackChangeTextDeletion TrackedChange SCXW148596642 BCX4"><span class="TextRun SCXW148596642 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW148596642 BCX4">  </span></span></span></span></span></span></p>
+<p><img class="valsol-check" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/solcheck.svg" alt="" width="30" /><strong>Big Capabilities:</strong> <span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2 SCXW3857542 BCX4 DefaultHighlightTransition">As</span><span class="NormalTextRun SCXW3857542 BCX4"> one of the largest independent solar contractors in the state, </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">Valley Solar ha</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">s</span></span></span> <span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">the capabilities </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">and experience </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">to take on any job. </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">Our </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">Journeyman and Master E</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">lectricians</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4"> are expert problem solvers with </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">over 100 years of combined </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">electrical </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">experience</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW3857542 BCX4"><span class="TextRun SCXW3857542 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW3857542 BCX4">.</span></span></span></p>
+<p><img class="valsol-check" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/solcheck.svg" alt="" width="30" /><strong>Battery Storage Experts:</strong> <span class="TrackChangeTextInsertion TrackedChange SCXW254729791 BCX4"><span class="TextRun SCXW254729791 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW254729791 BCX4">Valley Solar </span></span></span><strong><span style="color: #fbb220;"><span class="TrackChangeTextInsertion TrackedChange SCXW254729791 BCX4"><span class="TextRun SCXW254729791 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW254729791 BCX4">install<span class="TrackChangeTextInsertion TrackedChange BCX4 TrackChangeHoverSelectColorRed SCXW54522897"><span class="TextRun BCX4 SCXW54522897" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun BCX4 TrackChangeHoverSelectHighlightRed SCXW54522897">ed </span></span></span><span class="TrackChangeTextInsertion TrackedChange BCX4 TrackChangeHoverSelectColorRed SCXW54522897"><span class="TextRun BCX4 SCXW54522897" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun BCX4 TrackChangeHoverSelectHighlightRed SCXW54522897">among the most battery systems in the state in 2021</span></span></span><span class="TrackChangeTextInsertion TrackedChange BCX4 TrackChangeHoverSelectColorRed SCXW54522897"><span class="TextRun BCX4 SCXW54522897" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun BCX4 TrackChangeHoverSelectHighlightRed SCXW54522897">.</span></span></span></span></span></span></span></strong><span class="TrackChangeTextInsertion TrackedChange SCXW254729791 BCX4"><span class="TextRun SCXW254729791 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW254729791 BCX4"> Battery storage systems <span class="TrackChangeTextInsertion TrackedChange TrackChangeHoverSelectColorRed SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun TrackChangeHoverSelectHighlightRed SCXW138898578 BCX4">qualify for </span></span></span><span class="TrackChangeTextInsertion TrackedChange TrackChangeHoverSelectColorRed SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun TrackChangeHoverSelectHighlightRed SCXW138898578 BCX4">tax credits and incentives cov</span></span></span><span class="TrackChangeTextInsertion TrackedChange TrackChangeHoverSelectColorRed SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun TrackChangeHoverSelectHighlightRed SCXW138898578 BCX4">er</span></span></span><span class="TrackChangeTextInsertion TrackedChange TrackChangeHoverSelectColorRed SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun TrackChangeHoverSelectHighlightRed SCXW138898578 BCX4">ing up to 80% </span></span></span><span class="TrackChangeTextInsertion TrackedChange TrackChangeHoverSelectColorRed SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun TrackChangeHoverSelectHighlightRed SCXW138898578 BCX4">of </span></span></span><span class="TrackChangeTextInsertion TrackedChange TrackChangeHoverSelectColorRed SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun TrackChangeHoverSelectHighlightRed SCXW138898578 BCX4">project costs, plus zero-interest loans are available now. </span></span></span><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW138898578 BCX4">If you are considering energy storage</span></span><span class="TrackChangeTextInsertion TrackedChange SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW138898578 BCX4"> with your solar</span></span></span><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW138898578 BCX4">, or even if you are not, talk to the energy storage experts at Valley Solar</span></span><span class="TrackChangeTextInsertion TrackedChange SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW138898578 BCX4"> and </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW138898578 BCX4">n</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW138898578 BCX4"><span class="TextRun SCXW138898578 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW138898578 BCX4">ever lose power again.</span></span></span><span class="EOP SCXW138898578 BCX4" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></span></span></span></p>
+<p><img class="valsol-check" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/solcheck.svg" alt="" width="30" /><strong>Valley Solar Savings Pledge</strong><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2 SCXW72227507 BCX4"><strong>:</strong>  Unless we can show you a 30% minimum savings projection with solar vs utility power, we won't take on the project. Most customers will see 50% or more lifetime savings. Get started with an Easy Quote now.<br />
+</span></p>
+<p><img class="valsol-check" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/solcheck.svg" alt="" width="30" /><strong>Dependable:</strong> Our standard warranty covers workmanship and roof penetrations for 10-years.</p>
+<p><img class="valsol-check" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/solcheck.svg" alt="" width="30" /><strong>Easy to Work with and Affordable:</strong> <span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2 SCXW16858268 BCX4">We</span> </span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">offer a range of </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">easy</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">, zero-</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2 SCXW16858268 BCX4">down</span></span></span> <span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">financing options t</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">o give you</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4"> instant savings</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">. </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">We also offer solar leases and Power Purchase Agreements, all with no money down. We can even finance tree work, re-roofing</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4"> and energy storage systems</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">.</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4"> </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">It all starts with our </span></span></span><strong><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">no-hassle</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4"> quoting proces</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">s</span></span></span></strong><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">. </span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">Get started now</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4"> and see ho</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">w much you can save</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW16858268 BCX4"><span class="TextRun SCXW16858268 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW16858268 BCX4">.</span></span></span></p>
+<p><a class="btn" href="/get-easy-quote/">Get Easy Quote</a></p>
+          
+</div>
+</div>
+</div> 
+</div>
+
+<div class="container member-carousel__slide">
+<div class="grid grid--xxl">
+      
+  <div class="grid__item desk-one-whole">
+                <h2 class="h3">POWER WHEN YOU NEED IT MOST</h2>
+                    <div class="member-carousel__text wysiwyg">          <p><span data-contrast="none">With unpredictable weather and more frequent power outages, keeping your home safe and habitable is more important than ever.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:192,&quot;335559740&quot;:240}"> <img class="alignright wp-image-916 size-full" src="https://valleysolar.solar/vsolar2020/wp-content/uploads/2021/02/batteryinset_homepage.jpg" alt="Battery Systems from Valley Solar" width="300" height="220" /></span></p>
+<p><span data-contrast="none">With solar + storage from Valley Solar, your family can enjoy fresh food, </span><span data-contrast="none">lights,</span><span data-contrast="none"> sanitation, HVAC and connectivity even during a prolonged power outage.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:192,&quot;335559740&quot;:240}"> </span></p>
+<p><span class="TextRun SCXW58525213 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW58525213 BCX4">And when the grid is up, s</span><span class="NormalTextRun SCXW58525213 BCX4">afe, silent battery power </span><span class="NormalTextRun SCXW58525213 BCX4">will provide </span></span><span class="TrackChangeTextDeletion TrackedChange SCXW58525213 BCX4"><span class="TextRun SCXW58525213 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW58525213 BCX4"> </span></span></span><span class="TextRun SCXW58525213 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW58525213 BCX4">clean energy day and night, </span><span class="NormalTextRun SCXW58525213 BCX4">with zero emissions and no maintenance ever. </span><span class="NormalTextRun SCXW58525213 BCX4">Batteries </span><span class="NormalTextRun SCXW58525213 BCX4">can </span><span class="NormalTextRun SCXW58525213 BCX4">even improve your solar </span><span class="NormalTextRun SCXW58525213 BCX4">efficiency,</span><span class="NormalTextRun SCXW58525213 BCX4"> so you harvest </span><span class="NormalTextRun SCXW58525213 BCX4">up to </span><span class="NormalTextRun SCXW58525213 BCX4">10% </span><span class="NormalTextRun SCXW58525213 BCX4">more </span><span class="NormalTextRun SCXW58525213 BCX4">energy </span><span class="NormalTextRun SCXW58525213 BCX4">from the same panels.</span></span><span class="EOP SCXW58525213 BCX4" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:192,&quot;335559740&quot;:240}">  </span></p>
+<p><span data-contrast="none">Valley Solar is the region’s leading installer of battery storage systems. Our electrical team has taken the most advanced energy storage training and has earned energy storage certifications from Enphase, SolarEdge Energy Bank and Tesla Powerwall. </span></p>
+<p><span data-contrast="none">All of our battery systems qualify for </span><b><span data-contrast="none">zero-down, zero-percent HEAT Loan financing</span></b><span data-contrast="none"> as well as generous tax credits and incentives that can cover up to 80% of the initial cost. </span></p>
+<p><span data-contrast="none">Whether it’s for home or business, a battery retrofit or a new solar + storage installation, let the experts at Valley Solar custom-design a complete home energy system to fit your needs.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:192,&quot;335559740&quot;:240}"> </span></p>
+<p><span data-contrast="none">Always be empowered with solar + storage from Valley Solar.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:192,&quot;335559740&quot;:240}"> </span></p>
+<p><strong>Valley Solar is an authorized dealer for:</strong></p>
+<p><strong><img class="alignnone wp-image-1808 size-medium" src="https://valleysolar.solar/vsolar2020/wp-content/uploads/2022/01/enphase-energy-inc-logo-vector-e1642015579288-300x63.png" alt="ENPHASE" width="300" height="63" /></strong></p>
+<p><strong><img class="alignnone wp-image-1809 size-medium" src="https://valleysolar.solar/vsolar2020/wp-content/uploads/2022/01/Screen-Shot-2022-01-12-at-1.48.57-PM-300x64.png" alt="Solar Edge" width="300" height="64" /></strong></p>
+<p><img class="alignnone wp-image-2990" src="https://valleysolar.solar/vsolar2020/wp-content/uploads/2022/10/Tesla-Energy-CI-Flag-Black-300x224.png" alt="Tesla Energy" width="308" height="230" /></p>
+<p><a class="btn" href="/get-easy-quote/">Get Easy Quote</a></p>
+          </div>
+</div>
+</div> 
+</div>
+
+<div class="container member-carousel__slide">
+<div class="grid grid--xxl">
+     
+  <div class="grid__item desk-one-whole">
+                <h2 class="h3">SOLAR FOR FARM OR BUSINESS</h2>
+                    <div class="member-carousel__text wysiwyg">          <p><img class="alignright wp-image-180 size-medium" src="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/01/20170316_161021-300x169.jpg" alt="Valley Solar Installation" width="300" height="169" /></p>
+<p><span data-contrast="none">With generous tax credits and 100% bonus depreciation, a commercial solar-energy system can pay back 50-60% in its first year. Over the ensuing decades, solar will steady your ship by controlling costs, improving margins and helping you forecast expenses.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:192,&quot;335559740&quot;:240}"> </span></p>
+<p><span data-contrast="none">There’s no doubt solar is a solid financial investment, but equally important, solar elevates your brand by demonstrating your commitment to the environment and to the community. Solar also keeps more of your money feeding the local economy instead of a giant utility, and that lifts all boats.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:192,&quot;335559740&quot;:240}"> </span></p>
+<p><span class="TextRun SCXW221930258 BCX4" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW221930258 BCX4">As one of the largest independent solar c</span><span class="NormalTextRun SCXW221930258 BCX4">ontractors in the state, </span><span class="NormalTextRun SCXW221930258 BCX4">Valley Solar understands the incentives and </span><span class="NormalTextRun SCXW221930258 BCX4">can </span><span class="NormalTextRun SpellingErrorV2 SCXW221930258 BCX4">can</span><span class="NormalTextRun SCXW221930258 BCX4"> connect you with financing and tax advi</span><span class="NormalTextRun SCXW221930258 BCX4">ce</span> <span class="NormalTextRun SCXW221930258 BCX4">to guide you through the options. We install single-phase, 3-phase, carports, roof top and ground mount systems. We also offer PPA and zero-down financing on commercial projects.  Get started with a no-obligation quote now.</span></span><span class="EOP SCXW221930258 BCX4" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> </span></p>
+<p><a class="btn" href="/get-easy-quote/">Get Easy Quote</a></p>
+          </div>
+</div>
+</div> 
+</div>
+
+
+
+</div>
+</div>
+<div class="banner-cta lazyload" style="background-image: url('https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/02/vallsol_center-cover.jpg')" data-bgset="https://valleysolar.solar/vsolar2020/wp-content/uploads/2020/02/vallsol_center-cover.jpg">
+<div class="container">
+          <h2 class="h2 banner-cta__title title_white hpt-h2">Customer Testimonials</h2>
+          
+<div id="new-royalslider-1" class="royalSlider new-royalslider-1 rsDefaultInv rs-default-template" style="width:100%;height:250px;;" data-rs-options='{&quot;template&quot;:&quot;default&quot;,&quot;image_generation&quot;:{&quot;imageWidth&quot;:&quot;&quot;,&quot;imageHeight&quot;:&quot;&quot;,&quot;thumbImageWidth&quot;:&quot;&quot;,&quot;thumbImageHeight&quot;:&quot;&quot;},&quot;thumbs&quot;:{&quot;thumbWidth&quot;:96,&quot;thumbHeight&quot;:72},&quot;autoPlay&quot;:{&quot;enabled&quot;:&quot;true&quot;,&quot;delay&quot;:5060},&quot;video&quot;:[],&quot;block&quot;:{&quot;moveOffset&quot;:20,&quot;speed&quot;:400,&quot;delay&quot;:200},&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;250px&quot;,&quot;controlNavigation&quot;:&quot;none&quot;,&quot;loop&quot;:&quot;true&quot;}'>
+<div class="rsContent">
+  
+  
+  <div id="slide1">
+  <blockquote class="blockquote">
+  <p class="hp-testimonial">The staff at Valley Solar did a fantastic job with our project from start to finish. After being approached by several door to door solar outfits that seemed long on promises and short on details, we decided to get a quote from a local contractor with a great reputation. The Valley Solar team was upfront about costs and timelines, preparing a thorough evaluation of our electrical needs, the site suitability, and the financials, including tax incentives.<span class="testimonial-sig"> - Barbara Bitgood</span>
+   </p>
+  </blockquote>
+</div>
+  
+</div>
+<div class="rsContent">
+  
+  
+  <div id="slide1">
+  <blockquote class="blockquote">
+  <p class="hp-testimonial">The staff at Valley Solar are knowledgeable and easy to work with. Their installers were efficient and pleasant. Everyone showed up on time. They answered my questions with patience and professionalism. I highly recommend them for your solar project.  <span class="testimonial-sig"> - Susan Lowry</span>
+   </p>
+  </blockquote>
+</div>
+  
+</div>
+<div class="rsContent">
+  
+  
+  <div id="slide1">
+  <blockquote class="blockquote">
+  <p class="hp-testimonial">Great experience working with Valley Solar. We had a 7.2 kW system installed. I got estimates from five other developers and neither could beat Valley Solar on price, warranty or system design options.  <span class="testimonial-sig"> - Ryan Hoskin</span>
+  </p>
+  </blockquote>
+</div>
+  
+</div>
+<div class="rsContent">
+  
+  
+  <div id="slide1">
+  <blockquote class="blockquote">
+  <p class="hp-testimonial">Valley Solar always kept me informed, explained the relative benefits of the various options, answered all of my questions, presented cost/savings information in clear, useful format, and kept to the schedule. Well organized, neat, precise work, always friendly and professional. I was very pleased and impressed. The system has been operational for several months working perfectly and reducing my electric bill to almost zero. Definite five stars.  <span class="testimonial-sig"> - Dan Burke</span>
+  </p>
+  </blockquote>
+</div>
+  
+</div>
+<div class="rsContent">
+  
+  
+  <div id="slide1">
+  <blockquote class="blockquote">
+  <p class="hp-testimonial">After doing my due diligence and researching both local and national solar installers I used Valley Solar. They may be a smaller installer but for me that was the appeal. I was able to deal directly with the people responsible for my install. They kept me updated on important dates and responded quickly with honest and direct answers. Their crews on site were friendly, polite, and kept everything very neat and clean. I couldn't be happier.  <span class="testimonial-sig"> - Rich Laurin</span>
+  </p>
+  </blockquote>
+</div>
+  
+</div>
+<div class="rsContent">
+  
+  
+  <div id="slide1">
+  <blockquote class="blockquote">
+  <p class="hp-testimonial">I was very impressed by Valley Solar.  Basically, they did everything right. They always returned phone calls and answered emails promptly.  This company is respectful of customer needs. <span class="testimonial-sig"> - Margaret Senecal </span>
+  </p>
+  </blockquote>
+</div>
+  
+</div>
+<div class="rsContent">
+  
+  
+  <div id="slide1">
+  <blockquote class="blockquote">
+  <p class="hp-testimonial">I can't say enough about Valley Solar. From the initial estimate, to the courteous and capable installation team, to the great help from the office team to get everything filed with the state and town for my rebates and always checking in on how things were going. They were all  OUTSTANDING!   <span class="testimonial-sig"> - Valerie Young</span> 
+  </p>
+  </blockquote>
+</div>
+  
+</div>
+<div class="rsContent">
+  
+  
+  <div id="slide8">
+  <blockquote class="blockquote">
+  <p class="hp-testimonial">This has been the best experience possible. Your people, without exception, are the nicest most competent people I have ever dealt with. Thank you all.<span class="testimonial-sig"> - Larry Gadd</span>
+   </p>
+  </blockquote>
+</div>
+  
+</div>
+
+</div>
+</div>
+</div>
+<div class="circle-image-text container">
+<div class="circle-image-text__image-wrap">
+<figure class="circle-image-text__figure">
+<img class="circle-image-text__image lazyload" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/cea-report-cover.jpg" data-srcset="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/reports.jpg">
+</figure>
+</div>
+<div class="circle-image-text__content">
+            <h3 class="h3 circle-image-text__header">EXPLORE YOUR SAVINGS</h3>
+                      <p class="circle-image-text__text"><p>Use our Solar Savings Calculator for an estimate of the savings with a Valley Solar installation.<br class="none" /><br class="none" /><a class="btn" href="/solar-investment-calculator/">SOLAR SAVINGS CALCULATOR</a></p>
+</p>
+</div>
+</div>
+
+</div>
+
+<div class="newsletter-signup">
+<div class="container">
+
+<a href="https://valleysolar.solar/get-easy-quote/" class="newsletter-signup__content">
+<h2 class="h3 newsletter-signup__title">Request a free consultation</h2>
+<p class="newsletter-signup__body">Contact us for your no obligation <strong>Easy Quote</strong> and get started with Valley Solar today!</p>
+<div class="newsletter-signup__icons">
+<img class="newsletter-signup__icon" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/chevron.svg" alt="">
+<img class="newsletter-signup__icon" src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/chevron.svg" alt="">
+</div>
+</a>
+</div>
+</div>
+</div>
+<footer class="footer lazyload" style="background-image: url('https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vsfooter_herodk.jpg')" data-bgset="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/vsfooter_herodk.jpg">
+<div class="footer__content container">
+<img src="https://valleysolar.solar/vsolar2020/wp-content/themes/valleysolar/images/valley_solar_footer.png" class="footer__graphic">
+<div class="footer__credit-wrap">
+<p class="footer__credit-description">Valley Solar has an ever expanding number of<br />solar installations in Massachusetts</p>
+<a class="footer__credit-link arrowlink text--white" href="https://valleysolar.solar/our-installations/">
+Learn more
+<svg class="icon ">
+<use xlink:href="#arrow-right"></use>
+</svg>
+</a>
+</div>
+<ul class="footer__social-wrap">
+<li>
+<a href="https://www.yelp.com/biz/valley-solar-northampton-2" class="iconlink iconlink--clear gtm-click-social" data-category="Yelp" target="_blank" rel="noopener" title="Valley Solar on Yelp">
+<svg class="icon ">
+<use xlink:href="#yelp"></use>
+</svg>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/ValleySolarLLC" class="iconlink iconlink--clear gtm-click-social" data-category="Facebook" target="_blank" rel="noopener" title="Valley Solar on Facebook">
+<svg class="icon ">
+<use xlink:href="#facebook"></use>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<div class="footer__lower">
+<div class="container">
+	<ul class="foot-links">
+		    <li class="foot-link-items">
+			    <a href="https://valleysolar.solar/privacy-policy/">Privacy</a>
+			</li>
+			<li class="foot-link-items">
+			    MA HIC# 186338 | MA EC# 664A1
+			</li>
+            <li class="foot-link-items bbb-link">
+                <a target="_blank" id="bbblink" class="ruhzbul" href="https://www.bbb.org/us/ma/northampton/profile/solar-energy-contractors/valley-solar-llc-0261-322540#bbbseal" title="Valley Solar, LLC is a BBB Accredited Solar Energy Contractor in Northampton, MA" style="display: block;position: relative;overflow: hidden; width: 200px; height: 90px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-central-westernma.bbb.org/logo/ruhzbul/valley-solar-322540.png" width="400" height="90" alt="Valley Solar, LLC is a BBB Accredited Solar Energy Contractor in Northampton, MA"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); (function(){var s=document.createElement('script');s.src=bbbprotocol + 'seal-central-westernma.bbb.org' + unescape('%2Flogo%2Fvalley-solar-322540.js');s.type='text/javascript';s.async=true;var st=document.getElementsByTagName('script');st=st[st.length-1];var pt=st.parentNode;pt.insertBefore(s,pt.nextSibling);})();</script>
+</li>
+
+<style type="text/css">
+li.foot-link-items.bbb-link {
+    margin-top: 10px;
+}
+</style>
+     </ul>
+<p class="footer-info">
+<span class="hide--palm"><a class="footer-mail" title="Email Valley Solar" href="mailto:info@valleysolar.solar">info@valleysolar.solar</a> | 116 Pleasant Street Suite 321, Easthampton MA 01027 <br /> &copy; Valley Solar 2023 | Photos + Film By: <a href="https://chodosinc.com" target="_blank">chodosinc.com</a> | Site by: <a href="https://blueturtlesdigital.com/" target="_blank">Blueturtle Digital</a></span>
+<span class="hide--lap-and-up">Valley Solar</span></p>
+</div>
+<a class="footer__btt" href="#top">
+Back to Top
+<svg class="icon ">
+<use xlink:href="#arrow-up"></use>
+</svg>
+</a>
+</div>
+</footer>
+
+<script type='text/javascript' id='ga_appointments_calendar_script-js-extra'>
+/* <![CDATA[ */
+var ga_calendar_services_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+var ga_calendar_providers_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+var ga_calendar_next_month_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+var ga_calendar_prev_month_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+var ga_calendar_time_slots_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+var ga_update_appointment_status_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+var ga_get_calendar_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+var ga_user_set_appointment_pending_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-content/plugins/gAppointments/assets/main.js?ver=1.2.6' id='ga_appointments_calendar_script-js'></script>
+<script type='text/javascript' id='ga_appointments_schedule_script-js-extra'>
+/* <![CDATA[ */
+var ga_calendar_schedule_obj = {"ajax_url":"https:\/\/valleysolar.solar\/vsolar2020\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-content/plugins/gAppointments/assets/schedule.js?ver=1.2.6' id='ga_appointments_schedule_script-js'></script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-includes/js/comment-reply.min.js?ver=6.3' id='comment-reply-js'></script>
+<script id="heateor_sss_sharing_js-js-before" type="text/javascript">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://valleysolar.solar/vsolar2020/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://valleysolar.solar/vsolar2020/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://valleysolar.solar/vsolar2020/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.52' id='heateor_sss_sharing_js-js'></script>
+<script type='text/javascript' src='https://valleysolar.solar/vsolar2020/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js?ver=3.4.0' id='new-royalslider-main-js-js'></script>
+<script id="new-royalslider-init-code" type="text/javascript">
+jQuery(document).ready(function($) {
+	$('.new-royalslider-1').royalSlider({template:'default',image_generation:{imageWidth:'',imageHeight:'',thumbImageWidth:'',thumbImageHeight:''},thumbs:{thumbWidth:96,thumbHeight:72},autoPlay:{enabled:!0,delay:5060},video:[],block:{moveOffset:20,speed:400,delay:200},width:'100%',height:'250px',controlNavigation:'none',loop:!0});
+});
+</script>
+
+
+<!-- Begin TVSquared Tracking Code -->
+<script type="text/javascript">
+ var _tvq = window._tvq = window._tvq || [];
+ (function() {
+ var u = (("https:" == document.location.protocol) ?
+ "https://collector-20115.tvsquared.com/"
+ :
+ "http://collector-20115.tvsquared.com/"
+ );
+ _tvq.push(['setSiteId', "TV-7290818145-1"]);
+ _tvq.push(['setTrackerUrl', u + 'tv2track.php']);
+ _tvq.push([function() {
+ this.deleteCustomVariable(5, 'page')
+ }]);
+ _tvq.push(['trackPageView']);
+ var d = document,
+ g = d.createElement('script'),
+ s = d.getElementsByTagName('script')[0];
+ g.type = 'text/javascript';
+ g.defer = true;
+ g.async = true;
+ g.src = u + 'tv2track.js';
+ s.parentNode.insertBefore(g, s);
+ })();
+</script>
+
+</body>
+</html>
